@@ -1,0 +1,3 @@
+使用Maven进行工程管理，部署方法已经在codes/README.md中进行说明
+
+目前共爬取到1000+数据，已经完成索引，结果请见codes/resource文件夹

@@ -1,0 +1,10 @@
+README: These data can be input into the .exe file. Then you will get the summary.
+////////////////////////////////////////////////////////////////////////////////////////
+K.Weng English 95 Chinese 100 Math 90 Physics 95 History 80 0 
+T.Dixon Chinese 70 Math 90 Physics 95 Chem 85 0 
+V.Chu CS 95 Chinese 75 Math 80 Physics 90 History 80 Biology 100 0  
+L.Tson Physics 75 History 60 English 55 Chinese 100 Math 86 0    
+L.Lee Chinese 70 0
+T.Monk Animal 100 0
+0      
+////////////////////////////////////////////////////////////////////////////////////////

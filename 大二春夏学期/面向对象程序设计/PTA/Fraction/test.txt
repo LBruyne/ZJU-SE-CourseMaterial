@@ -1,0 +1,51 @@
+test for 1£¬2£¬3£¬6£¬7£¬9 has been designed. just run the .exe file.
+
+type cast convert to double like 1/3: 0.333333
+type cast convert to string like 1/3: 0.333333
+ctor default: Default ctor is built! nan
+ctor takes one integers as parameters like 12: 12
+ctor takes two integers as parameters like 1, 3: 1/3
+ctor as copying: 1/3
+conversion from a finite decimal string like 1.414: 707/500other test for
+
+============================================
+other test can be input and result can be seen throughly.
+
+eg: 2/3 9/7
+The sum is: 41/21
+The diff is: -13/21
+The division is: 14/27
+The product is: 6/7
+The result of < is: 1
+The result of <= is: 1
+The result of > is: 0
+The result of >= is: 0
+The result of != is: 1
+The result of == is: 0
+
+eg: 0/1 1/0
+There is a fraction using 0 as the denomeinter
+
+eg: -10/7 9/8
+The sum is: -17/56
+The diff is: -143/56
+The division is: -80/63
+The product is: -45/28
+The result of < is: 1
+The result of <= is: 1
+The result of > is: 0
+The result of >= is: 0
+The result of != is: 1
+The result of == is: 0
+
+eg: 10/7 -12/5
+The sum is: -34/35
+The diff is: 134/35
+The division is: -25/42
+The product is: -24/7
+The result of < is: 0
+The result of <= is: 0
+The result of > is: 1
+The result of >= is: 1
+The result of != is: 1
+The result of == is: 0

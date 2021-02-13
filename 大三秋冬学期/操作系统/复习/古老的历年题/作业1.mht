@@ -1,0 +1,4445 @@
+From: =?gb2312?B?08kgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA5ILGjtOY=?=
+Subject: Online Homework Assessment
+Date: Fri, 6 Jan 2012 12:16:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0013_01CCCC6C.F638BEB0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+
+这是 MIME 格式的多方邮件。
+
+------=_NextPart_000_0013_01CCCC6C.F638BEB0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://os.zju.edu.cn/exercise/assessment/printtest.php
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD>
+<TITLE>Online Homework Assessment</TITLE>
+<META content=3D"text/html; charset=3Dutf-8" =
+http-equiv=3D"Content-Type">
+<SCRIPT type=3D"text/javascript">=0A=
+function init() {=0A=
+	for (var i=3D0; i<initstack.length; i++) {=0A=
+		var foo =3D initstack[i]();=0A=
+	}=0A=
+}=0A=
+initstack =3D new Array();=0A=
+window.onload =3D init;=0A=
+</SCRIPT>
+<LINK rel=3D"stylesheet" type=3D"text/css" =
+href=3D"http://os.zju.edu.cn/exercise/assessment/mathtest.css">
+<LINK rel=3D"stylesheet" type=3D"text/css" =
+href=3D"http://os.zju.edu.cn/exercise/assessment/print.css"=20
+media=3D"print">
+<SCRIPT type=3D"text/javascript">var AMTcgiloc =3D =
+"http://www.imathas.com/cgi-bin/mimetex.cgi";</SCRIPT>
+
+<SCRIPT type=3D"text/javascript" =
+src=3D"http://os.zju.edu.cn/exercise/javascript/ASCIIMathTeXImg.js"></SCR=
+IPT>
+
+<SCRIPT type=3D"text/javascript" =
+src=3D"http://os.zju.edu.cn/exercise/javascript/mathjs.js"></SCRIPT>
+
+<SCRIPT type=3D"text/javascript" =
+src=3D"http://os.zju.edu.cn/exercise/javascript/AMhelpers.js"></SCRIPT>
+
+<SCRIPT type=3D"text/javascript" =
+src=3D"http://os.zju.edu.cn/exercise/javascript/confirmsubmit.js"></SCRIP=
+T>
+<!--[if IE]>
+<SCRIPT type=3D"text/javascript" =
+src=3D"http://os.zju.edu.cn/exercise/javascript/excanvas.js"></SCRIPT>
+<![endif]-->
+<SCRIPT =
+src=3D"http://os.zju.edu.cn/exercise/javascript/drawing.js"></SCRIPT>
+
+<SCRIPT type=3D"text/javascript">imasroot =3D '/exercise';</SCRIPT>
+
+<SCRIPT>var editornames =3D new Array(); function initEditor() { =
+};</SCRIPT>
+
+<META name=3D"GENERATOR" content=3D"MSHTML 9.00.8112.16440"></HEAD>
+<BODY>
+<DIV class=3D"main">
+<STYLE type=3D"text/css">p.tips {	display: none;}=0A=
+ input.btn {display: none;}=0A=
+ textarea {display: none;}=0A=
+</STYLE>
+
+<H4 style=3D"float: right;">Name: =E5=BC=A0 =E8=BE=BE=E8=B4=AF </H4>
+<H3>=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E5=88=86=E6=9E=90=E5=8F=8A=E5=AE=
+=9E=E9=AA=8C=E7=BB=83=E4=B9=A0=E9=A2=981</H3>
+<DIV class=3D"breadcrumb">Print Ready Version</DIV>
+<DIV class=3D"intro">
+<P>Enter intro/instructions</P></DIV>
+<DIV>#1 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV> =
+Linux=E7=8E=AF=E5=A2=83=E4=B8=AD=EF=BC=8C=E4=BD=BF=E7=94=A8=E5=91=BD=E4=BB=
+=A4=E2=80=9Dgcc =
+test.c=E2=80=9D=E7=BC=96=E8=AF=91=E7=94=9F=E6=88=90=E7=9A=84=E5=8F=AF=E6=89=
+=A7=E8=A1=8C=E6=96=87=E4=BB=B6=EF=BC=8C=E5=85=B6=E7=BC=BA=E7=9C=81=E5=90=8D=
+=E5=AD=97=E4=B8=BA________=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn0" value=3D"0" CHECKED=3D"" =
+type=3D"radio">a.out</LI>
+  <LI><INPUT name=3D"qn0" value=3D"1" type=3D"radio">test </LI>
+  <LI><INPUT name=3D"qn0" value=3D"2" type=3D"radio">test.exe </LI>
+  <LI><INPUT name=3D"qn0" value=3D"3" type=3D"radio">test.com =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#2 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>Linux=E7=9A=84exec()________</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn1" value=3D"0" =
+type=3D"radio">=E6=98=AF=E4=B8=AA=E6=99=AE=E9=80=9A=E7=9A=84C=E8=AF=AD=E8=
+=A8=80=E5=87=BD=E6=95=B0=E8=B0=83=E7=94=A8=EF=BC=8C=E7=94=A8=E6=9D=A5=E8=A3=
+=85=E5=85=A5=E4=B8=80=E4=B8=AA=E6=8C=87=E5=AE=9A=E7=9A=84=E5=8F=AF=E6=89=A7=
+=E8=A1=8C=E6=96=87=E4=BB=B6=E3=80=82</LI>
+  <LI><INPUT name=3D"qn1" value=3D"1" CHECKED=3D""=20
+  =
+type=3D"radio">=E6=98=AF=E4=B8=AA=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E7=9A=
+=84=E7=B3=BB=E7=BB=9F=E8=B0=83=E7=94=A8=EF=BC=8C=E5=AE=83=E5=8F=AF=E4=BB=A5=
+=E8=A3=85=E5=85=A5=E4=B8=80=E4=B8=AA=E6=8C=87=E5=AE=9A=E7=9A=84=E5=8F=AF=E6=
+=89=A7=E8=A1=8C=E6=96=87=E4=BB=B6=E3=80=82</LI>
+  <LI><INPUT name=3D"qn1" value=3D"2"=20
+  =
+type=3D"radio">=E6=98=AF=E4=B8=AA=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E7=9A=
+=84=E7=B3=BB=E7=BB=9F=E8=B0=83=E7=94=A8=EF=BC=8C=E5=AE=83=E5=88=9B=E5=BB=BA=
+=E4=B8=80=E4=B8=AA=E5=AD=90=E8=BF=9B=E7=A8=8B=E5=B9=B6=E4=B8=94=E6=89=A7=E8=
+=A1=8C=E4=B8=80=E4=B8=AA=E6=8C=87=E5=AE=9A=E7=9A=84=E7=A8=8B=E5=BA=8F=E3=80=
+=82</LI>
+  <LI><INPUT name=3D"qn1" value=3D"3" type=3D"radio"> =
+=E4=B8=8E=E5=90=8E=E6=9D=A5=E5=87=BA=E7=8E=B0=E7=9A=84=E7=B3=BB=E7=BB=9F=E8=
+=B0=83=E7=94=A8system()=E4=B8=80=E6=A0=B7=E3=80=82</LI></UL>
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#3 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>Linux=E6=8A=8A=E5=A4=96=E9=83=A8=E8=AE=BE=E5=A4=87=E5=88=92=E5=88=86=
+=E4=B8=BA=E5=AD=97=E7=AC=A6=E8=AE=BE=E5=A4=87=E3=80=81=E5=9D=97=E8=AE=BE=E5=
+=A4=87=E5=92=8C=E7=BD=91=E7=BB=9C=E8=AE=BE=E5=A4=87=E3=80=82=E5=85=B6=E4=B8=
+=AD=EF=BC=8C________=E5=B1=9E=E4=BA=8E=E5=9D=97=E8=AE=BE=E5=A4=87=E3=80=82=
+</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn2" value=3D"0" =
+type=3D"radio">=E4=B8=B2=E8=A1=8C=E5=8F=A3 </LI>
+  <LI><INPUT name=3D"qn2" value=3D"1" =
+type=3D"radio">=E5=9B=BE=E5=BD=A2=E7=BB=88=E7=AB=AF </LI>
+  <LI><INPUT name=3D"qn2" value=3D"2" CHECKED=3D"" =
+type=3D"radio">IDE=E7=A1=AC=E7=9B=98 </LI>
+  <LI><INPUT name=3D"qn2" value=3D"3" =
+type=3D"radio">=E6=89=93=E5=8D=B0=E6=9C=BA </LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#4 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E5=9C=A8Linux=E4=B8=AD=EF=BC=8Cshell=E5=91=BD=E4=BB=A4________=E5=8F=
+=AF=E4=BB=A5=E9=80=90=E9=A1=B5=E6=98=BE=E7=A4=BA=E6=96=87=E4=BB=B6=E5=86=85=
+=E5=AE=B9=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn3" value=3D"0" type=3D"radio">tail  </LI>
+  <LI><INPUT name=3D"qn3" value=3D"1" type=3D"radio">cat </LI>
+  <LI><INPUT name=3D"qn3" value=3D"2" CHECKED=3D"" type=3D"radio">less =
+</LI>
+  <LI><INPUT name=3D"qn3" value=3D"3" type=3D"radio">grep =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#5 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>shell=E5=91=BD=E4=BB=A4________=E6=9B=B4=E6=94=B9=E4=B8=80=E4=B8=AA=E6=
+=96=87=E4=BB=B6=E7=9A=84=E8=AE=BF=E9=97=AE=E6=9D=83=E9=99=90=E3=80=82</DI=
+V>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn4" value=3D"0" type=3D"radio">attrib </LI>
+  <LI><INPUT name=3D"qn4" value=3D"1" type=3D"radio">change </LI>
+  <LI><INPUT name=3D"qn4" value=3D"2" CHECKED=3D"" type=3D"radio">chmod =
+</LI>
+  <LI><INPUT name=3D"qn4" value=3D"3" =
+type=3D"radio">file</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#6 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>Linux=E7=9A=84=E5=90=8E=E5=8F=B0=E5=B8=B8=E9=A9=BB=E7=A8=8B=E5=BA=8F=
+ (daemon=EF=BC=8C=E4=B9=9F=E7=A7=B0=E5=AE=88=E6=8A=A4=E8=BF=9B=E7=A8=8B) =
+________=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn5" value=3D"0" =
+type=3D"radio">=E8=B4=9F=E8=B4=A3=E6=96=87=E4=BB=B6=E5=9C=A8=E7=BD=91=E7=BB=
+=9C=E7=8E=AF=E5=A2=83=E4=B8=AD=E7=9A=84=E5=85=B1=E4=BA=AB </LI>
+  <LI><INPUT name=3D"qn5" value=3D"1" =
+type=3D"radio">=E7=AE=A1=E7=90=86=E6=89=93=E5=8D=B0=E5=AD=90=E7=B3=BB=E7=BB=
+=9F </LI>
+  <LI><INPUT name=3D"qn5" value=3D"2" =
+type=3D"radio">=E7=AE=A1=E7=90=86Internet=E5=BA=94=E7=94=A8=E6=9C=8D=E5=8A=
+=A1=EF=BC=8C=E5=A6=82ftp=E3=80=81dns=E7=AD=89 </LI>
+  <LI><INPUT name=3D"qn5" value=3D"3" CHECKED=3D"" =
+type=3D"radio">=E5=8F=AF=E4=BB=A5=E5=81=9A=E4=B8=8A=E8=BF=B0=E6=89=80=E6=9C=
+=89=E4=BB=BB=E5=8A=A1=EF=BC=8C=E5=8F=AA=E4=B8=8D=E8=BF=87=E5=B8=B8=E9=A9=BB=
+=E5=90=8E=E5=8F=B0=20
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#7 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E5=9C=A8bash=E4=B8=AD=EF=BC=8Cexport=E5=91=BD=E4=BB=A4=E7=9A=84=E4=BD=
+=9C=E7=94=A8=E6=98=AF=EF=BC=9A________=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn6" value=3D"0" =
+type=3D"radio">=E5=9C=A8=E5=AD=90shell=E4=B8=AD=E8=BF=90=E8=A1=8C=E6=AD=A4=
+=E6=9D=A1=E5=91=BD=E4=BB=A4 </LI>
+  <LI><INPUT name=3D"qn6" value=3D"1" =
+type=3D"radio">=E5=9C=A8=E5=AD=90shell=E4=B8=AD=E5=8F=AF=E4=BB=A5=E4=BD=BF=
+=E7=94=A8=E5=91=BD=E4=BB=A4=E5=8E=86=E5=8F=B2=E8=AE=B0=E5=BD=95 </LI>
+  <LI><INPUT name=3D"qn6" value=3D"2" =
+type=3D"radio">=E6=8F=90=E4=BE=9BNFS=E5=88=86=E5=8C=BA=E7=BB=99=E7=BD=91=E7=
+=BB=9C=E4=B8=AD=E7=9A=84=E5=85=B6=E5=AE=83=E7=B3=BB=E7=BB=9F=E4=BD=BF=E7=94=
+=A8 </LI>
+  <LI><INPUT name=3D"qn6" value=3D"3" CHECKED=3D"" =
+type=3D"radio">=E4=B8=BA=E5=90=8E=E7=BB=AD=E5=BA=94=E7=94=A8=E7=A8=8B=E5=BA=
+=8F=E8=AE=BE=E7=BD=AE=E7=8E=AF=E5=A2=83=E5=8F=98=E9=87=8F</LI></UL>
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#8 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=B8=BA=E4=BA=86=E4=BB=8E=E5=BD=93=E5=89=8D=E7=B3=BB=E7=BB=9F=E4=B8=
+=AD=E5=8D=B8=E8=BD=BD=E4=B8=80=E4=B8=AA=E5=B7=B2=E8=A3=85=E8=BD=BD=E7=9A=84=
+=E6=96=87=E4=BB=B6=E7=B3=BB=E7=BB=9F=EF=BC=8C=E5=8F=AA=E9=A1=BB________=E3=
+=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn7" value=3D"0" =
+type=3D"radio">=E4=BB=8E/etc/fstab=E4=B8=AD=E5=88=A0=E9=99=A4=E8=BF=99=E4=
+=B8=AA=E6=96=87=E4=BB=B6=E7=B3=BB=E7=BB=9F </LI>
+  <LI><INPUT name=3D"qn7" value=3D"1" =
+type=3D"radio">=E7=94=A8=E5=91=BD=E4=BB=A4dismount </LI>
+  <LI><INPUT name=3D"qn7" value=3D"2" =
+type=3D"radio">=E7=94=A8=E5=91=BD=E4=BB=A4mount =E2=80=93u </LI>
+  <LI><INPUT name=3D"qn7" value=3D"3" CHECKED=3D"" =
+type=3D"radio">=E7=94=A8=E5=91=BD=E4=BB=A4umount </LI></UL>
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#9 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E5=A6=82=E6=9E=9C=E4=BD=A0=E7=9A=84umask=E8=AE=BE=E7=BD=AE=E4=B8=BA=
+022=EF=BC=8C=E9=82=A3=E4=B9=88=E7=BC=BA=E7=9C=81=E6=83=85=E5=86=B5=E4=B8=8B=
+=EF=BC=8C=E4=BD=A0=E5=88=9B=E5=BB=BA=E7=9A=84=E6=96=87=E6=9C=AC=E6=96=87=E4=
+=BB=B6=E7=9A=84=E6=9D=83=E9=99=90=E4=B8=BA________=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn8" value=3D"0" type=3D"radio">----w--w- </LI>
+  <LI><INPUT name=3D"qn8" value=3D"1" type=3D"radio">-w--w---- </LI>
+  <LI><INPUT name=3D"qn8" value=3D"2" type=3D"radio">r-xr-x--- </LI>
+  <LI><INPUT name=3D"qn8" value=3D"3" CHECKED=3D"" =
+type=3D"radio">rw-r--r--</LI></UL>
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#10 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E5=AE=89=E8=A3=85=E6=89=80=E6=9C=89=E5=9C=A8 /etc/fstab =
+=E4=B8=AD=E5=AE=9A=E4=B9=89=E7=9A=84=E6=96=87=E4=BB=B6=E7=B3=BB=E7=BB=9F=EF=
+=BC=8C=E7=94=A8________=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn9" value=3D"0" type=3D"radio">amount </LI>
+  <LI><INPUT name=3D"qn9" value=3D"1" type=3D"radio">fsmount </LI>
+  <LI><INPUT name=3D"qn9" value=3D"2" CHECKED=3D"" type=3D"radio">mount  =
+=E2=80=93a </LI>
+  <LI><INPUT name=3D"qn9" value=3D"3" type=3D"radio">mount  =
+=E2=80=93f</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#11 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>Linux=E7=94=A8________=E6=A0=87=E8=AF=86=E6=8E=A5=E5=9C=A8IDE0=E4=B8=
+=8A=E7=9A=84slave=E7=A1=AC=E7=9B=98=E7=9A=84=E7=AC=AC2=E4=B8=AA=E6=89=A9=E5=
+=B1=95=E5=88=86=E5=8C=BA=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn10" value=3D"0" type=3D"radio">/dev/hd0s2</LI>
+  <LI><INPUT name=3D"qn10" value=3D"1" type=3D"radio">/dev/sd1b2</LI>
+  <LI><INPUT name=3D"qn10" value=3D"2" type=3D"radio">/dev/sdb2</LI>
+  <LI><INPUT name=3D"qn10" value=3D"3" CHECKED=3D"" =
+type=3D"radio">/dev/hdb2</LI></UL>
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#12 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E7=94=A8________=E5=91=BD=E4=BB=A4=E5=8F=AF=E4=BB=A5=E5=BF=AB=E9=80=
+=9F=E5=9B=9E=E5=88=B0=E7=94=A8=E6=88=B7John=E7=9A=84=E5=AE=B6=E7=9B=AE=E5=
+=BD=95=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn11" value=3D"0" type=3D"radio">cd  @John        =
+</LI>
+  <LI><INPUT name=3D"qn11" value=3D"1" type=3D"radio">cd  #John        =
+</LI>
+  <LI><INPUT name=3D"qn11" value=3D"2" type=3D"radio">cd  &amp;John      =
+  </LI>
+  <LI><INPUT name=3D"qn11" value=3D"3" CHECKED=3D"" type=3D"radio">cd  =
+~John</LI></UL>
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#13 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=BB=A5=E4=B8=8B=E5=85=B3Linux=E7=9A=84=E5=8F=99=E8=BF=B0, =
+=E4=B8=8D=E6=AD=A3=E7=A1=AE=E7=9A=84=E6=98=AF=EF=BC=9F</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn12" value=3D"0" type=3D"radio">Linux =
+=E6=98=AF=E4=B8=80=E4=B8=AA=E5=8F=AF=E4=BE=9B=E5=A4=9A=E4=BA=BA=E4=BD=BF=E7=
+=94=A8=E7=9A=84=E6=8A=A2=E5=8D=A0=E5=BC=8F=E5=A4=9A=E4=BB=BB=E5=8A=A1=E6=93=
+=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E3=80=82=20
+</LI>
+  <LI><INPUT name=3D"qn12" value=3D"1" CHECKED=3D"" =
+type=3D"radio">Windows =
+=E7=9A=84=E7=A8=8B=E5=BA=8F=E5=8F=AF=E4=BB=A5=E5=9C=A8 Linux=20
+  =E8=BF=90=E8=A1=8C, =
+=E6=89=80=E4=BB=A5=E6=9C=89=E5=BE=88=E5=A4=9A=E7=9A=84=E5=BA=94=E7=94=A8=E7=
+=A8=8B=E5=BA=8F=E5=8F=AF=E4=BE=9B=E9=80=89=E6=8B=A9=E3=80=82 </LI>
+  <LI><INPUT name=3D"qn12" value=3D"2" type=3D"radio">Linux =
+=E7=B3=BB=E7=BB=9F=E5=86=85=E6=A0=B8=E6=98=AF=E7=94=B1 Linus Torvalds=20
+  =E8=B4=9F=E8=B4=A3=E7=BB=B4=E6=8A=A4=E7=9A=84=E3=80=82 </LI>
+  <LI><INPUT name=3D"qn12" value=3D"3" type=3D"radio">Linux =
+=E5=85=B7=E6=9C=89=E5=AE=8C=E5=A4=87=E7=9A=84=E7=BD=91=E7=BB=9C=E8=83=BD=E5=
+=8A=9B=E3=80=82</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#14 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>shell=E6=98=AFLinux=E7=9A=84=E5=91=BD=E4=BB=A4=E8=A7=A3=E9=87=8A=E5=99=
+=A8=E3=80=82=E4=BB=A5=E4=B8=8B=E5=85=B3=E4=BA=8Eshell=E7=9A=84=E8=AF=B4=E6=
+=B3=95=E4=B8=AD=EF=BC=8C ________=E6=98=AF=E9=94=99=E8=AF=AF=E7=9A=84 =
+=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn13" value=3D"0" CHECKED=3D"" =
+type=3D"radio">command.com=E6=98=AF=E4=B8=80=E7=A7=8DLINUX=20
+  shell </LI>
+  <LI><INPUT name=3D"qn13" value=3D"1" type=3D"radio">C =
+shell=E6=98=AF=E4=B8=80=E7=A7=8DLINUX shell </LI>
+  <LI><INPUT name=3D"qn13" value=3D"2" type=3D"radio">TC =
+shell=E6=98=AF=E4=B8=80=E7=A7=8DLINUX shell </LI>
+  <LI><INPUT name=3D"qn13" value=3D"3" type=3D"radio">Korn =
+shell=E6=98=AF=E4=B8=80=E7=A7=8DLINUX shell=20
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#15 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E5=91=BD=E4=BB=A4chmod =3Dr =
+sample=E5=AE=9E=E7=8E=B0=E5=91=BD=E4=BB=A4________=E7=9A=84=E6=95=88=E6=9E=
+=9C=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn14" value=3D"0" type=3D"radio">chmod 004 sample =
+</LI>
+  <LI><INPUT name=3D"qn14" value=3D"1" type=3D"radio">chmod 444 sample =
+</LI>
+  <LI><INPUT name=3D"qn14" value=3D"2" CHECKED=3D"" type=3D"radio">chmod =
+040 sample=20
+</LI>
+  <LI><INPUT name=3D"qn14" value=3D"3" type=3D"radio">chmod 400 =
+sample</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#16 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E7=9B=AE=E5=89=8DLinux=E5=86=85=E6=A0=B8=E7=A8=B3=E5=AE=9A=E7=9A=84=
+=E5=8F=91=E8=A1=8C=E7=89=88=E6=9C=AC=E7=BC=96=E5=8F=B7=E6=98=AF________ =
+=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn15" value=3D"0" type=3D"radio">ubuntu 10.10 </LI>
+  <LI><INPUT name=3D"qn15" value=3D"1" CHECKED=3D"" =
+type=3D"radio">2.6.39 </LI>
+  <LI><INPUT name=3D"qn15" value=3D"2" type=3D"radio">2.6.15 </LI>
+  <LI><INPUT name=3D"qn15" value=3D"3" type=3D"radio">fedora 14 =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#17 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=BD=BF=E7=94=A8________=EF=BC=8C=E4=B8=8D=E8=83=BD=E6=98=BE=E7=A4=
+=BA=E4=BD=A0=E7=9A=84=E4=B8=BB=E7=9B=AE=E5=BD=95=E7=9A=84=E7=BB=9D=E5=AF=B9=
+=E8=B7=AF=E5=BE=84=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn16" value=3D"0" CHECKED=3D"" =
+type=3D"radio">=E6=98=BE=E7=A4=BA/etc/passwd=E7=9A=84=E5=86=85=E5=AE=B9=20
+</LI>
+  <LI><INPUT name=3D"qn16" value=3D"1" =
+type=3D"radio">=E4=BD=BF=E7=94=A8cd=E5=91=BD=E4=BB=A4=E6=9F=A5=E7=9C=8B=E6=
+=8F=90=E7=A4=BA=E7=AC=A6</LI>
+  <LI><INPUT name=3D"qn16" value=3D"2" =
+type=3D"radio">=E6=9F=A5=E7=9C=8B=E7=8E=AF=E5=A2=83=E5=8F=98=E9=87=8F$PAT=
+H </LI>
+  <LI><INPUT name=3D"qn16" value=3D"3" type=3D"radio">echo  =
+$HOME</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#18 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>
+=E5=91=BD=E4=BB=A4________=E6=98=BE=E7=A4=BA=E5=BD=93=E5=89=8D=E7=9B=AE=E5=
+=BD=95=E4=B8=8B=E6=96=87=E4=BB=B6=E5=90=8D=E6=BB=A1=E8=B6=B3=E5=A6=82=E4=B8=
+=8B=E6=9D=A1=E4=BB=B6=E7=9A=84=E6=89=80=E6=9C=89=E6=96=87=E4=BB=B6=E5=86=85=
+=E5=AE=B9=E7=9A=84=E7=B1=BB=E5=9E=8B=EF=BC=9A=E6=96=87=E4=BB=B6=E5=90=8D=E4=
+=BB=A5chapter=E5=BC=80=E5=A7=8B=EF=BC=8C=E5=90=8E=E9=9D=A2=E8=B7=9F=E7=9D=
+=80=E4=B8=80=E4=B8=AA=E6=95=B0=E5=AD=971=E3=80=812=E3=80=816=E3=80=818=E6=
+=88=969=EF=BC=8C=E4=BB=A5.eps=E7=BB=93=E5=B0=BE=E3=80=82
+</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn17" value=3D"0" type=3D"radio">ls =
+chapter[12689].eps </LI>
+  <LI><INPUT name=3D"qn17" value=3D"1" type=3D"radio"> ls =
+chapter[1-9].eps </LI>
+  <LI><INPUT name=3D"qn17" value=3D"2" type=3D"radio">file =
+chapter[1-9].eps    </LI>
+  <LI><INPUT name=3D"qn17" value=3D"3" CHECKED=3D"" type=3D"radio">file=20
+  chapter[12689].eps </LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#19 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E5=9C=A8bash =
+shell=E6=8F=90=E7=A4=BA=E7=AC=A6=E5=90=8E=EF=BC=8C=E9=94=AE=E5=85=A5set=E5=
+=B9=B6=E4=B8=94=E6=8C=89=E4=B8=8B<Enter>=E9=94=AE=E3=80=82=E7=B3=BB=E7=BB=
+=9F=E6=98=BE=E7=A4=BA________ =E3=80=82</Enter></DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn18" value=3D"0" =
+type=3D"radio">=E4=B8=80=E4=B8=AA=E5=B8=AE=E5=8A=A9=E7=95=8C=E9=9D=A2=EF=BC=
+=8C=E5=88=97=E5=87=BA=E4=BA=86shell=E5=B8=B8=E7=94=A8=E5=91=BD=E4=BB=A4 =
+</LI>
+  <LI><INPUT name=3D"qn18" value=3D"1" =
+type=3D"radio">set=E5=91=BD=E4=BB=A4=E5=BA=94=E8=AF=A5=E9=9A=8F=E5=B8=A6=E7=
+=9A=84=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0=E5=8F=8A=E5=85=B6=E6=84=8F=E4=B9=
+=89 </LI>
+  <LI><INPUT name=3D"qn18" value=3D"2" CHECKED=3D"" =
+type=3D"radio">=E7=8E=AF=E5=A2=83=E5=8F=98=E9=87=8F=E5=92=8C=E5=AE=83=E4=BB=
+=AC=E5=BD=93=E5=89=8D=E8=AE=BE=E7=BD=AE=E7=9A=84=E5=88=97=E8=A1=A8 </LI>
+  <LI><INPUT name=3D"qn18" value=3D"3" =
+type=3D"radio">shell=E7=9A=84=E5=87=BA=E9=94=99=E6=8F=90=E7=A4=BA=E4=BF=A1=
+=E6=81=AF=EF=BC=8C=E8=A1=A8=E7=A4=BAset=E5=91=BD=E4=BB=A4=E4=B8=8D=E5=AD=98=
+=E5=9C=A8 </LI></UL>
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#20 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>Linux=E7=BB=A7=E6=89=BF=E4=BA=86UNIX=E7=9A=84=E4=BC=A0=E7=BB=9F=EF=BC=
+=8C=E4=B9=9F=E6=8F=90=E4=BE=9B=E5=9C=A8=E7=BA=BF=E5=B8=AE=E5=8A=A9=E7=B3=BB=
+=E7=BB=9F=E3=80=82=E5=BD=93=E4=BD=A0=E4=BD=BF=E7=94=A8man =
+passwd=E6=97=B6=EF=BC=8C=E7=B3=BB=E7=BB=9F=E4=B8=8D=E4=BC=9A=E6=98=BE=E7=A4=
+=BA________ =E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn19" value=3D"0" =
+type=3D"radio">=E4=B8=8Epasswd=E5=91=BD=E4=BB=A4=E7=9B=B8=E5=85=B3=E7=9A=84=
+=E5=91=BD=E4=BB=A4 </LI>
+  <LI><INPUT name=3D"qn19" value=3D"1" =
+type=3D"radio">passwd=E5=91=BD=E4=BB=A4=E7=9A=84=E6=A0=BC=E5=BC=8F </LI>
+  <LI><INPUT name=3D"qn19" value=3D"2" =
+type=3D"radio">passwd=E5=91=BD=E4=BB=A4=E7=9A=84=E5=8F=82=E6=95=B0=E7=9A=84=
+=E6=84=8F=E4=B9=89 </LI>
+  <LI><INPUT name=3D"qn19" value=3D"3" CHECKED=3D"" =
+type=3D"radio">passwd=E5=91=BD=E4=BB=A4=E7=9A=84=E5=8E=86=E5=8F=B2 =
+</LI></UL>
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#21 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E5=9C=A8Linux=E7=B3=BB=E7=BB=9F=E4=B8=AD=EF=BC=8C=E5=9C=A8=E7=BC=96=
+=E8=AF=91=E5=86=85=E6=A0=B8=E6=88=90=E5=8A=9F=E5=90=8E=EF=BC=8C=E5=AE=89=E8=
+=A3=85=E5=86=85=E6=A0=B8=E6=96=87=E4=BB=B6=E7=9A=84=E5=91=BD=E4=BB=A4=E4=B8=
+=BA___ =E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn20" value=3D"0" type=3D"radio">install </LI>
+  <LI><INPUT name=3D"qn20" value=3D"1" type=3D"radio">make </LI>
+  <LI><INPUT name=3D"qn20" value=3D"2" type=3D"radio">./configure </LI>
+  <LI><INPUT name=3D"qn20" value=3D"3" CHECKED=3D"" type=3D"radio">make =
+install </LI></UL>
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#22 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=B8=8B=E9=9D=A2=E7=9A=84=E5=93=AA=E4=B8=80=E4=B8=AA=E4=B8=8D=E6=98=
+=AF=E6=A0=87=E5=87=86=E8=BE=93=E5=85=A5=E3=80=81=E6=A0=87=E5=87=86=E8=BE=93=
+=E5=87=BA=E5=92=8C=E6=A0=87=E5=87=86=E9=94=99=E8=AF=AF=E8=BE=93=E5=87=BA=E7=
+=9A=84=E6=96=87=E4=BB=B6=E6=8F=8F=E8=BF=B0=E7=AC=A6=EF=BC=9F</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn21" value=3D"0" type=3D"radio">0 </LI>
+  <LI><INPUT name=3D"qn21" value=3D"1" type=3D"radio">1 </LI>
+  <LI><INPUT name=3D"qn21" value=3D"2" type=3D"radio">2 </LI>
+  <LI><INPUT name=3D"qn21" value=3D"3" CHECKED=3D"" type=3D"radio">3 =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#23 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E6=9F=A5=E6=89=BE=E5=B9=B6=E6=98=BE=E7=A4=BA/var/log/message=E6=96=87=
+=E4=BB=B6=E4=B8=AD=E6=9C=89=E5=AD=97=E7=AC=A6=E4=B8=B2 ' hello ' =
+=E8=A1=8C=E7=9A=84=E5=91=BD=E4=BB=A4=E6=98=AF=EF=BC=9F</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn22" value=3D"0" CHECKED=3D"" type=3D"radio">cat  =
+/var/log/message=20
+  | grep 'hello'  </LI>
+  <LI><INPUT name=3D"qn22" value=3D"1" type=3D"radio">wc  =
+/var/log/message | grep '=20
+  hello ' </LI>
+  <LI><INPUT name=3D"qn22" value=3D"2" type=3D"radio">cat   'hello '  =
+/var/log/message=20
+  </LI>
+  <LI><INPUT name=3D"qn22" value=3D"3" type=3D"radio">cat  =
+/var/log/message | find '=20
+  hello ' </LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#24 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E6=98=BE=E7=A4=BA=E4=B8=80=E4=B8=AA=E6=96=87=E4=BB=B6=E6=9C=80=E5=90=
+=8E=E5=87=A0=E8=A1=8C=E7=9A=84=E5=91=BD=E4=BB=A4=E6=98=AF________.</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn23" value=3D"0" type=3D"radio">tac </LI>
+  <LI><INPUT name=3D"qn23" value=3D"1" CHECKED=3D"" type=3D"radio">tail =
+</LI>
+  <LI><INPUT name=3D"qn23" value=3D"2" type=3D"radio">rear </LI>
+  <LI><INPUT name=3D"qn23" value=3D"3" type=3D"radio">last =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#25 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=BD=A0=E5=9C=A8=E5=AE=89=E8=A3=85linux=E7=B3=BB=E7=BB=9F=E6=97=B6=
+=EF=BC=8CLinux=E9=BB=98=E8=AE=A4=E7=9A=84=E6=A0=B9=E6=96=87=E4=BB=B6=E7=B3=
+=BB=E7=BB=9F=E6=98=AF____=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn24" value=3D"0" type=3D"radio">vfat </LI>
+  <LI><INPUT name=3D"qn24" value=3D"1" CHECKED=3D"" type=3D"radio">ext4 =
+</LI>
+  <LI><INPUT name=3D"qn24" value=3D"2" type=3D"radio">ntfs </LI>
+  <LI><INPUT name=3D"qn24" value=3D"3" type=3D"radio">proc =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#26 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E5=9C=A8linux=E7=B3=BB=E7=BB=9F=E4=B8=AD=EF=BC=8C=E7=94=A8=E4=BA=8E=
+=E6=98=BE=E7=A4=BA=E5=BD=93=E5=89=8D=E7=9B=AE=E5=BD=95=E8=B7=AF=E5=BE=84=E5=
+=90=8D=E7=9A=84=E5=91=BD=E4=BB=A4=E6=98=AF_____=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn25" value=3D"0" type=3D"radio">cd </LI>
+  <LI><INPUT name=3D"qn25" value=3D"1" CHECKED=3D"" type=3D"radio">pwd =
+</LI>
+  <LI><INPUT name=3D"qn25" value=3D"2" type=3D"radio">ps </LI>
+  <LI><INPUT name=3D"qn25" value=3D"3" type=3D"radio">ls =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#27 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=B8=8B=EF=A6=9C=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E4=B8=AD=EF=BC=
+=8C=E5=93=AA=E4=B8=80=E4=B8=AA=E8=80=85=EF=A5=A7=E6=98=AF=E7=B1=BBUnix=EF=
+=BC=88Unix-Like=EF=BC=89=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=EF=BC=9F =
+</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn26" value=3D"0" CHECKED=3D"" =
+type=3D"radio">Microsoft Windows 7=20
+  </LI>
+  <LI><INPUT name=3D"qn26" value=3D"1" type=3D"radio">Open Solaris </LI>
+  <LI><INPUT name=3D"qn26" value=3D"2" type=3D"radio">FreeBSD </LI>
+  <LI><INPUT name=3D"qn26" value=3D"3" type=3D"radio">Linux =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#28 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>POSIX=E6=A0=87=E5=87=86=E7=9A=84Pthread=E5=BA=93=E4=B8=BA=E7=BA=BF=E7=
+=A8=8B=E5=88=9B=E5=BB=BA=E5=92=8C=E5=90=8C=E6=AD=A5=E5=AE=9A=E4=B9=89=E4=BA=
+=86API=EF=BC=8C=E4=BD=BF=E7=94=A8Pthread=E5=88=9B=E5=BB=BA=E7=BA=BF=E7=A8=
+=8B=E7=9A=84API=E4=B8=BA _____ =E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn27" value=3D"0" type=3D"radio">pthread_clone() =
+</LI>
+  <LI><INPUT name=3D"qn27" value=3D"1" type=3D"radio">pthread_fork() =
+</LI>
+  <LI><INPUT name=3D"qn27" value=3D"2" CHECKED=3D"" =
+type=3D"radio">pthread_create()=20
+</LI>
+  <LI><INPUT name=3D"qn27" value=3D"3" type=3D"radio">pthread_ join() =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#29 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E5=9C=A8Linux=E5=86=85=E6=A0=B8=E4=B8=AD=EF=BC=8C=E8=BF=9B=E7=A8=8B=
+=E6=A0=87=E8=AF=86=E7=AC=A6PID=E4=B8=BA1=E7=9A=84=E8=BF=9B=E7=A8=8B=E6=98=
+=AF=EF=BC=9F</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn28" value=3D"0" =
+type=3D"radio">=E7=A9=BA=E9=97=B2=E8=BF=9B=E7=A8=8B </LI>
+  <LI><INPUT name=3D"qn28" value=3D"1" =
+type=3D"radio">init=E8=BF=9B=E7=A8=8B </LI>
+  <LI><INPUT name=3D"qn28" value=3D"2" =
+type=3D"radio">=E4=BA=A4=E6=8D=A2=E8=BF=9B=E7=A8=8B </LI>
+  <LI><INPUT name=3D"qn28" value=3D"3" CHECKED=3D"" =
+type=3D"radio">=E5=AE=88=E6=8A=A4=E8=BF=9B=E7=A8=8B </LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#30 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=BB=A5=E4=B8=8B=E5=85=B3=E4=BA=8E inode =
+=E7=9A=84=E5=8F=99=E8=BF=B0=E4=B8=8D=E6=AD=A3=E7=A1=AE=E7=9A=84=E6=98=AF=EF=
+=BC=9F</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn29" value=3D"0" type=3D"radio">inode =
+=E4=B8=AD=E8=AE=B0=E5=BD=95=E4=BA=86=E6=96=87=E4=BB=B6=E7=9A=84=E8=AE=BF=E9=
+=97=AE=E7=9A=84=E6=9D=83=E9=99=90=E3=80=81=E5=A4=A7=E5=B0=8F=E7=AD=89=E4=BF=
+=A1=E6=81=AF </LI>
+  <LI><INPUT name=3D"qn29" value=3D"1" =
+type=3D"radio">inode=E4=B8=AD=E6=9C=89=E6=8C=87=E5=90=91=E6=95=B0=E6=8D=AE=
+=E5=8C=BA=E5=9D=97=E7=9A=84=E6=8C=87=E9=92=88 </LI>
+  <LI><INPUT name=3D"qn29" value=3D"2" CHECKED=3D"" type=3D"radio">Linux =
+=E4=B8=AD=E7=9A=84=E6=96=87=E4=BB=B6=E5=82=A8=E5=AD=98=E5=9C=A8 inode =
+=E4=B8=AD=20
+  </LI>
+  <LI><INPUT name=3D"qn29" value=3D"3" =
+type=3D"radio">=E6=AF=8F=E4=B8=AA=E6=96=87=E4=BB=B6=E9=83=BD=E4=BC=9A=E6=9C=
+=89=E4=B8=80=E4=B8=AAinode </LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#31 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>Linux=E5=B0=86=E5=AD=98=E5=82=A8=E8=AE=BE=E5=A4=87=E5=92=8C=E8=BE=93=
+=E5=85=A5/=E8=BE=93=E5=87=BA=E8=AE=BE=E5=A4=87=E5=9D=87=E7=9C=8B=E5=81=9A=
+=E6=96=87=E4=BB=B6=E6=9D=A5=E6=93=8D=E4=BD=9C=EF=BC=8C_______=E4=B8=8D=E6=
+=98=AF=E4=BB=A5=E6=96=87=E4=BB=B6=E7=9A=84=E5=BD=A2=E5=BC=8F=E5=87=BA=E7=8E=
+=B0=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn30" value=3D"0" type=3D"radio">=E7=9B=AE=E5=BD=95 =
+</LI>
+  <LI><INPUT name=3D"qn30" value=3D"1" CHECKED=3D"" =
+type=3D"radio">=E8=BD=AF=EF=BC=88=E7=AC=A6=E5=8F=B7=EF=BC=89=E9=93=BE=E6=8E=
+=A5 </LI>
+  <LI><INPUT name=3D"qn30" value=3D"2" type=3D"radio">inode </LI>
+  <LI><INPUT name=3D"qn30" value=3D"3" type=3D"radio">=E7=A1=AC=E7=9B=98 =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#32 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=B8=BA=E4=BA=86=E5=B0=86=E5=BD=93=E5=89=8D=E7=9B=AE=E5=BD=95=E4=B8=
+=8B=E7=9A=84Linux=E5=86=85=E6=A0=B8=E4=BB=A3=E7=A0=81=E6=96=87=E4=BB=B6li=
+nux-2.6.38.tar.gz=E8=A7=A3=E5=8E=8B=E7=BC=A9=E5=88=B0~/linux=E7=9B=AE=E5=BD=
+=95=E4=B8=8B=EF=BC=8C=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E4=BD=BF=E7=94=A8=
+___=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn31" value=3D"0" type=3D"radio">tar tvzf   =
+linux-2.6.38.tar.gz  =20
+  ~/linux    </LI>
+  <LI><INPUT name=3D"qn31" value=3D"1" CHECKED=3D"" type=3D"radio">tar =
+xvzf  =20
+  linux-2.6.38.tar.gz   ~/linux  </LI>
+  <LI><INPUT name=3D"qn31" value=3D"2" type=3D"radio">tar cvzf  =
+linux-2.6.38.tar.gz  =20
+  ~/linux  </LI>
+  <LI><INPUT name=3D"qn31" value=3D"3" type=3D"radio">tar gvzf   =
+linux-2.6.38.tar.gz  =20
+  ~/linux  </LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#33 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>shell=E5=91=BD=E4=BB=A4________=E6=9B=B4=E6=94=B9=E4=B8=80=E4=B8=AA=E6=
+=96=87=E4=BB=B6=E7=9A=84=E8=AE=BF=E9=97=AE=E6=9D=83=E9=99=90=E3=80=82</DI=
+V>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn32" value=3D"0" type=3D"radio">chgrp </LI>
+  <LI><INPUT name=3D"qn32" value=3D"1" type=3D"radio">change </LI>
+  <LI><INPUT name=3D"qn32" value=3D"2" CHECKED=3D"" type=3D"radio">chmod =
+</LI>
+  <LI><INPUT name=3D"qn32" value=3D"3" type=3D"radio">attribute =
+</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#34 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E5=9C=A8Linux=E7=B3=BB=E7=BB=9F=E4=B8=AD=EF=BC=8C=E5=A6=82=E6=9E=9C=
+=E8=A6=81=E6=B1=82shell=E8=84=9A=E6=9C=AC=E4=BD=BF=E7=94=A8bash=E7=A8=8B=E5=
+=BA=8F=E6=9D=A5=E8=A7=A3=E9=87=8A=E5=B9=B6=E6=89=A7=E8=A1=8C=EF=BC=8C=E5=88=
+=99=E8=AF=A5shell=E8=84=9A=E6=9C=AC=E6=96=87=E4=BB=B6=E4=B8=AD=E7=9A=84=E7=
+=AC=AC1=E8=A1=8C=E4=B8=BA________=E3=80=82</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn33" value=3D"0" type=3D"radio"> $/bin/bash       =
+</LI>
+  <LI><INPUT name=3D"qn33" value=3D"1" type=3D"radio"> set  =
+shell=3D/bin/bash </LI>
+  <LI><INPUT name=3D"qn33" value=3D"2" type=3D"radio"> use  /bin/bash   =
+</LI>
+  <LI><INPUT name=3D"qn33" value=3D"3" CHECKED=3D"" type=3D"radio"> =
+#!/bin/bash </LI></UL>
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#35 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=B8=80=E4=B8=AA=E8=AE=BE=E5=A4=87=E5=90=8D=E4=B8=BA/dev/sdb=E7=9A=
+=84usb=E7=9B=98=EF=BC=8CU=E7=9B=98=E7=9A=84=E6=96=87=E4=BB=B6=E7=B3=BB=E7=
+=BB=9F=E4=B8=BAFAT32=EF=BC=8C=E5=AE=89=E8=A3=85=E5=88=B0Linux=E7=B3=BB=E7=
+=BB=9F=E7=9A=84/mnt/usb=E7=9B=AE=E5=BD=95=E4=B8=8B=E7=9A=84=E5=91=BD=E4=BB=
+=A4=E6=98=AF=EF=BC=9F</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn34" value=3D"0" CHECKED=3D"" type=3D"radio"> =
+mount =E2=80=93t vfat =20
+  /dev/sdb  /mnt/usb      </LI>
+  <LI><INPUT name=3D"qn34" value=3D"1" type=3D"radio"> mount =E2=80=93t =
+fat32 /dev/sdb=20
+  /mnt/usb  </LI>
+  <LI><INPUT name=3D"qn34" value=3D"2" type=3D"radio"> mount   =
+=E2=80=93t vfat  /mnt/usb      =20
+     </LI>
+  <LI><INPUT name=3D"qn34" value=3D"3" type=3D"radio"> mount =E2=80=93t =
+fat32 =20
+/mnt/usb</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#36 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E6=96=87=E6=9C=AC=E6=96=87=E4=BB=B6textfile=E6=9C=8930=E8=A1=8C=E5=86=
+=85=E5=AE=B9=EF=BC=8C=E4=B8=8B=E9=9D=A2=E7=9A=84=E5=93=AA=E4=B8=80=E8=A1=8C=
+=E5=91=BD=E4=BB=A4=E8=83=BD=E5=A4=9F=E6=98=BE=E7=A4=BA=E4=B8=AD=E9=97=B41=
+0=E8=A1=8C=E7=9A=84=E5=86=85=E5=AE=B9=EF=BC=9F</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn35" value=3D"0" type=3D"radio"> head -n 11-20 =
+textfile</LI>
+  <LI><INPUT name=3D"qn35" value=3D"1" CHECKED=3D"" type=3D"radio"> head =
+-n 20 textfile=20
+  | tail</LI>
+  <LI><INPUT name=3D"qn35" value=3D"2" type=3D"radio"> tail -n 11-20 =
+textfile</LI>
+  <LI><INPUT name=3D"qn35" value=3D"3" type=3D"radio"> cat textfile | pr =
+-n=20
+11-20</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#37 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E6=89=A7=E8=A1=8C=E5=91=BD=E4=BB=A4echo hello | =
+cat&gt;myout.txt=E5=90=8E=EF=BC=8C=E6=96=87=E4=BB=B6myout.txt=E7=9A=84=E5=
+=86=85=E5=AE=B9=E6=98=AF=EF=BC=9F</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn36" value=3D"0" type=3D"radio"> hello | cat</LI>
+  <LI><INPUT name=3D"qn36" value=3D"1" CHECKED=3D"" type=3D"radio"> =
+hello</LI>
+  <LI><INPUT name=3D"qn36" value=3D"2" type=3D"radio"> hello cat</LI>
+  <LI><INPUT name=3D"qn36" value=3D"3" type=3D"radio"> =
+=E6=96=87=E4=BB=B6=E5=86=85=E5=AE=B9=E6=98=AF=E7=A9=BA=E7=9A=84</LI></UL>=
+</DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#38 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=B8=8B=E5=88=97=E5=93=AA=E4=B8=AA=E5=91=BD=E4=BB=A4=E5=8F=AF=E4=BB=
+=A5=E7=94=A8=E6=9D=A5=E6=9F=A5=E7=9C=8BLinux =
+kernel=E7=89=88=E6=9C=AC=E4=BF=A1=E6=81=AF=EF=BC=9F</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn37" value=3D"0" type=3D"radio"> whereis kernel =
+</LI>
+  <LI><INPUT name=3D"qn37" value=3D"1" type=3D"radio"> ls kernel  </LI>
+  <LI><INPUT name=3D"qn37" value=3D"2" type=3D"radio"> kernel   </LI>
+  <LI><INPUT name=3D"qn37" value=3D"3" CHECKED=3D"" type=3D"radio"> =
+uname</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#39 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E4=B8=8B=E5=88=97=E9=82=A3=E4=B8=80=E4=B8=AA=E4=B8=8D=E6=98=AF=E9=87=
+=8D=E5=AE=9A=E5=90=91=E7=AC=A6=E5=8F=B7?</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn38" value=3D"0" type=3D"radio"> &gt;</LI>
+  <LI><INPUT name=3D"qn38" value=3D"1" type=3D"radio"> &lt;</LI>
+  <LI><INPUT name=3D"qn38" value=3D"2" type=3D"radio"> &gt;&gt;</LI>
+  <LI><INPUT name=3D"qn38" value=3D"3" CHECKED=3D"" type=3D"radio"> =
+/</LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+
+<DIV>#40 Points possible: 10</DIV>
+<DIV class=3D"question">
+<DIV>=E8=8B=A5=E5=9C=A8=E8=B6=85=E7=BA=A7=E6=9D=83=E9=99=90=E4=B8=8B=EF=BC=
+=8C=E5=AF=B9=E5=BD=93=E5=89=8D=E7=9B=AE=E5=BD=95=E7=9A=84linux-2.6.36=E5=AD=
+=90=E7=9B=AE=E5=BD=95=E5=BB=BA=E7=AB=8B=E4=B8=80=E4=B8=AA=E7=AC=A6=E5=8F=B7=
+=E9=93=BE=E6=8E=A5=E6=96=87=E4=BB=B6=EF=BC=8C=E8=AF=A5=E7=AC=A6=E5=8F=B7=E9=
+=93=BE=E6=8E=A5=E6=96=87=E4=BB=B6=E5=90=8D=E4=B8=BA/usr/src/linux=EF=BC=8C=
+=E5=BA=94=E8=AF=A5=E6=89=A7=E8=A1=8C=E5=93=AA=E4=B8=AA=E6=8C=87=E4=BB=A4=EF=
+=BC=9F
+</DIV>
+<DIV class=3D"toppad">
+<UL class=3D"nomark">
+  <LI><INPUT name=3D"qn39" value=3D"0" CHECKED=3D"" type=3D"radio"> ln =
+=E2=80=93s =20
+  ./linux-2.6.36/  /usr/src/linux</LI>
+  <LI><INPUT name=3D"qn39" value=3D"1" type=3D"radio"> ln  =
+./linux-2.6.36/ =20
+  /usr/src/linux</LI>
+  <LI><INPUT name=3D"qn39" value=3D"2" type=3D"radio"> ln =E2=80=93s  =
+/usr/src/linux =20
+  ./linux-2.6.36/ </LI>
+  <LI><INPUT name=3D"qn39" value=3D"3" type=3D"radio"> ln  =
+/usr/src/linux =20
+  ./linux-2.6.36/ </LI></UL></DIV>
+<DIV>
+<P class=3D"tips">Box 1: Select the best answer</P></DIV></DIV>
+<HR>
+</DIV></BODY></HTML>
+
+------=_NextPart_000_0013_01CCCC6C.F638BEB0
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://os.zju.edu.cn/exercise/assessment/mathtest.css
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+div.main {
+	padding: 0px;
+}
+div.toppad {
+	padding-top: 5px;
+}
+div.breadcrumb {
+	padding: 5px; border: 1px solid rgb(0, 0, 0); margin-bottom: 10px; =
+background-color: rgb(221, 221, 255);
+}
+div.question {
+	padding: 10px; border: 1px solid rgb(0, 0, 255); width: 99%; =
+margin-top: 0px; margin-bottom: 5px; background-color: rgb(221, 221, =
+255);
+}
+div.todoquestion {
+	padding: 10px; border: 1px solid rgb(153, 153, 102); width: 99%; =
+margin-top: 0px; margin-bottom: 5px; background-color: rgb(255, 255, =
+204);
+}
+div.review {
+	padding: 5px; border: 1px solid rgb(0, 0, 255); width: 99%; margin-top: =
+-4px; margin-bottom: 20px; background-color: rgb(238, 255, 238);
+}
+div.intro {
+	padding: 5px; border: 1px solid rgb(0, 0, 255); margin-bottom: 5px;
+}
+div.choice {
+	padding: 5px; text-align: center; float: left;
+}
+div.float {
+	float: left;
+}
+div.match {
+	padding: 5px 30px 5px 5px; float: left;
+}
+div.spacer {
+	padding: 0px; height: 1px; clear: both;
+}
+div.navbar {
+	background: rgb(238, 255, 238); padding: 10px; border: 1px solid rgb(0, =
+0, 0); left: 10px; width: 120px; color: rgb(0, 0, 0); margin-top: 10px; =
+position: absolute;
+}
+div.navbar h4 {
+	margin-top: 0px;
+}
+div.navbar a {
+	color: blue;
+}
+span.current {
+	background-color: rgb(255, 255, 170);
+}
+span.done {
+	text-decoration: line-through;
+}
+div.inset {
+	padding: 0px; margin-top: 10px; margin-right: 10px; margin-left: 155px;
+}
+div.right {
+	padding: 0px; text-align: right;
+}
+ul.qlist {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+ul.qlist li {
+	padding: 0px; margin-top: 0.2em; margin-left: 10px;
+}
+ul.nomark {
+	list-style-type: none;
+}
+ul.nomark li {
+	margin-top: 0.7em;
+}
+ol.lalpha {
+	list-style-type: lower-alpha;
+}
+ol.lalpha li {
+	margin-top: 0.7em;
+}
+p.centered {
+	text-align: center;
+}
+table thead th {
+	font-weight: bold;
+}
+table.stats {
+	background: rgb(238, 238, 255); margin-left: 20px; border-collapse: =
+collapse;
+}
+table.stats td {
+	padding: 1px 10px; border: 1px solid rgb(0, 0, 0);
+}
+table.stats tbody td {
+	text-align: right;
+}
+table td.left {
+	text-align: left;
+}
+table.stats thead th {
+	background: rgb(238, 255, 255); border-width: 1px 1px 3px; =
+border-style: solid; border-color: rgb(0, 0, 0); padding: 1px 10px; =
+text-align: center;
+}
+table.stats tbody th {
+	background: rgb(238, 255, 255); border-width: 1px 3px 1px 1px; =
+border-style: solid; border-color: rgb(0, 0, 0); padding: 1px 10px; =
+text-align: center;
+}
+span.white {
+	padding: 2px; background-color: white;
+}
+span.aural {
+	display: none;
+}
+img.skipnav {
+	border: 0px currentColor; left: 0px; top: 0px; position: absolute;
+}
+.hidden {
+	display: none;
+}
+span.shown {
+	display: inline;
+}
+table.scores td {
+	padding-right: 20px;
+}
+.drawtools span {
+	background: rgb(153, 255, 153); padding: 1px 3px; border: 2px outset =
+rgb(153, 255, 153); cursor: default;
+}
+.drawtools span.sel {
+	background: rgb(204, 255, 204); border: 2px inset rgb(153, 255, 153); =
+cursor: default;
+}
+.drawtools span:active {
+	background: rgb(204, 255, 204); border: 2px inset rgb(153, 255, 153); =
+cursor: default;
+}
+.drawtools span:hover {
+	background: rgb(204, 255, 204);
+}
+.drawcanvas {
+	border: 1px solid rgb(0, 0, 0); margin-bottom: 5px;
+}
+table.longdiv {
+	border: 0px currentColor; border-collapse: collapse;
+}
+table.longdiv td {
+	padding: 3px;
+}
+td.barslefttop {
+	border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); =
+border-top-width: 1px; border-left-width: 1px; border-top-style: solid; =
+border-left-style: solid;
+}
+span.red {
+	color: red;
+}
+span.withdrawn {
+	color: red; text-decoration: line-through;
+}
+
+------=_NextPart_000_0013_01CCCC6C.F638BEB0
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://os.zju.edu.cn/exercise/assessment/print.css
+
+div.navbar {
+	display: none;
+}
+div.breadcrumb {
+	display: none;
+}
+div.intro {
+	border: 0px currentColor; background-color: rgb(255, 255, 255);
+}
+div.review {
+	border: 0px currentColor; background-color: rgb(255, 255, 255);
+}
+div.question {
+	border: 0px currentColor; background-color: rgb(255, 255, 255);
+}
+div.inset {
+	margin-left: 0px;
+}
+input.text {
+	border-width: 0px 0px 1px; border-style: none none solid; border-color: =
+currentColor currentColor rgb(0, 0, 0);
+}
+p.tips {
+	display: none;
+}
+input.btn {
+	display: none;
+}
+#bannerimg {
+	display: none;
+}
+
+------=_NextPart_000_0013_01CCCC6C.F638BEB0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://os.zju.edu.cn/exercise/javascript/ASCIIMathTeXImg.js
+
+/*
+ASCIIMathTeXImg.js
+Based on ASCIIMathML, Version 1.4.7 Aug 30, 2005, (c) Peter Jipsen =
+http://www.chapman.edu/~jipsen
+Modified with TeX conversion for IMG rendering Sept 6, 2006 (c) David =
+Lippman http://www.pierce.ctc.edu/dlippman
+Licensed under GNU General Public License (at =
+http://www.gnu.org/copyleft/gpl.html)=20
+*/
+
+var mathcolor =3D "";       // defaults to back, or specify any other =
+color
+var displaystyle =3D true;      // puts limits above and below large =
+operators
+var showasciiformulaonhover =3D true; // helps students learn ASCIIMath
+var decimalsign =3D ".";        // change to "," if you like, beware of =
+`(1,2)`!
+var AMdelimiter1 =3D "`", AMescape1 =3D "\\\\`"; // can use other =
+characters
+var AMusedelimiter2 =3D false; 		//whether to use second delimiter below
+var AMdelimiter2 =3D "$", AMescape2 =3D "\\\\\\$", AMdelimiter2regexp =
+=3D "\\$";
+var doubleblankmathdelimiter =3D false; // if true,  x+1  is equal to =
+`x+1`
+                                      // for IE this works only in <!--  =
+ -->
+var noMathRender =3D false;
+// character lists for Mozilla/Netscape fonts
+var AMcal =3D =
+[0xEF35,0x212C,0xEF36,0xEF37,0x2130,0x2131,0xEF38,0x210B,0x2110,0xEF39,0x=
+EF3A,0x2112,0x2133,0xEF3B,0xEF3C,0xEF3D,0xEF3E,0x211B,0xEF3F,0xEF40,0xEF4=
+1,0xEF42,0xEF43,0xEF44,0xEF45,0xEF46];
+var AMfrk =3D =
+[0xEF5D,0xEF5E,0x212D,0xEF5F,0xEF60,0xEF61,0xEF62,0x210C,0x2111,0xEF63,0x=
+EF64,0xEF65,0xEF66,0xEF67,0xEF68,0xEF69,0xEF6A,0x211C,0xEF6B,0xEF6C,0xEF6=
+D,0xEF6E,0xEF6F,0xEF70,0xEF71,0x2128];
+var AMbbb =3D =
+[0xEF8C,0xEF8D,0x2102,0xEF8E,0xEF8F,0xEF90,0xEF91,0x210D,0xEF92,0xEF93,0x=
+EF94,0xEF95,0xEF96,0x2115,0xEF97,0x2119,0x211A,0x211D,0xEF98,0xEF99,0xEF9=
+A,0xEF9B,0xEF9C,0xEF9D,0xEF9E,0x2124];
+
+var CONST =3D 0, UNARY =3D 1, BINARY =3D 2, INFIX =3D 3, LEFTBRACKET =3D =
+4,=20
+    RIGHTBRACKET =3D 5, SPACE =3D 6, UNDEROVER =3D 7, DEFINITION =3D 8,
+    LEFTRIGHT =3D 9, TEXT =3D 10; // token types
+
+var AMsqrt =3D {input:"sqrt", tag:"msqrt", output:"sqrt", tex:null, =
+ttype:UNARY},
+  AMroot  =3D {input:"root", tag:"mroot", output:"root", tex:null, =
+ttype:BINARY},
+  AMfrac  =3D {input:"frac", tag:"mfrac", output:"/",    tex:null, =
+ttype:BINARY},
+  AMdiv   =3D {input:"/",    tag:"mfrac", output:"/",    tex:null, =
+ttype:INFIX},
+  AMover  =3D {input:"stackrel", tag:"mover", output:"stackrel", =
+tex:null, ttype:BINARY},
+  AMsub   =3D {input:"_",    tag:"msub",  output:"_",    tex:null, =
+ttype:INFIX},
+  AMsup   =3D {input:"^",    tag:"msup",  output:"^",    tex:null, =
+ttype:INFIX},
+  AMtext  =3D {input:"text", tag:"mtext", output:"text", tex:null, =
+ttype:TEXT},
+  AMmbox  =3D {input:"mbox", tag:"mtext", output:"mbox", tex:null, =
+ttype:TEXT},
+  AMquote =3D {input:"\"",   tag:"mtext", output:"mbox", tex:null, =
+ttype:TEXT};
+
+var AMsymbols =3D [
+//some greek symbols
+{input:"alpha",  tag:"mi", output:"\u03B1", tex:null, ttype:CONST},
+{input:"beta",   tag:"mi", output:"\u03B2", tex:null, ttype:CONST},
+{input:"chi",    tag:"mi", output:"\u03C7", tex:null, ttype:CONST},
+{input:"delta",  tag:"mi", output:"\u03B4", tex:null, ttype:CONST},
+{input:"Delta",  tag:"mo", output:"\u0394", tex:null, ttype:CONST},
+{input:"epsi",   tag:"mi", output:"\u03B5", tex:"epsilon", ttype:CONST},
+{input:"varepsilon", tag:"mi", output:"\u025B", tex:null, ttype:CONST},
+{input:"eta",    tag:"mi", output:"\u03B7", tex:null, ttype:CONST},
+{input:"gamma",  tag:"mi", output:"\u03B3", tex:null, ttype:CONST},
+{input:"Gamma",  tag:"mo", output:"\u0393", tex:null, ttype:CONST},
+{input:"iota",   tag:"mi", output:"\u03B9", tex:null, ttype:CONST},
+{input:"kappa",  tag:"mi", output:"\u03BA", tex:null, ttype:CONST},
+{input:"lambda", tag:"mi", output:"\u03BB", tex:null, ttype:CONST},
+{input:"Lambda", tag:"mo", output:"\u039B", tex:null, ttype:CONST},
+{input:"mu",     tag:"mi", output:"\u03BC", tex:null, ttype:CONST},
+{input:"nu",     tag:"mi", output:"\u03BD", tex:null, ttype:CONST},
+{input:"omega",  tag:"mi", output:"\u03C9", tex:null, ttype:CONST},
+{input:"Omega",  tag:"mo", output:"\u03A9", tex:null, ttype:CONST},
+{input:"phi",    tag:"mi", output:"\u03C6", tex:null, ttype:CONST},
+{input:"varphi", tag:"mi", output:"\u03D5", tex:null, ttype:CONST},
+{input:"Phi",    tag:"mo", output:"\u03A6", tex:null, ttype:CONST},
+{input:"pi",     tag:"mi", output:"\u03C0", tex:null, ttype:CONST},
+{input:"Pi",     tag:"mo", output:"\u03A0", tex:null, ttype:CONST},
+{input:"psi",    tag:"mi", output:"\u03C8", tex:null, ttype:CONST},
+{input:"Psi",    tag:"mi", output:"\u03A8", tex:null, ttype:CONST},
+{input:"rho",    tag:"mi", output:"\u03C1", tex:null, ttype:CONST},
+{input:"sigma",  tag:"mi", output:"\u03C3", tex:null, ttype:CONST},
+{input:"Sigma",  tag:"mo", output:"\u03A3", tex:null, ttype:CONST},
+{input:"tau",    tag:"mi", output:"\u03C4", tex:null, ttype:CONST},
+{input:"theta",  tag:"mi", output:"\u03B8", tex:null, ttype:CONST},
+{input:"vartheta", tag:"mi", output:"\u03D1", tex:null, ttype:CONST},
+{input:"Theta",  tag:"mo", output:"\u0398", tex:null, ttype:CONST},
+{input:"upsilon", tag:"mi", output:"\u03C5", tex:null, ttype:CONST},
+{input:"xi",     tag:"mi", output:"\u03BE", tex:null, ttype:CONST},
+{input:"Xi",     tag:"mo", output:"\u039E", tex:null, ttype:CONST},
+{input:"zeta",   tag:"mi", output:"\u03B6", tex:null, ttype:CONST},
+
+//binary operation symbols
+{input:"*",  tag:"mo", output:"\u22C5", tex:"cdot", ttype:CONST},
+{input:"**", tag:"mo", output:"\u22C6", tex:"star", ttype:CONST},
+{input:"//", tag:"mo", output:"/",      tex:null, ttype:CONST},
+{input:"\\\\", tag:"mo", output:"\\",   tex:"backslash", ttype:CONST},
+{input:"setminus", tag:"mo", output:"\\", tex:null, ttype:CONST},
+{input:"xx", tag:"mo", output:"\u00D7", tex:"times", ttype:CONST},
+{input:"-:", tag:"mo", output:"\u00F7", tex:"div", ttype:CONST},
+{input:"divide",   tag:"mo", output:"-:", tex:null, ttype:DEFINITION},
+{input:"@",  tag:"mo", output:"\u2218", tex:"circ", ttype:CONST},
+{input:"o+", tag:"mo", output:"\u2295", tex:"oplus", ttype:CONST},
+{input:"ox", tag:"mo", output:"\u2297", tex:"otimes", ttype:CONST},
+{input:"o.", tag:"mo", output:"\u2299", tex:"odot", ttype:CONST},
+{input:"sum", tag:"mo", output:"\u2211", tex:null, ttype:UNDEROVER},
+{input:"prod", tag:"mo", output:"\u220F", tex:null, ttype:UNDEROVER},
+{input:"^^",  tag:"mo", output:"\u2227", tex:"wedge", ttype:CONST},
+{input:"^^^", tag:"mo", output:"\u22C0", tex:"bigwedge", =
+ttype:UNDEROVER},
+{input:"vv",  tag:"mo", output:"\u2228", tex:"vee", ttype:CONST},
+{input:"vvv", tag:"mo", output:"\u22C1", tex:"bigvee", ttype:UNDEROVER},
+{input:"nn",  tag:"mo", output:"\u2229", tex:"cap", ttype:CONST},
+{input:"nnn", tag:"mo", output:"\u22C2", tex:"bigcap", ttype:UNDEROVER},
+{input:"uu",  tag:"mo", output:"\u222A", tex:"cup", ttype:CONST},
+{input:"uuu", tag:"mo", output:"\u22C3", tex:"bigcup", ttype:UNDEROVER},
+
+//binary relation symbols
+{input:"!=3D",  tag:"mo", output:"\u2260", tex:"ne", ttype:CONST},
+{input:":=3D",  tag:"mo", output:":=3D",     tex:null, ttype:CONST},
+{input:"lt",  tag:"mo", output:"<",      tex:null, ttype:CONST},
+{input:"gt",  tag:"mo", output:">",      tex:null, ttype:CONST},
+{input:"<=3D",  tag:"mo", output:"\u2264", tex:"le", ttype:CONST},
+{input:"lt=3D", tag:"mo", output:"\u2264", tex:"leq", ttype:CONST},
+{input:"gt=3D",  tag:"mo", output:"\u2265", tex:"geq", ttype:CONST},
+{input:">=3D",  tag:"mo", output:"\u2265", tex:"ge", ttype:CONST},
+{input:"geq", tag:"mo", output:"\u2265", tex:null, ttype:CONST},
+{input:"-<",  tag:"mo", output:"\u227A", tex:"prec", ttype:CONST},
+{input:"-lt", tag:"mo", output:"\u227A", tex:null, ttype:CONST},
+{input:">-",  tag:"mo", output:"\u227B", tex:"succ", ttype:CONST},
+{input:"-<=3D", tag:"mo", output:"\u2AAF", tex:"preceq", ttype:CONST},
+{input:">-=3D", tag:"mo", output:"\u2AB0", tex:"succeq", ttype:CONST},
+{input:"in",  tag:"mo", output:"\u2208", tex:null, ttype:CONST},
+{input:"!in", tag:"mo", output:"\u2209", tex:"notin", ttype:CONST},
+{input:"sub", tag:"mo", output:"\u2282", tex:"subset", ttype:CONST},
+{input:"sup", tag:"mo", output:"\u2283", tex:"supset", ttype:CONST},
+{input:"sube", tag:"mo", output:"\u2286", tex:"subseteq", ttype:CONST},
+{input:"supe", tag:"mo", output:"\u2287", tex:"supseteq", ttype:CONST},
+{input:"-=3D",  tag:"mo", output:"\u2261", tex:"equiv", ttype:CONST},
+{input:"~=3D",  tag:"mo", output:"\u2245", tex:"stackrel{\\sim}{=3D}", =
+ttype:CONST}, //back hack b/c mimetex doesn't support /cong
+{input:"cong",   tag:"mo", output:"~=3D", tex:null, ttype:DEFINITION},
+{input:"~~",  tag:"mo", output:"\u2248", tex:"approx", ttype:CONST},
+{input:"prop", tag:"mo", output:"\u221D", tex:"propto", ttype:CONST},
+
+//logical symbols
+{input:"and", tag:"mtext", output:"and", tex:null, ttype:SPACE},
+{input:"or",  tag:"mtext", output:"or",  tex:null, ttype:SPACE},
+{input:"not", tag:"mo", output:"\u00AC", tex:"neg", ttype:CONST},
+{input:"=3D>",  tag:"mo", output:"\u21D2", tex:"Rightarrow", =
+ttype:CONST},
+{input:"implies",   tag:"mo", output:"=3D>", tex:null, =
+ttype:DEFINITION},
+{input:"if",  tag:"mo", output:"if",     tex:null, ttype:SPACE},
+{input:"<=3D>", tag:"mo", output:"\u21D4", tex:"Leftrightarrow", =
+ttype:CONST},
+{input:"iff",   tag:"mo", output:"<=3D>", tex:null, ttype:DEFINITION},
+{input:"AA",  tag:"mo", output:"\u2200", tex:"forall", ttype:CONST},
+{input:"EE",  tag:"mo", output:"\u2203", tex:"exists", ttype:CONST},
+{input:"_|_", tag:"mo", output:"\u22A5", tex:"bot", ttype:CONST},
+{input:"TT",  tag:"mo", output:"\u22A4", tex:"top", ttype:CONST},
+{input:"|--",  tag:"mo", output:"\u22A2", tex:"vdash", ttype:CONST},
+{input:"|=3D=3D",  tag:"mo", output:"\u22A8", tex:"models", =
+ttype:CONST}, //mimetex doesn't support
+
+//grouping brackets
+{input:"(", tag:"mo", output:"(", tex:null, ttype:LEFTBRACKET},
+{input:")", tag:"mo", output:")", tex:null, ttype:RIGHTBRACKET},
+{input:"[", tag:"mo", output:"[", tex:null, ttype:LEFTBRACKET},
+{input:"]", tag:"mo", output:"]", tex:null, ttype:RIGHTBRACKET},
+{input:"{", tag:"mo", output:"{", tex:"lbrace", ttype:LEFTBRACKET},
+{input:"}", tag:"mo", output:"}", tex:"rbrace", ttype:RIGHTBRACKET},
+{input:"|", tag:"mo", output:"|", tex:null, ttype:LEFTRIGHT},
+//{input:"||", tag:"mo", output:"||", tex:null, ttype:LEFTRIGHT},
+{input:"(:", tag:"mo", output:"\u2329", tex:"langle", =
+ttype:LEFTBRACKET},
+{input:":)", tag:"mo", output:"\u232A", tex:"rangle", =
+ttype:RIGHTBRACKET},
+{input:"<<", tag:"mo", output:"\u2329", tex:null, ttype:LEFTBRACKET},
+{input:">>", tag:"mo", output:"\u232A", tex:null, ttype:RIGHTBRACKET},
+{input:"{:", tag:"mo", output:"{:", tex:null, ttype:LEFTBRACKET, =
+invisible:true},
+{input:":}", tag:"mo", output:":}", tex:null, ttype:RIGHTBRACKET, =
+invisible:true},
+
+//miscellaneous symbols
+{input:"int",  tag:"mo", output:"\u222B", tex:null, ttype:CONST},
+{input:"dx",   tag:"mi", output:"{:d x:}", tex:null, ttype:DEFINITION},
+{input:"dy",   tag:"mi", output:"{:d y:}", tex:null, ttype:DEFINITION},
+{input:"dz",   tag:"mi", output:"{:d z:}", tex:null, ttype:DEFINITION},
+{input:"dt",   tag:"mi", output:"{:d t:}", tex:null, ttype:DEFINITION},
+{input:"oint", tag:"mo", output:"\u222E", tex:null, ttype:CONST},
+{input:"del",  tag:"mo", output:"\u2202", tex:"partial", ttype:CONST},
+{input:"grad", tag:"mo", output:"\u2207", tex:"nabla", ttype:CONST},
+{input:"+-",   tag:"mo", output:"\u00B1", tex:"pm", ttype:CONST},
+{input:"O/",   tag:"mo", output:"\u2205", tex:"emptyset", ttype:CONST},
+{input:"oo",   tag:"mo", output:"\u221E", tex:"infty", ttype:CONST},
+{input:"aleph", tag:"mo", output:"\u2135", tex:null, ttype:CONST},
+{input:"...",  tag:"mo", output:"...",    tex:"ldots", ttype:CONST},
+{input:":.",  tag:"mo", output:"\u2234",  tex:"therefore", ttype:CONST},
+{input:"/_",  tag:"mo", output:"\u2220",  tex:"angle", ttype:CONST},
+{input:"\\ ",  tag:"mo", output:"\u00A0", tex:null, ttype:CONST, =
+val:true},
+{input:"quad", tag:"mo", output:"\u00A0\u00A0", tex:null, ttype:CONST},
+{input:"qquad", tag:"mo", output:"\u00A0\u00A0\u00A0\u00A0", tex:null, =
+ttype:CONST},
+{input:"cdots", tag:"mo", output:"\u22EF", tex:null, ttype:CONST},
+{input:"vdots", tag:"mo", output:"\u22EE", tex:null, ttype:CONST},
+{input:"ddots", tag:"mo", output:"\u22F1", tex:null, ttype:CONST},
+{input:"diamond", tag:"mo", output:"\u22C4", tex:null, ttype:CONST},
+{input:"square", tag:"mo", output:"\u25A1", tex:"boxempty", =
+ttype:CONST},
+{input:"|__", tag:"mo", output:"\u230A",  tex:"lfloor", ttype:CONST},
+{input:"__|", tag:"mo", output:"\u230B",  tex:"rfloor", ttype:CONST},
+{input:"|~", tag:"mo", output:"\u2308",  tex:"lceil", ttype:CONST},
+{input:"lceiling",   tag:"mo", output:"|~", tex:null, ttype:DEFINITION},
+{input:"~|", tag:"mo", output:"\u2309",  tex:"rceil", ttype:CONST},
+{input:"rceiling",   tag:"mo", output:"~|", tex:null, ttype:DEFINITION},
+{input:"CC",  tag:"mo", output:"\u2102", tex:"mathbb{C}", ttype:CONST, =
+notexcopy:true},
+{input:"NN",  tag:"mo", output:"\u2115", tex:"mathbb{N}", ttype:CONST, =
+notexcopy:true},
+{input:"QQ",  tag:"mo", output:"\u211A", tex:"mathbb{Q}", ttype:CONST, =
+notexcopy:true},
+{input:"RR",  tag:"mo", output:"\u211D", tex:"mathbb{R}", ttype:CONST, =
+notexcopy:true},
+{input:"ZZ",  tag:"mo", output:"\u2124", tex:"mathbb{Z}", ttype:CONST, =
+notexcopy:true},
+{input:"f",   tag:"mi", output:"f",      tex:null, ttype:UNARY, =
+func:true, val:true},
+{input:"g",   tag:"mi", output:"g",      tex:null, ttype:UNARY, =
+func:true, val:true},
+
+//standard functions
+{input:"lim",  tag:"mo", output:"lim", tex:null, ttype:UNDEROVER},
+{input:"Lim",  tag:"mo", output:"Lim", tex:null, ttype:UNDEROVER},
+{input:"sin",  tag:"mo", output:"sin", tex:null, ttype:UNARY, =
+func:true},
+{input:"cos",  tag:"mo", output:"cos", tex:null, ttype:UNARY, =
+func:true},
+{input:"tan",  tag:"mo", output:"tan", tex:null, ttype:UNARY, =
+func:true},
+{input:"arcsin",  tag:"mo", output:"arcsin", tex:null, ttype:UNARY, =
+func:true},
+{input:"arccos",  tag:"mo", output:"arccos", tex:null, ttype:UNARY, =
+func:true},
+{input:"arctan",  tag:"mo", output:"arctan", tex:null, ttype:UNARY, =
+func:true},
+{input:"sinh", tag:"mo", output:"sinh", tex:null, ttype:UNARY, =
+func:true},
+{input:"cosh", tag:"mo", output:"cosh", tex:null, ttype:UNARY, =
+func:true},
+{input:"tanh", tag:"mo", output:"tanh", tex:null, ttype:UNARY, =
+func:true},
+{input:"cot",  tag:"mo", output:"cot", tex:null, ttype:UNARY, =
+func:true},
+{input:"sec",  tag:"mo", output:"sec", tex:null, ttype:UNARY, =
+func:true},
+{input:"csc",  tag:"mo", output:"csc", tex:null, ttype:UNARY, =
+func:true},
+{input:"log",  tag:"mo", output:"log", tex:null, ttype:UNARY, =
+func:true},
+{input:"ln",   tag:"mo", output:"ln",  tex:null, ttype:UNARY, =
+func:true},
+{input:"abs",   tag:"mo", output:"abs",  tex:null, ttype:UNARY, =
+func:true},
+{input:"Sin",  tag:"mo", output:"sin", tex:null, ttype:UNARY, =
+func:true},
+{input:"Cos",  tag:"mo", output:"cos", tex:null, ttype:UNARY, =
+func:true},
+{input:"Tan",  tag:"mo", output:"tan", tex:null, ttype:UNARY, =
+func:true},
+{input:"Arcsin",  tag:"mo", output:"arcsin", tex:null, ttype:UNARY, =
+func:true},
+{input:"Arccos",  tag:"mo", output:"arccos", tex:null, ttype:UNARY, =
+func:true},
+{input:"Arctan",  tag:"mo", output:"arctan", tex:null, ttype:UNARY, =
+func:true},
+{input:"Sinh", tag:"mo", output:"sinh", tex:null, ttype:UNARY, =
+func:true},
+{input:"Sosh", tag:"mo", output:"cosh", tex:null, ttype:UNARY, =
+func:true},
+{input:"Tanh", tag:"mo", output:"tanh", tex:null, ttype:UNARY, =
+func:true},
+{input:"Cot",  tag:"mo", output:"cot", tex:null, ttype:UNARY, =
+func:true},
+{input:"Sec",  tag:"mo", output:"sec", tex:null, ttype:UNARY, =
+func:true},
+{input:"Csc",  tag:"mo", output:"csc", tex:null, ttype:UNARY, =
+func:true},
+{input:"Log",  tag:"mo", output:"log", tex:null, ttype:UNARY, =
+func:true},
+{input:"Ln",   tag:"mo", output:"ln",  tex:null, ttype:UNARY, =
+func:true},
+{input:"Abs",   tag:"mo", output:"abs",  tex:null, ttype:UNARY, =
+func:true},
+{input:"det",  tag:"mo", output:"det", tex:null, ttype:UNARY, =
+func:true},
+{input:"exp",  tag:"mo", output:"exp", tex:null, ttype:UNARY, =
+func:true},
+{input:"dim",  tag:"mo", output:"dim", tex:null, ttype:CONST},
+{input:"mod",  tag:"mo", output:"mod", tex:"text{mod}", ttype:CONST},
+{input:"gcd",  tag:"mo", output:"gcd", tex:null, ttype:UNARY, =
+func:true},
+{input:"lcm",  tag:"mo", output:"lcm", tex:"text{lcm}", ttype:UNARY, =
+func:true},
+{input:"lub",  tag:"mo", output:"lub", tex:null, ttype:CONST},
+{input:"glb",  tag:"mo", output:"glb", tex:null, ttype:CONST},
+{input:"min",  tag:"mo", output:"min", tex:null, ttype:UNDEROVER},
+{input:"max",  tag:"mo", output:"max", tex:null, ttype:UNDEROVER},
+
+//arrows
+{input:"uarr", tag:"mo", output:"\u2191", tex:"uparrow", ttype:CONST},
+{input:"darr", tag:"mo", output:"\u2193", tex:"downarrow", ttype:CONST},
+{input:"rarr", tag:"mo", output:"\u2192", tex:"rightarrow", =
+ttype:CONST},
+{input:"->",   tag:"mo", output:"\u2192", tex:"to", ttype:CONST},
+{input:"|->",  tag:"mo", output:"\u21A6", tex:"mapsto", ttype:CONST},
+{input:"larr", tag:"mo", output:"\u2190", tex:"leftarrow", ttype:CONST},
+{input:"harr", tag:"mo", output:"\u2194", tex:"leftrightarrow", =
+ttype:CONST},
+{input:"rArr", tag:"mo", output:"\u21D2", tex:"Rightarrow", =
+ttype:CONST},
+{input:"lArr", tag:"mo", output:"\u21D0", tex:"Leftarrow", ttype:CONST},
+{input:"hArr", tag:"mo", output:"\u21D4", tex:"Leftrightarrow", =
+ttype:CONST},
+
+//commands with argument
+AMsqrt, AMroot, AMfrac, AMdiv, AMover, AMsub, AMsup,
+{input:"Sqrt", tag:"msqrt", output:"sqrt", tex:null, ttype:UNARY},
+{input:"hat", tag:"mover", output:"\u005E", tex:null, ttype:UNARY, =
+acc:true},
+{input:"bar", tag:"mover", output:"\u00AF", tex:"overline", ttype:UNARY, =
+acc:true},
+{input:"vec", tag:"mover", output:"\u2192", tex:null, ttype:UNARY, =
+acc:true},
+{input:"dot", tag:"mover", output:".",      tex:null, ttype:UNARY, =
+acc:true},
+{input:"ddot", tag:"mover", output:"..",    tex:null, ttype:UNARY, =
+acc:true},
+{input:"ul", tag:"munder", output:"\u0332", tex:"underline", =
+ttype:UNARY, acc:true},
+AMtext, AMmbox, AMquote,
+{input:"bb", tag:"mstyle", atname:"fontweight", atval:"bold", =
+output:"bb", tex:"mathbf", ttype:UNARY, notexcopy:true},
+{input:"mathbf", tag:"mstyle", atname:"fontweight", atval:"bold", =
+output:"mathbf", tex:null, ttype:UNARY},
+{input:"sf", tag:"mstyle", atname:"fontfamily", atval:"sans-serif", =
+output:"sf", tex:"mathsf", ttype:UNARY, notexcopy:true},
+{input:"mathsf", tag:"mstyle", atname:"fontfamily", atval:"sans-serif", =
+output:"mathsf", tex:null, ttype:UNARY},
+{input:"bbb", tag:"mstyle", atname:"mathvariant", atval:"double-struck", =
+output:"bbb", tex:"mathbb", ttype:UNARY, codes:AMbbb, notexcopy:true},
+{input:"mathbb", tag:"mstyle", atname:"mathvariant", =
+atval:"double-struck", output:"mathbb", tex:null, ttype:UNARY, =
+codes:AMbbb},
+{input:"cc",  tag:"mstyle", atname:"mathvariant", atval:"script", =
+output:"cc", tex:"mathcal", ttype:UNARY, codes:AMcal, notexcopy:true},
+{input:"mathcal", tag:"mstyle", atname:"mathvariant", atval:"script", =
+output:"mathcal", tex:null, ttype:UNARY, codes:AMcal},
+{input:"tt",  tag:"mstyle", atname:"fontfamily", atval:"monospace", =
+output:"tt", tex:"mathtt", ttype:UNARY, notexcopy:true},
+{input:"mathtt", tag:"mstyle", atname:"fontfamily", atval:"monospace", =
+output:"mathtt", tex:null, ttype:UNARY},
+{input:"fr",  tag:"mstyle", atname:"mathvariant", atval:"fraktur", =
+output:"fr", tex:"mathfrak", ttype:UNARY, codes:AMfrk, notexcopy:true},
+{input:"mathfrak",  tag:"mstyle", atname:"mathvariant", atval:"fraktur", =
+output:"mathfrak", tex:null, ttype:UNARY, codes:AMfrk}
+];
+
+function compareNames(s1,s2) {
+  if (s1.input > s2.input) return 1
+  else return -1;
+}
+
+var AMnames =3D []; //list of input symbols
+
+function AMinitSymbols() {
+  var texsymbols =3D [], i;
+  for (i=3D0; i<AMsymbols.length; i++)
+    if (AMsymbols[i].tex && !(typeof AMsymbols[i].notexcopy =3D=3D =
+"boolean" && AMsymbols[i].notexcopy))=20
+      texsymbols[texsymbols.length] =3D {input:AMsymbols[i].tex,=20
+        tag:AMsymbols[i].tag, output:AMsymbols[i].output, =
+ttype:AMsymbols[i].ttype};
+  AMsymbols =3D AMsymbols.concat(texsymbols);
+  AMsymbols.sort(compareNames);
+  for (i=3D0; i<AMsymbols.length; i++) AMnames[i] =3D =
+AMsymbols[i].input;
+}
+
+function newcommand(oldstr,newstr) {
+  AMsymbols =3D AMsymbols.concat([{input:oldstr, tag:"mo", =
+output:newstr,=20
+                                 tex:null, ttype:DEFINITION}]);
+}
+
+function AMremoveCharsAndBlanks(str,n) {
+//remove n characters and any following blanks
+  var st;
+  if (str.charAt(n)=3D=3D"\\" && str.charAt(n+1)!=3D"\\" && =
+str.charAt(n+1)!=3D" ")=20
+    st =3D str.slice(n+1);
+  else st =3D str.slice(n);
+  for (var i=3D0; i<st.length && st.charCodeAt(i)<=3D32; i=3Di+1);
+  return st.slice(i);
+}
+
+function AMposition(arr, str, n) {=20
+// return position >=3Dn where str appears or would be inserted
+// assumes arr is sorted
+  if (n=3D=3D0) {
+    var h,m;
+    n =3D -1;
+    h =3D arr.length;
+    while (n+1<h) {
+      m =3D (n+h) >> 1;
+      if (arr[m]<str) n =3D m; else h =3D m;
+    }
+    return h;
+  } else
+    for (var i=3Dn; i<arr.length && arr[i]<str; i++);
+  return i; // i=3Darr.length || arr[i]>=3Dstr
+}
+
+function AMgetSymbol(str) {
+//return maximal initial substring of str that appears in names
+//return null if there is none
+  var k =3D 0; //new pos
+  var j =3D 0; //old pos
+  var mk; //match pos
+  var st;
+  var tagst;
+  var match =3D "";
+  var more =3D true;
+  for (var i=3D1; i<=3Dstr.length && more; i++) {
+    st =3D str.slice(0,i); //initial substring of length i
+    j =3D k;
+    k =3D AMposition(AMnames, st, j);
+    if (k<AMnames.length && =
+str.slice(0,AMnames[k].length)=3D=3DAMnames[k]){
+      match =3D AMnames[k];
+      mk =3D k;
+      i =3D match.length;
+    }
+    more =3D k<AMnames.length && =
+str.slice(0,AMnames[k].length)>=3DAMnames[k];
+  }
+  AMpreviousSymbol=3DAMcurrentSymbol;
+  if (match!=3D""){
+    AMcurrentSymbol=3DAMsymbols[mk].ttype;
+    return AMsymbols[mk];=20
+  }
+// if str[0] is a digit or - return maxsubstring of digits.digits
+  AMcurrentSymbol=3DCONST;
+  k =3D 1;
+  st =3D str.slice(0,1);
+  var integ =3D true;
+ 	 =20
+  while ("0"<=3Dst && st<=3D"9" && k<=3Dstr.length) {
+    st =3D str.slice(k,k+1);
+    k++;
+  }
+  if (st =3D=3D decimalsign) {
+    st =3D str.slice(k,k+1);
+    if ("0"<=3Dst && st<=3D"9") {
+      integ =3D false;
+      k++;
+      while ("0"<=3Dst && st<=3D"9" && k<=3Dstr.length) {
+        st =3D str.slice(k,k+1);
+        k++;
+      }
+    }
+  }
+  if ((integ && k>1) || k>2) {
+    st =3D str.slice(0,k-1);
+    tagst =3D "mn";
+  } else {
+    k =3D 2;
+    st =3D str.slice(0,1); //take 1 character
+    tagst =3D (("A">st || st>"Z") && ("a">st || st>"z")?"mo":"mi");
+  }
+  if (st=3D=3D"-" && AMpreviousSymbol=3D=3DINFIX) {
+    AMcurrentSymbol =3D INFIX;
+    return {input:st, tag:tagst, output:st, ttype:UNARY, func:true, =
+val:true};
+  }
+  return {input:st, tag:tagst, output:st, ttype:CONST, val:true}; =
+//added val bit
+}
+
+function AMTremoveBrackets(node) {
+=09
+  var st;
+  if (node.charAt(0)=3D=3D'{' && node.charAt(node.length-1)=3D=3D'}') {
+
+    st =3D node.charAt(1);
+    if (st=3D=3D"(" || st=3D=3D"[") node =3D '{'+node.substr(2);
+    st =3D node.substr(1,6);
+    if (st=3D=3D"\\left(" || st=3D=3D"\\left[" || st=3D=3D"\\left{") =
+node =3D '{'+node.substr(7);
+    st =3D node.substr(1,12);
+    if (st=3D=3D"\\left\\lbrace" || st=3D=3D"\\left\\langle") node =3D =
+'{'+node.substr(13);
+    st =3D node.charAt(node.length-2);
+    if (st=3D=3D")" || st=3D=3D"]") node =3D =
+node.substr(0,node.length-8)+'}';
+    st =3D node.substr(node.length-8,7)
+    if (st=3D=3D"\\rbrace" || st=3D=3D"\\rangle") node =3D =
+node.substr(0,node.length-14) + '}';
+   =20
+  }=20
+  return node;
+}
+
+/*Parsing ASCII math expressions with the following grammar
+v ::=3D [A-Za-z] | greek letters | numbers | other constant symbols
+u ::=3D sqrt | text | bb | other unary symbols for font commands
+b ::=3D frac | root | stackrel         binary symbols
+l ::=3D ( | [ | { | (: | {:            left brackets
+r ::=3D ) | ] | } | :) | :}            right brackets
+S ::=3D v | lEr | uS | bSS             Simple expression
+I ::=3D S_S | S^S | S_S^S | S          Intermediate expression
+E ::=3D IE | I/I                       Expression
+Each terminal symbol is translated into a corresponding mathml node.*/
+
+var AMnestingDepth,AMpreviousSymbol,AMcurrentSymbol;
+
+function AMTgetTeXsymbol(symb) {
+	if (typeof symb.val =3D=3D "boolean" && symb.val) {
+		pre =3D '';
+	} else {
+		pre =3D '\\';
+	}
+	if (symb.tex=3D=3Dnull) {
+		return (pre+symb.input);
+	} else {
+		return (pre+symb.tex);
+	}
+}
+function AMTgetTeXbracket(symb) {
+	if (symb.tex=3D=3Dnull) {
+		return (symb.input);
+	} else {
+		return ('\\'+symb.tex);
+	}
+}
+
+function AMTparseSexpr(str) { //parses str and returns [node,tailstr]
+  var symbol, node, result, i, st,// rightvert =3D false,
+    newFrag =3D '';
+  str =3D AMremoveCharsAndBlanks(str,0);
+  symbol =3D AMgetSymbol(str);             //either a token or a bracket =
+or empty
+  if (symbol =3D=3D null || symbol.ttype =3D=3D RIGHTBRACKET && =
+AMnestingDepth > 0) {
+    return [null,str];
+  }
+  if (symbol.ttype =3D=3D DEFINITION) {
+    str =3D =
+symbol.output+AMremoveCharsAndBlanks(str,symbol.input.length);=20
+    symbol =3D AMgetSymbol(str);
+  }
+  switch (symbol.ttype) {
+  case UNDEROVER:
+  case CONST:
+    str =3D AMremoveCharsAndBlanks(str,symbol.input.length);=20
+     var texsymbol =3D AMTgetTeXsymbol(symbol);
+     if (texsymbol.charAt(0)=3D=3D"\\" || symbol.tag=3D=3D"mo") return =
+[texsymbol,str];
+     else return ['{'+texsymbol+'}',str];
+   =20
+  case LEFTBRACKET:   //read (expr+)
+    AMnestingDepth++;
+    str =3D AMremoveCharsAndBlanks(str,symbol.input.length);=20
+  =20
+    result =3D AMTparseExpr(str,true);
+    AMnestingDepth--;
+    if (typeof symbol.invisible =3D=3D "boolean" && symbol.invisible)=20
+    	node =3D '{\\left.'+result[0]+'}';
+    else {
+	    node =3D '{\\left'+AMTgetTeXbracket(symbol) + result[0]+'}';
+    }
+    return [node,result[1]];
+  case TEXT:
+      if (symbol!=3DAMquote) str =3D =
+AMremoveCharsAndBlanks(str,symbol.input.length);
+      if (str.charAt(0)=3D=3D"{") i=3Dstr.indexOf("}");
+      else if (str.charAt(0)=3D=3D"(") i=3Dstr.indexOf(")");
+      else if (str.charAt(0)=3D=3D"[") i=3Dstr.indexOf("]");
+      else if (symbol=3D=3DAMquote) i=3Dstr.slice(1).indexOf("\"")+1;
+      else i =3D 0;
+      if (i=3D=3D-1) i =3D str.length;
+      st =3D str.slice(1,i);
+      if (st.charAt(0) =3D=3D " ") {
+	      newFrag =3D '\\ ';
+      }
+     newFrag +=3D '\\text{'+st+'}';
+      if (st.charAt(st.length-1) =3D=3D " ") {
+	      newFrag +=3D '\\ ';
+      }
+      str =3D AMremoveCharsAndBlanks(str,i+1);
+      return [newFrag,str];
+  case UNARY:
+      str =3D AMremoveCharsAndBlanks(str,symbol.input.length);=20
+      result =3D AMTparseSexpr(str);
+      if (result[0]=3D=3Dnull) return =
+['{'+AMTgetTeXsymbol(symbol)+'}',str];
+      if (typeof symbol.func =3D=3D "boolean" && symbol.func) { // =
+functions hack
+        st =3D str.charAt(0);
+        if (st=3D=3D"^" || st=3D=3D"_" || st=3D=3D"/" || st=3D=3D"|" || =
+st=3D=3D",") {
+          return ['{'+AMTgetTeXsymbol(symbol)+'}',str];
+        } else {
+		node =3D '{'+AMTgetTeXsymbol(symbol)+'{'+result[0]+'}}';
+		return [node,result[1]];
+        }
+      }
+      result[0] =3D AMTremoveBrackets(result[0]);
+      if (symbol.input =3D=3D "sqrt") {           // sqrt
+	      return ['\\sqrt{'+result[0]+'}',result[1]];
+      } else if (typeof symbol.acc =3D=3D "boolean" && symbol.acc) {   =
+// accent
+	      return =
+['{'+AMTgetTeXsymbol(symbol)+'{'+result[0]+'}}',result[1]];
+      } else {                        // font change command =20
+	    return ['{'+AMTgetTeXsymbol(symbol)+'{'+result[0]+'}}',result[1]];
+      }
+  case BINARY:
+    str =3D AMremoveCharsAndBlanks(str,symbol.input.length);=20
+    result =3D AMTparseSexpr(str);
+    if (result[0]=3D=3Dnull) return =
+['{'+AMTgetTeXsymbol(symbol)+'}',str];
+    result[0] =3D AMTremoveBrackets(result[0]);
+    var result2 =3D AMTparseSexpr(result[1]);
+    if (result2[0]=3D=3Dnull) return =
+['{'+AMTgetTeXsymbol(symbol)+'}',str];
+    result2[0] =3D AMTremoveBrackets(result2[0]);
+    if (symbol.input=3D=3D"root" || symbol.input=3D=3D"stackrel") {
+	    if (symbol.input=3D=3D"root") {
+		    newFrag =3D '{\\sqrt['+result[0]+']{'+result2[0]+'}}';
+	    } else {
+		    newFrag =3D =
+'{'+AMTgetTeXsymbol(symbol)+'{'+result[0]+'}{'+result2[0]+'}}';
+	    }
+    }
+    if (symbol.input=3D=3D"frac") {
+	    newFrag =3D '{\\frac{'+result[0]+'}{'+result2[0]+'}}';
+    }
+    return [newFrag,result2[1]];
+  case INFIX:
+    str =3D AMremoveCharsAndBlanks(str,symbol.input.length);=20
+    return [symbol.output,str];
+  case SPACE:
+    str =3D AMremoveCharsAndBlanks(str,symbol.input.length);
+    return ['{\\quad\\text{'+symbol.input+'}\\quad}',str];
+  case LEFTRIGHT:
+//    if (rightvert) return [null,str]; else rightvert =3D true;
+    AMnestingDepth++;
+    str =3D AMremoveCharsAndBlanks(str,symbol.input.length);=20
+    result =3D AMTparseExpr(str,false);
+    AMnestingDepth--;
+    var st =3D "";
+    st =3D result[0].charAt(result[0].length -1);
+//alert(result[0].lastChild+"***"+st);
+    if (st =3D=3D "|") { // its an absolute value subterm
+	    node =3D '{\\left|'+result[0]+'}';
+      return [node,result[1]];
+    } else { // the "|" is a \mid
+      node =3D '{\\mid}';
+      return [node,str];
+    }
+  =20
+  default:
+//alert("default");
+    str =3D AMremoveCharsAndBlanks(str,symbol.input.length);=20
+    return ['{'+AMTgetTeXsymbol(symbol)+'}',str];
+  }
+}
+
+function AMTparseIexpr(str) {
+  var symbol, sym1, sym2, node, result, underover;
+  str =3D AMremoveCharsAndBlanks(str,0);
+  sym1 =3D AMgetSymbol(str);
+  result =3D AMTparseSexpr(str);
+  node =3D result[0];
+  str =3D result[1];
+  symbol =3D AMgetSymbol(str);
+  if (symbol.ttype =3D=3D INFIX && symbol.input !=3D "/") {
+    str =3D AMremoveCharsAndBlanks(str,symbol.input.length);
+   // if (symbol.input =3D=3D "/") result =3D AMTparseIexpr(str); else=20
+    result =3D AMTparseSexpr(str);
+    if (result[0] =3D=3D null) // show box in place of missing argument
+	    result[0] =3D '{}';
+    else result[0] =3D AMTremoveBrackets(result[0]);
+    str =3D result[1];
+//    if (symbol.input =3D=3D "/") AMTremoveBrackets(node);
+    if (symbol.input =3D=3D "_") {
+      sym2 =3D AMgetSymbol(str);
+      underover =3D (sym1.ttype =3D=3D UNDEROVER);
+      if (sym2.input =3D=3D "^") {
+        str =3D AMremoveCharsAndBlanks(str,sym2.input.length);
+        var res2 =3D AMTparseSexpr(str);
+        res2[0] =3D AMTremoveBrackets(res2[0]);
+        str =3D res2[1];
+        node =3D '{' + node;
+       	node +=3D '_{'+result[0]+'}';
+	node +=3D '^{'+res2[0]+'}';
+        node +=3D '}';
+      } else {
+        node +=3D '_{'+result[0]+'}';
+      }
+    } else { //must be ^
+      node =3D '{'+node+'}^{'+result[0]+'}';
+    }
+  }=20
+ =20
+  return [node,str];
+}
+
+function AMTparseExpr(str,rightbracket) {
+  var symbol, node, result, i, nodeList =3D [],
+  newFrag =3D '';
+  var addedright =3D false;
+  do {
+    str =3D AMremoveCharsAndBlanks(str,0);
+    result =3D AMTparseIexpr(str);
+    node =3D result[0];
+    str =3D result[1];
+    symbol =3D AMgetSymbol(str);
+    if (symbol.ttype =3D=3D INFIX && symbol.input =3D=3D "/") {
+      str =3D AMremoveCharsAndBlanks(str,symbol.input.length);
+      result =3D AMTparseIexpr(str);
+     =20
+      if (result[0] =3D=3D null) // show box in place of missing =
+argument
+	      result[0] =3D '{}';
+      else result[0] =3D AMTremoveBrackets(result[0]);
+      str =3D result[1];
+      node =3D AMTremoveBrackets(node);
+      node =3D '\\frac' + '{'+ node + '}';
+      node +=3D '{'+result[0]+'}';
+      newFrag +=3D node;
+      symbol =3D AMgetSymbol(str);
+    }  else if (node!=3Dundefined) newFrag +=3D node;
+  } while ((symbol.ttype !=3D RIGHTBRACKET &&=20
+           (symbol.ttype !=3D LEFTRIGHT || rightbracket)
+           || AMnestingDepth =3D=3D 0) && symbol!=3Dnull && =
+symbol.output!=3D"");
+  if (symbol.ttype =3D=3D RIGHTBRACKET || symbol.ttype =3D=3D LEFTRIGHT) =
+{
+//    if (AMnestingDepth > 0) AMnestingDepth--;
+	var len =3D newFrag.length;
+	if (len>2 && newFrag.charAt(0)=3D=3D'{' && newFrag.indexOf(',')>0) { =
+//could be matrix (total rewrite from .js)
+		var right =3D newFrag.charAt(len - 2);
+		if (right=3D=3D')' || right=3D=3D']') {
+			var left =3D newFrag.charAt(6);
+			if ((left=3D=3D'(' && right=3D=3D')' && symbol.output !=3D '}') || =
+(left=3D=3D'[' && right=3D=3D']')) {
+				var mxout =3D '\\matrix{';
+				var pos =3D new Array(); //position of commas
+				pos.push(0);
+				var matrix =3D true;
+				var mxnestingd =3D 0;
+				for (i=3D1; i<len-1; i++) {
+					if (newFrag.charAt(i)=3D=3Dleft) mxnestingd++;
+					if (newFrag.charAt(i)=3D=3Dright) {
+						mxnestingd--;
+						if (mxnestingd=3D=3D0 && newFrag.charAt(i+2)=3D=3D',' && =
+newFrag.charAt(i+3)=3D=3D'{') pos.push(i+2);
+					}
+				}
+				pos.push(len);
+				var lastmxsubcnt =3D -1;
+				if (mxnestingd=3D=3D0 && pos.length>0) {
+					for (i=3D0;i<pos.length-1;i++) {
+						if (i>0) mxout +=3D '\\\\';
+						if (i=3D=3D0) {
+							var subarr =3D =
+newFrag.substr(pos[i]+7,pos[i+1]-pos[i]-15).split(',');
+						} else {
+							var subarr =3D =
+newFrag.substr(pos[i]+8,pos[i+1]-pos[i]-16).split(',');
+						}
+						if (lastmxsubcnt>0 && subarr.length!=3Dlastmxsubcnt) {
+							matrix =3D false;
+						} else if (lastmxsubcnt=3D=3D-1) {
+							lastmxsubcnt=3Dsubarr.length;
+						}
+						mxout +=3D subarr.join('&');
+					}
+				}
+				mxout +=3D '}';
+				if (matrix) { newFrag =3D mxout;}
+			}
+		}
+	}
+   =20
+    str =3D AMremoveCharsAndBlanks(str,symbol.input.length);
+    if (typeof symbol.invisible !=3D "boolean" || !symbol.invisible) {
+      node =3D '\\right'+AMTgetTeXbracket(symbol); =
+//AMcreateMmlNode("mo",document.createTextNode(symbol.output));
+      newFrag +=3D node;
+      addedright =3D true;
+    } else {
+	    newFrag +=3D '\\right.';
+	    addedright =3D true;
+    }
+  =20
+  }
+  if(AMnestingDepth>0 && !addedright) {
+	  newFrag +=3D '\\right.'; //adjust for non-matching left brackets
+	  //todo: adjust for non-matching right brackets
+  }
+ =20
+  return [newFrag,str];
+}
+
+function AMTparseAMtoTeX(str) {
+ AMnestingDepth =3D 0;
+ =20
+  return AMTparseExpr(str.replace(/^\s+/g,""),false)[0];
+}
+
+function AMparseMath(str) {
+ //DLMOD to remove &nbsp;, which editor adds on multiple spaces
+  str =3D str.replace(/&nbsp;/g,"");
+  str =3D str.replace(/&gt;/g,">");
+  str =3D str.replace(/&lt;/g,"<");
+  var texstring =3D AMTparseAMtoTeX(str);
+  if (mathcolor!=3D"") {
+	  texstring =3D "\\"+mathcolor + texstring;
+  }
+  if (displaystyle) {
+	  texstring =3D "\\displaystyle" + texstring;
+  } else {
+	  texstring =3D "\\textstyle" + texstring;
+  }
+  var node =3D document.createElement("img");
+  if (typeof encodeURIComponent =3D=3D "function") {
+	  texstring =3D encodeURIComponent(texstring);
+  } else {
+	  texstring =3D escape(texstring);
+  }
+  node.src =3D AMTcgiloc + '?' + texstring;
+  node.style.verticalAlign =3D "middle";
+  if (showasciiformulaonhover)                      //fixed by djhsu so =
+newline
+    node.setAttribute("title",str.replace(/\s+/g," "));//does not show =
+in Gecko
+=20
+  var snode =3D document.createElement("span");
+  snode.appendChild(node); //chg
+  return snode;
+}
+
+function AMstrarr2docFrag(arr, linebreaks) {
+  var newFrag=3Ddocument.createDocumentFragment();
+  var expr =3D false;
+  for (var i=3D0; i<arr.length; i++) {
+    if (expr) newFrag.appendChild(AMparseMath(arr[i]));
+    else {
+      var arri =3D (linebreaks ? arr[i].split("\n\n") : [arr[i]]);
+      newFrag.appendChild(document.createElement("span").
+      appendChild(document.createTextNode(arri[0])));
+      for (var j=3D1; j<arri.length; j++) {
+        newFrag.appendChild(document.createElement("p"));
+        newFrag.appendChild(document.createElement("span").
+        appendChild(document.createTextNode(arri[j])));
+      }
+    }
+    expr =3D !expr;
+  }
+  return newFrag;
+}
+
+function AMprocessNodeR(n, linebreaks) {
+  var mtch, str, arr, frg, i;
+  if (n.childNodes.length =3D=3D 0) {
+   if ((n.nodeType!=3D8 || linebreaks) &&
+    n.parentNode.nodeName!=3D"form" && n.parentNode.nodeName!=3D"FORM" =
+&&
+    n.parentNode.nodeName!=3D"textarea" && =
+n.parentNode.nodeName!=3D"TEXTAREA" &&
+    n.parentNode.nodeName!=3D"pre" && n.parentNode.nodeName!=3D"PRE") {
+    str =3D n.nodeValue;
+    if (!(str =3D=3D null)) {
+      str =3D str.replace(/\r\n\r\n/g,"\n\n");
+      if (doubleblankmathdelimiter) {
+        str =3D str.replace(/\x20\x20\./g," "+AMdelimiter1+".");
+        str =3D str.replace(/\x20\x20,/g," "+AMdelimiter1+",");
+        str =3D str.replace(/\x20\x20/g," "+AMdelimiter1+" ");
+      }
+      str =3D str.replace(/\x20+/g," ");
+      str =3D str.replace(/\s*\r\n/g," ");
+       mtch =3D false;
+      if (AMusedelimiter2) {
+      str =3D str.replace(new RegExp(AMescape2, "g"),
+              function(st){mtch=3Dtrue;return "AMescape2"});
+      }
+      str =3D str.replace(new RegExp(AMescape1, "g"),
+              function(st){mtch=3Dtrue;return "AMescape1"});
+     if (AMusedelimiter2)  str =3D str.replace(new =
+RegExp(AMdelimiter2regexp, "g"),AMdelimiter1);
+      arr =3D str.split(AMdelimiter1);
+      for (i=3D0; i<arr.length; i++)
+      	if (AMusedelimiter2) {	    =20
+		=
+arr[i]=3Darr[i].replace(/AMescape2/g,AMdelimiter2).replace(/AMescape1/g,A=
+Mdelimiter1);
+	}
+      if (arr.length>1 || mtch) {
+       =20
+      frg =3D AMstrarr2docFrag(arr,n.nodeType=3D=3D8);
+      var len =3D frg.childNodes.length;
+      n.parentNode.replaceChild(frg,n);
+      return len-1;
+       =20
+      }
+    }
+   } else return 0;
+  } else if (n.nodeName!=3D"math") { //should this change to img?
+    for (i=3D0; i<n.childNodes.length; i++)
+      i +=3D AMprocessNodeR(n.childNodes[i], linebreaks);
+  }
+  return 0;
+}
+
+function AMprocessNode(n, linebreaks, spanclassAM) {
+  var frag,st;
+  if (spanclassAM!=3Dnull) {;
+    frag =3D document.getElementsByTagName("span")
+    for (var i=3D0;i<frag.length;i++)
+      if (frag[i].className =3D=3D "AM")
+        AMprocessNodeR(frag[i],linebreaks);
+  } else {
+    try {
+      st =3D n.innerHTML;
+    } catch(err) {}
+    if (st=3D=3Dnull ||=20
+        st.indexOf(AMdelimiter1)!=3D-1)// || =
+st.indexOf(AMdelimiter2)!=3D-1)=20
+      AMprocessNodeR(n,linebreaks);
+  }
+}
+
+var AMbody;
+var AMtranslated =3D false;
+
+
+AMinitSymbols();
+
+------=_NextPart_000_0013_01CCCC6C.F638BEB0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://os.zju.edu.cn/exercise/javascript/mathjs.js
+
+var pi =3D Math.PI, ln =3D Math.log, e =3D Math.E;
+var arcsin =3D Math.asin, arccos =3D Math.acos, arctan =3D Math.atan;
+var sec =3D function(x) { return 1/Math.cos(x) };
+var csc =3D function(x) { return 1/Math.sin(x) };
+var cot =3D function(x) { return 1/Math.tan(x) };
+
+var arcsec =3D function(x) { return arccos(1/x) };
+var arccsc =3D function(x) { return arcsin(1/x) };
+var arccot =3D function(x) { return arctan(1/x) };
+var sinh =3D function(x) { return (Math.exp(x)-Math.exp(-x))/2 };
+var cosh =3D function(x) { return (Math.exp(x)+Math.exp(-x))/2 };
+var tanh =3D=20
+  function(x) { return =
+(Math.exp(x)-Math.exp(-x))/(Math.exp(x)+Math.exp(-x)) };
+var sech =3D function(x) { return 1/cosh(x) };
+var csch =3D function(x) { return 1/sinh(x) };
+var coth =3D function(x) { return 1/tanh(x) };
+
+var arcsinh =3D function(x) { return ln(x+Math.sqrt(x*x+1)) };
+var arccosh =3D function(x) { return ln(x+Math.sqrt(x*x-1)) };
+var arctanh =3D function(x) { return ln((1+x)/(1-x))/2 };
+var sech =3D function(x) { return 1/cosh(x) };
+var csch =3D function(x) { return 1/sinh(x) };
+var coth =3D function(x) { return 1/tanh(x) };
+var arcsech =3D function(x) { return arccosh(1/x) };
+var arccsch =3D function(x) { return arcsinh(1/x) };
+var arccoth =3D function(x) { return arctanh(1/x) };
+var sign =3D function(x) { return (x=3D=3D0?0:(x<0?-1:1)) };
+var logten =3D function(x) { return (Math.LOG10E*Math.log(x)) };
+
+
+function factorial(x,n) {
+  if (n=3D=3Dnull) n=3D1;
+  for (var i=3Dx-n; i>0; i-=3Dn) x*=3Di;
+  return (x<0?NaN:(x=3D=3D0?1:x));
+}
+
+
+function C(x,k) {
+  var res=3D1;
+  for (var i=3D0; i<k; i++) res*=3D(x-i)/(k-i);
+  return res;
+}
+
+function matchtolower(match) {
+	return match.toLowerCase();
+}
+function nthroot(n,base) {
+	return safepow(base,1/n);
+}
+
+function safepow(base,power) {
+	if (base<0 && Math.floor(power)!=3Dpower) {
+		for (var j=3D3; j<50; j+=3D2) {
+			if (Math.abs(Math.round(j*power)-(j*power))<.000001) {
+				if (Math.round(j*power)%2=3D=3D0) {
+					return Math.pow(Math.abs(base),power);
+				} else {
+					return -1*Math.pow(Math.abs(base),power);
+				}
+			}
+		}
+		return sqrt(-1);
+	} else {
+		return Math.pow(base,power);
+	}
+}
+function mathjs(st,varlist) {
+  //translate a math formula to js function notation
+  // a^b --> pow(a,b)
+  // na --> n*a
+  // (...)d --> (...)*d
+  // n! --> factorial(n)
+  // sin^-1 --> arcsin etc.
+  //while ^ in string, find term on left and right
+  //slice and concat new formula string
+  //parenthesizes the function variables
+  st =3D st.replace("[","(");
+  st =3D st.replace("]",")");
+  if (varlist !=3D null) {
+	  var reg =3D new RegExp("("+varlist+")("+varlist+")$","g");
+	  st =3D st.replace(reg,"($1)($2)");
+	  var reg =3D new =
+RegExp("("+varlist+")(sqrt|ln|log|sin|cos|tan|sec|csc|cot|abs)");
+	  st =3D st.replace(reg,"($1)$2");
+	  var reg =3D new =
+RegExp("("+varlist+")("+varlist+")([^a-df-zA-Z\(])","g");
+	  st =3D st.replace(reg,"($1)($2)$3");
+	  var reg =3D new RegExp("("+varlist+")("+varlist+")(\w*[^\(])","g");
+	  st =3D st.replace(reg,"($1)($2)$3");
+	  var reg =3D new =
+RegExp("([^a-df-zA-Z])("+varlist+")([^a-df-zA-Z])","g");
+	  st =3D st.replace(reg,"$1($2)$3");	 =20
+	  var reg =3D new RegExp("^("+varlist+")([^a-df-zA-Z])","g");
+	  st =3D st.replace(reg,"($1)$2");
+	  var reg =3D new RegExp("([^a-df-zA-Z])("+varlist+")$","g");
+	  st =3D st.replace(reg,"$1($2)");
+  }
+  st =3D st.replace(/\s/g,"");
+  st =3D st.replace(/log/g,"logten");
+  st =3D st.replace(/(Sin|Cos|Tan|Sec|Csc|Cot|Arc|Abs|Log|Ln)/g, =
+matchtolower);
+  if (st.indexOf("^-1")!=3D-1) {
+    st =3D st.replace(/sin\^-1/g,"arcsin");
+    st =3D st.replace(/cos\^-1/g,"arccos");
+    st =3D st.replace(/tan\^-1/g,"arctan");
+    st =3D st.replace(/sec\^-1/g,"arcsec");
+    st =3D st.replace(/csc\^-1/g,"arccsc");
+    st =3D st.replace(/cot\^-1/g,"arccot");
+    st =3D st.replace(/sinh\^-1/g,"arcsinh");
+    st =3D st.replace(/cosh\^-1/g,"arccosh");
+    st =3D st.replace(/tanh\^-1/g,"arctanh");
+    st =3D st.replace(/sech\^-1/g,"arcsech");
+    st =3D st.replace(/csch\^-1/g,"arccsch");
+    st =3D st.replace(/coth\^-1/g,"arccoth");
+  }
+ =20
+  st =3D st.replace(/root\((\d+)\)\(/,"nthroot($1,");
+  //st =3D st.replace(/E/g,"(EE)");
+  st =3D st.replace(/([0-9])E([\-0-9])/g,"$1(EE)$2");
+  st =3D st.replace(/^e$/g,"(E)");
+  st =3D st.replace(/pi/g,"(pi)");
+  st =3D st.replace(/^e([^a-zA-Z])/g,"(E)$1");
+  st =3D st.replace(/([^a-zA-Z])e$/g,"$1(E)");
+ =20
+  st =3D st.replace(/([^a-zA-Z])e([^a-zA-Z])/g,"$1(E)$2");
+  st =3D st.replace(/([0-9])([\(a-zA-Z])/g,"$1*$2");
+  st =3D st.replace(/(!)([0-9\(])/g,"$1*$2");
+  //want to keep scientific notation
+  st=3D st.replace(/([0-9])\*\(EE\)([\-0-9])/,"$1e$2");
+
+ =20
+  st =3D st.replace(/\)([\(0-9a-zA-Z])/g,"\)*$1");
+ =20
+  var i,j,k, ch, nested;
+  while ((i=3Dst.indexOf("^"))!=3D-1) {
+    //find left argument
+    if (i=3D=3D0) return "Error: missing argument";
+    j =3D i-1;
+    ch =3D st.charAt(j);
+    if (ch>=3D"0" && ch<=3D"9") {// look for (decimal) number
+      j--;
+      while (j>=3D0 && (ch=3Dst.charAt(j))>=3D"0" && ch<=3D"9") j--;
+      if (ch=3D=3D".") {
+        j--;
+        while (j>=3D0 && (ch=3Dst.charAt(j))>=3D"0" && ch<=3D"9") j--;
+      }
+    } else if (ch=3D=3D")") {// look for matching opening bracket and =
+function name
+      nested =3D 1;
+      j--;
+      while (j>=3D0 && nested>0) {
+        ch =3D st.charAt(j);
+        if (ch=3D=3D"(") nested--;
+        else if (ch=3D=3D")") nested++;
+        j--;
+      }
+      while (j>=3D0 && (ch=3Dst.charAt(j))>=3D"a" && ch<=3D"z" || =
+ch>=3D"A" && ch<=3D"Z")
+        j--;
+    } else if (ch>=3D"a" && ch<=3D"z" || ch>=3D"A" && ch<=3D"Z") {// =
+look for variable
+      j--;
+      while (j>=3D0 && (ch=3Dst.charAt(j))>=3D"a" && ch<=3D"z" || =
+ch>=3D"A" && ch<=3D"Z")
+        j--;
+    } else {=20
+      return "Error: incorrect syntax in "+st+" at position "+j;
+    }
+    //find right argument
+    if (i=3D=3Dst.length-1) return "Error: missing argument";
+    k =3D i+1;
+    ch =3D st.charAt(k);
+    nch =3D st.charAt(k+1);
+    if (ch>=3D"0" && ch<=3D"9" || (ch=3D=3D"-" && nch!=3D"(") || =
+ch=3D=3D".") {// look for signed (decimal) number
+      k++;
+      while (k<st.length && (ch=3Dst.charAt(k))>=3D"0" && ch<=3D"9") =
+k++;
+      if (ch=3D=3D".") {
+        k++;
+        while (k<st.length && (ch=3Dst.charAt(k))>=3D"0" && ch<=3D"9") =
+k++;
+      }
+    } else if (ch=3D=3D"(" || (ch=3D=3D"-" && nch=3D=3D"(")) {// look =
+for matching closing bracket and function name
+      if (ch=3D=3D"-") { k++;}
+      nested =3D 1;
+      k++;
+      while (k<st.length && nested>0) {
+        ch =3D st.charAt(k);
+        if (ch=3D=3D"(") nested++;
+        else if (ch=3D=3D")") nested--;
+        k++;
+      }
+    } else if (ch>=3D"a" && ch<=3D"z" || ch>=3D"A" && ch<=3D"Z") {// =
+look for variable
+      k++;
+      while (k<st.length && (ch=3Dst.charAt(k))>=3D"a" && ch<=3D"z" ||
+               ch>=3D"A" && ch<=3D"Z") k++;
+    } else {=20
+
+      return "Error: incorrect syntax in "+st+" at position "+k;
+    }
+    st =3D =
+st.slice(0,j+1)+"safepow("+st.slice(j+1,i)+","+st.slice(i+1,k)+")"+
+           st.slice(k);
+  }
+  while ((i=3Dst.indexOf("!"))!=3D-1) {
+    //find left argument
+    if (i=3D=3D0) return "Error: missing argument";
+    j =3D i-1;
+    ch =3D st.charAt(j);
+    if (ch>=3D"0" && ch<=3D"9") {// look for (decimal) number
+      j--;
+      while (j>=3D0 && (ch=3Dst.charAt(j))>=3D"0" && ch<=3D"9") j--;
+      if (ch=3D=3D".") {
+        j--;
+        while (j>=3D0 && (ch=3Dst.charAt(j))>=3D"0" && ch<=3D"9") j--;
+      }
+    } else if (ch=3D=3D")") {// look for matching opening bracket and =
+function name
+      nested =3D 1;
+      j--;
+      while (j>=3D0 && nested>0) {
+        ch =3D st.charAt(j);
+        if (ch=3D=3D"(") nested--;
+        else if (ch=3D=3D")") nested++;
+        j--;
+      }
+      while (j>=3D0 && (ch=3Dst.charAt(j))>=3D"a" && ch<=3D"z" || =
+ch>=3D"A" && ch<=3D"Z")
+        j--;
+    } else if (ch>=3D"a" && ch<=3D"z" || ch>=3D"A" && ch<=3D"Z") {// =
+look for variable
+      j--;
+      while (j>=3D0 && (ch=3Dst.charAt(j))>=3D"a" && ch<=3D"z" || =
+ch>=3D"A" && ch<=3D"Z")
+        j--;
+    } else {=20
+      return "Error: incorrect syntax in "+st+" at position "+j;
+    }
+    st =3D =
+st.slice(0,j+1)+"factorial("+st.slice(j+1,i)+")"+st.slice(i+1);
+  }
+
+  return st;
+}
+
+------=_NextPart_000_0013_01CCCC6C.F638BEB0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://os.zju.edu.cn/exercise/javascript/AMhelpers.js
+
+//IMathAS:  Handles preview buttons and pre-submit calculations for =
+assessments
+//(c) 2006 David Lippman
+
+//handles preview button for calculated type
+function calculate(inputId,outputId,format) {
+  var fullstr =3D document.getElementById(inputId).value;
+  if (format.indexOf('list')!=3D-1) {
+	  var strarr =3D fullstr.split(/,/);
+  } else {
+	  var strarr =3D new Array();
+	  strarr[0] =3D fullstr;
+  }
+  for (var sc=3D0;sc<strarr.length;sc++) {
+	  str =3D strarr[sc];
+	  str =3D str.replace(/,/g,"");
+	  var err =3D "";
+	  if (str.match(/DNE/i)) {
+		  str =3D str.toUpperCase();
+	  } else if (str.match(/oo$/) || str.match(/oo\W/)) {
+		  str =3D "`"+str+"`";
+	  } else {
+		  if (format.indexOf('fraction')!=3D-1 || =
+format.indexOf('reducedfraction')!=3D-1) {
+			  str =3D str.replace(/\s/,'');
+			  if (!str.match(/^\s*\-?\(?\d+\s*\/\s*\-?\d+\)?\s*$/) && =
+!str.match(/^\s*?\-?\d+\s*$/)) {
+				err +=3D "not a valid fraction"; =20
+			  }
+		  } else if (format.indexOf('fracordec')!=3D-1) {
+			  str =3D str.replace(/\s/,'');
+			  if (!str.match(/^\s*\-?\(?\d+\s*\/\s*\-?\d+\)?\s*$/) && =
+!str.match(/^\s*?\-?\d+\s*$/) && !str.match(/^\s*\-?\d+\.?(\d+)?\d*$/)) =
+{
+				err +=3D " invalid entry format"; =20
+			  }
+		  } else if (format.indexOf('mixednumber')!=3D-1) {
+			  if (!str.match(/^\s*\-?\s*\d+\s*_\s*\d+\s*\/\s*\d+\s*$/) && =
+!str.match(/^\s*?\-?\d+\s*$/) && =
+!str.match(/^\s*\-?\d+\s*\/\s*\-?\d+\s*$/)) {
+				err +=3D "not a valid mixed number";
+			  }
+			  str =3D str.replace(/_/,' ');
+		  }
+		  if (format.indexOf('notrig')!=3D-1 && =
+str.match(/(sin|cos|tan|cot|sec|csc)/)) {
+			  str =3D "no trig functions allowed";
+		  } else if (format.indexOf('nodecimal')!=3D-1 && =
+str.indexOf('.')!=3D-1) {
+			  str =3D "no decimals allowed";
+		  } else {
+			  try {
+			    with (Math) var res =3D eval(mathjs(str));
+			  } catch(e) {
+			    err =3D "syntax incomplete";
+			  }
+			  if (!isNaN(res) && res!=3D"Infinity") {
+				  if (format.indexOf('fraction')!=3D-1 || =
+format.indexOf('reducedfraction')!=3D-1 || =
+format.indexOf('mixednumber')!=3D-1) {
+					  str =3D "`"+str+"` " + err;
+				  } else {
+					  str =3D "`"+str+" =3D` "+(Math.abs(res)<1e-15?0:res)+err;
+				  }
+			  } else if (str!=3D"") {
+				  var Pdepth =3D 0; var Bdepth =3D 0;
+				  for (var i=3D0; i<str.length; i++) {
+					if (str.charAt(i)=3D=3D'(') {
+						Pdepth++;
+					} else if (str.charAt(i)=3D=3D')') {
+						Pdepth--;
+					} else if (str.charAt(i)=3D=3D'[') {
+						Bdepth++;
+					} else if (str.charAt(i)=3D=3D']') {
+						Bdepth--;
+					}
+				  }
+				  str =3D "`"+str+"` =3D undefined";
+				  if (Pdepth!=3D0 || Bdepth!=3D0) {
+					  str +=3D " (unmatched parens)";
+				  }
+				  trg =3D str.match(/(sin|cos|tan|sec|csc|cot)\^/);
+				  reg =3D new =
+RegExp("(sqrt|ln|log|sin|cos|tan|sec|csc|cot|abs)([^\(])");
+				  errstuff =3D str.match(reg)
+				  if (trg!=3Dnull) {
+					  trg =3D trg[1];
+					  str +=3D " [use ("+trg+"(x))^2 instead of "+trg+"^2(x)]";
+				  } else if (errstuff!=3Dnull) { =20
+					  str +=3D " [use function notation - =
+"+errstuff[1]+"("+errstuff[2]+"), not "+errstuff[0]+"]";
+				  }
+			  }
+		  }
+	  }
+	  strarr[sc] =3D str+" ";
+  }
+  fullstr =3D strarr.join(', ');
+  var outnode =3D document.getElementById(outputId);
+  var n =3D outnode.childNodes.length;
+  for (var i=3D0; i<n; i++)
+    outnode.removeChild(outnode.firstChild);
+  outnode.appendChild(document.createTextNode(fullstr));
+  if (!noMathRender) {
+	  AMprocessNode(outnode);
+  }
+}
+
+//preview for calcinterval type=20
+function intcalculate(inputId,outputId) {
+  var fullstr =3D document.getElementById(inputId).value;
+  fullstr =3D fullstr.replace(/\s+/g,'');
+  if (fullstr.match(/DNE/i)) {
+	  fullstr =3D fullstr.toUpperCase();
+  } else {
+	  var calcvals =3D new Array();
+	  var calcstrarr =3D new Array();
+	  strarr =3D fullstr.split(/U/);
+	  for (i=3D0; i<strarr.length; i++) {
+		  str =3D strarr[i];
+		  sm =3D str.charAt(0);
+		  em =3D str.charAt(str.length-1);
+		  vals =3D str.substring(1,str.length-1);
+		  vals =3D vals.split(/,/);
+		  for (j=3D0; j<2; j++) {=09
+			  if (vals[j].match(/oo$/) || vals[j].match(/oo\W/)) {
+				  calcvals[j] =3D vals[j];
+			  } else {
+				  var err =3D "";
+				 =20
+				  try {
+				    with (Math) var res =3D eval(mathjs(vals[j]));
+				  } catch(e) {
+				    err =3D "syntax incomplete";
+				  }
+				  if (!isNaN(res) && res!=3D"Infinity") {
+					 // if (format.indexOf('fraction')!=3D-1 || =
+format.indexOf('reducedfraction')!=3D-1 || =
+format.indexOf('mixednumber')!=3D-1) {
+						  vals[j] =3D vals[j];
+						  calcvals[j] =3D (Math.abs(res)<1e-15?0:res)+err;
+					  //} else {
+						//  str =3D "`"+str+" =3D` "+(Math.abs(res)<1e-15?0:res)+err;
+					  //}
+				  } =09
+			  }
+		  }
+		  strarr[i] =3D sm + vals[0] + ',' + vals[1] + em;
+		  calcstrarr[i] =3D sm + calcvals[0] + ',' + calcvals[1] + em;
+	 }
+  }
+  fullstr =3D '`'+strarr.join('uu') + '` =3D ' + calcstrarr.join(' U ');
+ =20
+  var outnode =3D document.getElementById(outputId);
+  var n =3D outnode.childNodes.length;
+  for (var i=3D0; i<n; i++)
+    outnode.removeChild(outnode.firstChild);
+  outnode.appendChild(document.createTextNode(fullstr));
+  if (!noMathRender) {
+	  AMprocessNode(outnode);
+  }
+=09
+}
+
+function ntuplecalc(inputId,outputId) {
+	var fullstr =3D document.getElementById(inputId).value;
+	fullstr =3D fullstr.replace(/\s+/g,'');
+	if (fullstr.match(/DNE/i)) {
+		fullstr =3D fullstr.toUpperCase();
+		outcalced =3D 'DNE';
+		outstr =3D 'DNE';
+	} else {
+		var outcalced =3D '';
+		var NCdepth =3D 0;
+		var lastcut =3D 0;
+		for (var i=3D0; i<fullstr.length; i++) {
+			dec =3D false;
+			if (NCdepth=3D=3D0) {
+				outcalced +=3D fullstr.charAt(i);
+				lastcut =3D i+1;
+			}=20
+			if (fullstr.charAt(i).match(/[\(\[\<\{]/)) {
+				NCdepth++;	=09
+			} else if (fullstr.charAt(i).match(/[\)\]\>\}]/)) {
+				NCdepth--;=09
+				dec =3D true;
+			}=09
+		=09
+			if ((NCdepth=3D=3D0 && dec) || (NCdepth=3D=3D1 && =
+fullstr.charAt(i)=3D=3D',')) {
+				sub =3D fullstr.substring(lastcut,i);
+				try {
+				    with (Math) var res =3D eval(mathjs(sub));
+				} catch(e) {
+				    err =3D "syntax incomplete";
+				}
+				if (!isNaN(res) && res!=3D"Infinity") {
+					outcalced +=3D res;
+				} else {
+					outcalced +=3D err;
+				}
+				outcalced +=3D fullstr.charAt(i);
+				lastcut =3D i+1;
+			}
+		}
+		outstr =3D '`'+fullstr+'` =3D '+outcalced;
+	}
+	if (outputId !=3D null) {
+		 var outnode =3D document.getElementById(outputId);
+		 var n =3D outnode.childNodes.length;
+		 for (var i=3D0; i<n; i++) {
+		    outnode.removeChild(outnode.firstChild);
+		 }
+		 outnode.appendChild(document.createTextNode(outstr));
+		 if (!noMathRender) {
+			  AMprocessNode(outnode);
+		 }
+	}
+	 return outcalced;
+}
+
+function matrixcalc(inputId,outputId,rows,cols) {
+=09
+	function calced(estr) {
+		err=3D'';
+		try {
+			with (Math) var res =3D eval(mathjs(estr));
+		} catch(e) {
+			err =3D "syntax incomplete";
+		}
+		if (!isNaN(res) && res!=3D"Infinity")=20
+			estr =3D (Math.abs(res)<1e-15?0:res)+err;=20
+		else if (estr!=3D"") estr =3D "undefined";
+		return estr;
+	}
+	if (rows!=3Dnull && cols!=3Dnull) {
+		var count=3D0;
+		var str =3D "[";
+		var calcstr =3D "[";
+		for (var row=3D0; row < rows; row++) {
+			if (row>0) { str +=3D ","; calcstr +=3D ","}
+			str +=3D "(";
+			calcstr +=3D "(";
+			for (var col=3D0; col<cols; col++) {
+				if (col>0) {str +=3D ","; calcstr +=3D ",";}
+				str +=3D document.getElementById(inputId+'-'+count).value;
+				calcstr +=3D =
+calced(document.getElementById(inputId+'-'+count).value);
+				count++;
+			}
+			str +=3D ")";
+			calcstr +=3D ")";
+		}
+		str +=3D "]";
+		calcstr +=3D "]";
+	} else {
+		var str =3D document.getElementById(inputId).value;
+		var calcstr =3D str;
+		var MCdepth =3D 0;
+		calcstr =3D calcstr.replace('[','(');
+		calcstr =3D calcstr.replace(']',')');
+		calcstr =3D calcstr.replace(/\s+/g,'');
+		var calclist =3D new Array();
+		calcstr =3D calcstr.substring(1,calcstr.length-1);
+		var lastcut =3D 0;
+		for (var i=3D0; i<calcstr.length; i++) {
+			if (calcstr.charAt(i)=3D=3D'(') {
+				MCdepth++;
+			} else if (calcstr.charAt(i)=3D=3D')') {
+				MCdepth--;
+			} else if (calcstr.charAt(i)=3D=3D',' && MCdepth=3D=3D0) {
+				calclist[calclist.length] =3D calcstr.substring(lastcut+1,i-1);
+				lastcut =3D i+1;
+			}
+		}
+		calclist[calclist.length] =3D =
+calcstr.substring(lastcut+1,calcstr.length-1);
+		for (var i=3D0; i<calclist.length; i++) {
+			calclist2 =3D calclist[i].split(',');
+			for (var j=3D0; j<calclist2.length; j++) {
+				calclist2[j] =3D calced(calclist2[j]);
+			}
+			calclist[i] =3D calclist2.join(',');
+		}
+		calcstr =3D '[('+calclist.join('),(')+')]';
+	}
+	//calcstr =3D calcstr.replace(/([^\[\(\)\],]+)/g, calced);
+	str =3D "`"+str+"` =3D `"+calcstr+"`";
+=09
+	if (outputId !=3D null) {
+		var outnode =3D document.getElementById(outputId);
+		var n =3D outnode.childNodes.length;
+		for (var i=3D0; i<n; i++)
+			outnode.removeChild(outnode.firstChild);
+		outnode.appendChild(document.createTextNode(str));
+		if (!noMathRender) {
+			AMprocessNode(outnode);
+		}
+	}
+	return calcstr;
+}
+
+function mathjsformat(inputId,outputId) {
+  var str =3D document.getElementById(inputId).value;
+  var outnode =3D document.getElementById(outputId);
+  outnode.value =3D mathjs(str);
+}
+
+//preview button for numfunc type
+function AMpreview(inputId,outputId) {
+  var qn =3D inputId.slice(2);
+  var vl =3D vlist[qn];
+  var fl =3D flist[qn];
+  vars =3D vl.split("|");
+ =20
+  var str =3D document.getElementById(inputId).value;
+  var dispstr =3D str;
+  //quote out multiletter variables
+  var varstoquote =3D new Array();
+  for (var i=3D0; i<vars.length; i++) {
+	  if (vars[i].length>1) {
+		  var isgreek =3D false;
+		  for (var j=3D0; j<greekletters.length;j++) {
+			  if (vars[i]=3D=3Dgreekletters[j]) {
+				isgreek =3D true;=20
+				break;
+			  }
+		  }
+		  if (!isgreek) {
+			  varstoquote.push(vars[i]);
+		  }
+	  }
+  }
+  if (varstoquote.length>0) {
+	  vltq =3D varstoquote.join("|");
+	  var reg =3D new RegExp("("+vltq+")","g");
+	  dispstr =3D str.replace(reg,"\"$1\"");
+  }
+ =20
+  var outnode =3D document.getElementById(outputId);
+  var n =3D outnode.childNodes.length;
+  for (var i=3D0; i<n; i++)
+    outnode.removeChild(outnode.firstChild);
+    outnode.appendChild(document.createTextNode('`'+dispstr+'`'));
+    if (!noMathRender) {
+	AMprocessNode(outnode);
+    }
+  //outnode.appendChild(AMparseMath(dispstr));
+ =20
+  //the following does a quick syntax check of the formula
+ =20
+ =20
+  ptlist =3D pts[qn].split(",");
+  var tstpt =3D 0; res =3D NaN;
+  if (iseqn[qn]=3D=3D1) {
+	str =3D str.replace(/(.*)=3D(.*)/,"$1-($2)");
+  }
+  if (fl!=3D'') {
+	  reg =3D new RegExp("("+fl+")\\(","g");
+	  str =3D str.replace(reg,"$1*sin($1+");
+	  vl =3D vl+'|'+fl;
+  }
+  vars =3D vl.split('|');
+  var totesteqn =3D mathjs(str,vl);
+ =20
+  while (tstpt<ptlist.length && (isNaN(res) || res=3D=3D"Infinity")) {
+	  var totest =3D '';
+	  testvals =3D ptlist[tstpt].split("~");
+	  for (var j=3D0; j<vars.length; j++) {
+		totest +=3D vars[j] + "=3D"+testvals[j]+";";=20
+	  }
+	  totest +=3D totesteqn;
+
+	  var err=3D"syntax ok";
+	  try {
+	    with (Math) var res =3D eval(totest);
+	  } catch(e) {
+	    err =3D "syntax error";
+	  }
+	  tstpt++;
+  }
+
+  if (isNaN(res) || res=3D=3D"Infinity") {
+	  trg =3D str.match(/(sin|cos|tan|sec|csc|cot)\^/);
+	  reg =3D new =
+RegExp("(sqrt|ln|log|sin|cos|tan|sec|csc|cot|abs)("+vl+"|\\d)");
+	  errstuff =3D str.match(reg)
+	  if (trg!=3Dnull) {
+		  trg =3D trg[1];
+		  err =3D "syntax error: use ("+trg+"(x))^2 instead of "+trg+"^2(x)";
+	  } else if (errstuff!=3Dnull) { =20
+		  err +=3D ": use "+errstuff[1]+"("+errstuff[2]+"), not "+errstuff[0];
+	  } else {
+		  var Pdepth =3D 0; var Bdepth =3D 0;
+		  for (var i=3D0; i<str.length; i++) {
+			if (str.charAt(i)=3D=3D'(') {
+				Pdepth++;
+			} else if (str.charAt(i)=3D=3D')') {
+				Pdepth--;
+			} else if (str.charAt(i)=3D=3D'[') {
+				Bdepth++;
+			} else if (str.charAt(i)=3D=3D']') {
+				Bdepth--;
+			}
+		  }
+		  if (Pdepth!=3D0 || Bdepth!=3D0) {
+			  err +=3D ": unmatched parens";
+		  } else {
+			 //catch (cos)(x)
+			reg =3D new RegExp("(sqrt|ln|log|sin|cos|tan|sec|csc|cot|abs)[^\(]");
+			errstuff =3D str.match(reg);
+			if (errstuff!=3Dnull) {
+				err =3D "syntax error: use function notation - "+errstuff[1]+"(x)";
+			} else {
+				err =3D "syntax error";
+			}
+		  }
+		  //err =3D "syntax error";
+	  }
+  } else {
+	 =20
+	reg =3D new =
+RegExp("(sqrt|ln|log|sin|cos|tan|sec|csc|cot|abs)\\s*("+vl+")");
+	errstuff =3D str.match(reg);
+	if (errstuff!=3Dnull) {
+		err +=3D ": warning: use "+errstuff[1]+"("+errstuff[2]+") rather than =
+"+errstuff[0];
+	}
+  }
+  outnode.appendChild(document.createTextNode(" " + err));
+  //clear out variables that have been defined
+  var toclear =3D '';=20
+  for (var j=3D0; j<vl.length; j++) {
+	toclear +=3D vars[j] + "=3DNaN;";=20
+  }
+  eval(toclear);
+}
+
+//preview for matrix type
+function AMmathpreview(inputId,outputId) {
+ =20
+  var str =3D document.getElementById(inputId).value;
+
+  var outnode =3D document.getElementById(outputId);
+  var n =3D outnode.childNodes.length;
+  for (var i=3D0; i<n; i++)
+    outnode.removeChild(outnode.firstChild);
+  //outnode.appendChild(AMparseMath(str));
+   outnode.appendChild(document.createTextNode('`'+str+'`'));
+    if (!noMathRender) {
+	AMprocessNode(outnode);
+    }
+=20
+}
+
+var greekletters =3D =
+['alpha','beta','delta','gamma','phi','psi','sigma','rho','theta'];
+var calctoproc =3D new Array();
+var intcalctoproc =3D new Array();
+var calcformat =3D new Array();
+var functoproc =3D new Array();
+var matcalctoproc =3D new Array();
+var ntupletoproc =3D new Array();
+var matsize =3D new Array();
+var vlist =3D new Array();
+var flist =3D new Array();
+var pts =3D new Array();
+var iseqn =3D new Array();
+
+function doonsubmit(form,type2,skipconfirm) {
+	if (form!=3Dnull) {
+		if (!skipconfirm) {
+			if (type2) {
+				var reallysubmit =3D confirmSubmit2(form);
+			} else {
+				var reallysubmit =3D confirmSubmit(form);
+			}
+			if (!reallysubmit) {
+				return false;
+			}
+		}
+	}
+	for (var i=3D0; i<intcalctoproc.length; i++) {
+		var nh =3D document.createElement("INPUT");
+		nh.type =3D "hidden";
+		nh.name =3D "qn" + intcalctoproc[i];
+		fullstr =3D document.getElementById("tc"+intcalctoproc[i]).value;
+		fullstr =3D fullstr.replace(/\s+/g,'');
+		if (fullstr.match(/DNE/i)) {
+			  fullstr =3D fullstr.toUpperCase();
+		  } else {
+			  strarr =3D fullstr.split(/U/);
+			  for (k=3D0; k<strarr.length; k++) {
+				  str =3D strarr[k];
+				  if (str.length>0 && str.match(/,/)) {
+					  sm =3D str.charAt(0);
+					  em =3D str.charAt(str.length-1);
+					  vals =3D str.substring(1,str.length-1);
+					  vals =3D vals.split(/,/);
+					  for (j=3D0; j<2; j++) {	 =20
+						  if (!vals[j].match(/oo$/) && !vals[j].match(/oo\W/)) =
+{//(!vals[j].match(/oo/)) {
+							  var err =3D "";
+							 =20
+							  try {
+							    with (Math) var res =3D eval(mathjs(vals[j]));
+							  } catch(e) {
+							    err =3D "syntax incomplete";
+							  }
+							  if (!isNaN(res) && res!=3D"Infinity") {
+									  vals[j] =3D (Math.abs(res)<1e-15?0:res)+err;
+							  } =09
+						  }
+					  }
+					  strarr[k] =3D sm + vals[0] + ',' + vals[1] + em;
+				  }
+			 }
+		  }
+		  nh.value =3D strarr.join('U');
+		  outn =3D document.getElementById("p"+intcalctoproc[i]);
+		  outn.appendChild(nh);
+	}
+	for (var i=3D0; i<calctoproc.length; i++) {
+		var nh =3D document.createElement("INPUT");
+		nh.type =3D "hidden";
+		nh.name =3D "qn" + calctoproc[i];
+		str =3D document.getElementById("tc"+calctoproc[i]).value;
+		if (calcformat[calctoproc[i]].indexOf('list')!=3D-1) {
+			strarr =3D str.split(/,/);
+		} else {
+			var strarr =3D new Array();
+			strarr[0] =3D str;
+		}
+		for (var sc=3D0;sc<strarr.length;sc++) {
+			str =3D strarr[sc];
+		=09
+			str =3D str.replace(/,/g,"");
+			str =3D str.replace(/(\d+)\s*_\s*(\d+\s*\/\s*\d+)/,"($1+$2)");
+			if (str.match(/^\s*$/)) {
+				var res =3D '';
+			} else if (str.match(/oo$/) || str.match(/oo\W/)) {
+				var res =3D str;
+			} else if (str.match(/DNE/i)) {
+				var res =3D str.toUpperCase();
+			} else {
+				try {
+					with (Math) var res =3D eval(mathjs(str));
+				} catch(e) {
+					err =3D "syntax incomplete";
+				}
+			}
+			strarr[sc] =3D res;
+		}
+		nh.value =3D strarr.join(',');
+		outn =3D document.getElementById("p"+calctoproc[i]);
+		outn.appendChild(nh);
+	}
+	for (var i=3D0; i<matcalctoproc.length; i++) {
+		var nh =3D document.createElement("INPUT");
+		nh.type =3D "hidden";
+		nh.name =3D "qn" + matcalctoproc[i];
+		if (matsize[matcalctoproc[i]]!=3D null) {
+			msize =3D matsize[matcalctoproc[i]].split(",");
+			str =3D matrixcalc("qn"+matcalctoproc[i],null,msize[0],msize[1]);
+		} else {
+			str =3D matrixcalc("tc"+matcalctoproc[i],null);
+		}
+		nh.value =3D str;
+		outn =3D document.getElementById("p"+matcalctoproc[i]);
+		outn.appendChild(nh);
+	}
+	for (var i=3D0; i<ntupletoproc.length; i++) {
+		var nh =3D document.createElement("INPUT");
+		nh.type =3D "hidden";
+		nh.name =3D "qn" + ntupletoproc[i];
+		str =3D ntuplecalc("tc"+ntupletoproc[i],null);
+		nh.value =3D str;
+		outn =3D document.getElementById("p"+ntupletoproc[i]);
+		outn.appendChild(nh);
+	}
+	for (var i=3D0; i<functoproc.length; i++) {
+		var nh =3D document.createElement("INPUT");
+		nh.type =3D "hidden";
+		nh.name =3D "qn" + functoproc[i];
+		str =3D document.getElementById("tc"+functoproc[i]).value;
+		if (iseqn[functoproc[i]]=3D=3D1) {
+			str =3D str.replace(/(.*)=3D(.*)/,"$1-($2)");
+		}
+		fl =3D flist[functoproc[i]];
+		varlist =3D vlist[functoproc[i]];
+		if (fl!=3D'') {
+			reg =3D new RegExp("("+fl+")\\(","g");
+			str =3D str.replace(reg,"$1*sin($1+");
+			varlist =3D varlist+'|'+fl;
+		}
+		vars =3D varlist.split("|");
+		nh.value =3D mathjs(str,varlist);
+
+		outn =3D document.getElementById("p"+functoproc[i]);
+		outn.appendChild(nh);
+	=09
+		ptlist =3D pts[functoproc[i]].split(",");
+		vals=3D new Array();
+		for (var j=3D0; j<ptlist.length;j++) { //for each set of inputs
+			inputs =3D ptlist[j].split("~");
+			totest =3D '';
+			for (var k=3D0; k<inputs.length; k++) {
+				//totest +=3D varlist.charAt(k) + "=3D" + inputs[k] + ";";
+				totest +=3D vars[k] + "=3D" + inputs[k] + ";";
+			}
+			totest +=3D nh.value;
+			try {
+				with (Math) vals[j] =3D eval(totest);
+			} catch (e) {
+				vals[j] =3D NaN;
+			}=09
+		}
+		var nh2 =3D document.createElement("input");
+		nh2.type =3D "hidden";
+		nh2.name =3D "qn" + functoproc[i] + "-vals";
+		nh2.value =3D vals.join(",");
+		outn.appendChild(nh2);
+	=09
+	}
+	return true;
+}
+
+------=_NextPart_000_0013_01CCCC6C.F638BEB0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://os.zju.edu.cn/exercise/javascript/confirmsubmit.js
+
+//Modified from version by By Martin Honnen
+//taken from =
+http://www.faqts.com/knowledge_base/view.phtml/aid/1756/fid/129
+function checkComplete (form) {
+	if (!form.elements) { return true;} //temp fix for editor preventing =
+this from working right
+  for (var e =3D 0; e < form.elements.length; e++) {
+    var el =3D form.elements[e];
+    if (typeof el.type =3D=3D "undefined") {
+	    continue;
+    }
+    if (el.type =3D=3D 'text' || el.type =3D=3D 'textarea' ||
+        el.type =3D=3D 'password' || el.type =3D=3D 'file' ) {
+      if (el.value =3D=3D '') {
+        return false;
+      }
+    }
+    else if (el.type.indexOf('select') !=3D -1) {
+      if (el.selectedIndex =3D=3D -1) {
+        return false;
+      }
+    }
+    else if (el.type =3D=3D 'radio') {
+      var group =3D form[el.name];
+      var checked =3D false;
+      if (!group.length)
+        checked =3D el.checked;
+      else
+        for (var r =3D 0; r < group.length; r++)
+          if ((checked =3D group[r].checked))
+            break;
+      if (!checked) {
+        return false;
+      }
+    }
+  }
+  return true;
+}
+
+function confirmSubmit (form) {
+	var allans =3D checkComplete(form);
+	if (!allans) {
+		var msg =3D "Not all question parts have been answered.  Are you sure =
+you want to submit this question?";
+		return confirm(msg);
+	} else {
+		return true;
+	}
+}
+function confirmSubmit2 (form) {
+	var allans =3D checkComplete(form);
+	if (!allans) {
+		var msg =3D "Not all questions have been answered completely.  If you =
+are saving your answers for later, this is fine.  If you are submitting =
+for grading, are you sure you want to submit now?";
+		return confirm(msg);
+	} else {
+		return true;
+	}
+}
+
+------=_NextPart_000_0013_01CCCC6C.F638BEB0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://os.zju.edu.cn/exercise/javascript/excanvas.js
+
+// Copyright 2006 Google Inc.=0A=
+//=0A=
+// Licensed under the Apache License, Version 2.0 (the "License");=0A=
+// you may not use this file except in compliance with the License.=0A=
+// You may obtain a copy of the License at=0A=
+//=0A=
+//   http://www.apache.org/licenses/LICENSE-2.0=0A=
+//=0A=
+// Unless required by applicable law or agreed to in writing, software=0A=
+// distributed under the License is distributed on an "AS IS" BASIS,=0A=
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or =
+implied.=0A=
+// See the License for the specific language governing permissions and=0A=
+// limitations under the License.=0A=
+=0A=
+=0A=
+// Known Issues:=0A=
+//=0A=
+// * Patterns are not implemented.=0A=
+// * Radial gradient are not implemented. The VML version of these look =
+very=0A=
+//   different from the canvas one.=0A=
+// * Clipping paths are not implemented.=0A=
+// * Coordsize. The width and height attribute have higher priority than =
+the=0A=
+//   width and height style values which isn't correct.=0A=
+// * Painting mode isn't implemented.=0A=
+// * Canvas width/height should is using content-box by default. IE in=0A=
+//   Quirks mode will draw the canvas using border-box. Either change =
+your=0A=
+//   doctype to HTML5=0A=
+//   (http://www.whatwg.org/specs/web-apps/current-work/#the-doctype)=0A=
+//   or use Box Sizing Behavior from WebFX=0A=
+//   (http://webfx.eae.net/dhtml/boxsizing/boxsizing.html)=0A=
+// * Optimize. There is always room for speed improvements.=0A=
+=0A=
+// only add this code if we do not already have a canvas implementation=0A=
+if (!window.CanvasRenderingContext2D) {=0A=
+=0A=
+(function () {=0A=
+=0A=
+  // alias some functions to make (compiled) code shorter=0A=
+  var m =3D Math;=0A=
+  var mr =3D m.round;=0A=
+  var ms =3D m.sin;=0A=
+  var mc =3D m.cos;=0A=
+=0A=
+  // this is used for sub pixel precision=0A=
+  var Z =3D 10;=0A=
+  var Z2 =3D Z / 2;=0A=
+=0A=
+  var G_vmlCanvasManager_ =3D {=0A=
+    init: function (opt_doc) {=0A=
+      var doc =3D opt_doc || document;=0A=
+      if (/MSIE/.test(navigator.userAgent) && !window.opera) {=0A=
+        var self =3D this;=0A=
+        doc.attachEvent("onreadystatechange", function () {=0A=
+          self.init_(doc);=0A=
+        });=0A=
+      }=0A=
+    },=0A=
+=0A=
+    init_: function (doc) {=0A=
+      if (doc.readyState =3D=3D "complete") {=0A=
+        // create xmlns=0A=
+        if (!doc.namespaces["g_vml_"]) {=0A=
+          doc.namespaces.add("g_vml_", "urn:schemas-microsoft-com:vml");=0A=
+        }=0A=
+=0A=
+        // setup default css=0A=
+        var ss =3D doc.createStyleSheet();=0A=
+        ss.cssText =3D "canvas{display:inline-block;overflow:hidden;" +=0A=
+            // default size is 300x150 in Gecko and Opera=0A=
+            "text-align:left;width:300px;height:150px}" +=0A=
+            "g_vml_\\:*{behavior:url(#default#VML)}";=0A=
+=0A=
+        // find all canvas elements=0A=
+        var els =3D doc.getElementsByTagName("canvas");=0A=
+        for (var i =3D 0; i < els.length; i++) {=0A=
+          if (!els[i].getContext) {=0A=
+            this.initElement(els[i]);=0A=
+          }=0A=
+        }=0A=
+      }=0A=
+    },=0A=
+=0A=
+    fixElement_: function (el) {=0A=
+      // in IE before version 5.5 we would need to add HTML: to the tag =
+name=0A=
+      // but we do not care about IE before version 6=0A=
+      var outerHTML =3D el.outerHTML;=0A=
+=0A=
+      var newEl =3D el.ownerDocument.createElement(outerHTML);=0A=
+      // if the tag is still open IE has created the children as =
+siblings and=0A=
+      // it has also created a tag with the name "/FOO"=0A=
+      if (outerHTML.slice(-2) !=3D "/>") {=0A=
+        var tagName =3D "/" + el.tagName;=0A=
+        var ns;=0A=
+        // remove content=0A=
+        while ((ns =3D el.nextSibling) && ns.tagName !=3D tagName) {=0A=
+          ns.removeNode();=0A=
+        }=0A=
+        // remove the incorrect closing tag=0A=
+        if (ns) {=0A=
+          ns.removeNode();=0A=
+        }=0A=
+      }=0A=
+      el.parentNode.replaceChild(newEl, el);=0A=
+      return newEl;=0A=
+    },=0A=
+=0A=
+    /**=0A=
+     * Public initializes a canvas element so that it can be used as =
+canvas=0A=
+     * element from now on. This is called automatically before the page =
+is=0A=
+     * loaded but if you are creating elements using createElement you =
+need to=0A=
+     * make sure this is called on the element.=0A=
+     * @param {HTMLElement} el The canvas element to initialize.=0A=
+     * @return {HTMLElement} the element that was created.=0A=
+     */=0A=
+    initElement: function (el) {=0A=
+      el =3D this.fixElement_(el);=0A=
+      el.getContext =3D function () {=0A=
+        if (this.context_) {=0A=
+          return this.context_;=0A=
+        }=0A=
+        return this.context_ =3D new CanvasRenderingContext2D_(this);=0A=
+      };=0A=
+=0A=
+      // do not use inline function because that will leak memory=0A=
+      el.attachEvent('onpropertychange', onPropertyChange);=0A=
+      el.attachEvent('onresize', onResize);=0A=
+=0A=
+      var attrs =3D el.attributes;=0A=
+      if (attrs.width && attrs.width.specified) {=0A=
+        // TODO: use runtimeStyle and coordsize=0A=
+        // el.getContext().setWidth_(attrs.width.nodeValue);=0A=
+        el.style.width =3D attrs.width.nodeValue + "px";=0A=
+      } else {=0A=
+        el.width =3D el.clientWidth;=0A=
+      }=0A=
+      if (attrs.height && attrs.height.specified) {=0A=
+        // TODO: use runtimeStyle and coordsize=0A=
+        // el.getContext().setHeight_(attrs.height.nodeValue);=0A=
+        el.style.height =3D attrs.height.nodeValue + "px";=0A=
+      } else {=0A=
+        el.height =3D el.clientHeight;=0A=
+      }=0A=
+      //el.getContext().setCoordsize_()=0A=
+      return el;=0A=
+    }=0A=
+  };=0A=
+=0A=
+  function onPropertyChange(e) {=0A=
+    var el =3D e.srcElement;=0A=
+=0A=
+    switch (e.propertyName) {=0A=
+      case 'width':=0A=
+        el.style.width =3D el.attributes.width.nodeValue + "px";=0A=
+        el.getContext().clearRect();=0A=
+        break;=0A=
+      case 'height':=0A=
+        el.style.height =3D el.attributes.height.nodeValue + "px";=0A=
+        el.getContext().clearRect();=0A=
+        break;=0A=
+    }=0A=
+  }=0A=
+=0A=
+  function onResize(e) {=0A=
+    var el =3D e.srcElement;=0A=
+    if (el.firstChild) {=0A=
+      el.firstChild.style.width =3D  el.clientWidth + 'px';=0A=
+      el.firstChild.style.height =3D el.clientHeight + 'px';=0A=
+    }=0A=
+  }=0A=
+=0A=
+  G_vmlCanvasManager_.init();=0A=
+=0A=
+  // precompute "00" to "FF"=0A=
+  var dec2hex =3D [];=0A=
+  for (var i =3D 0; i < 16; i++) {=0A=
+    for (var j =3D 0; j < 16; j++) {=0A=
+      dec2hex[i * 16 + j] =3D i.toString(16) + j.toString(16);=0A=
+    }=0A=
+  }=0A=
+=0A=
+  function createMatrixIdentity() {=0A=
+    return [=0A=
+      [1, 0, 0],=0A=
+      [0, 1, 0],=0A=
+      [0, 0, 1]=0A=
+    ];=0A=
+  }=0A=
+=0A=
+  function matrixMultiply(m1, m2) {=0A=
+    var result =3D createMatrixIdentity();=0A=
+=0A=
+    for (var x =3D 0; x < 3; x++) {=0A=
+      for (var y =3D 0; y < 3; y++) {=0A=
+        var sum =3D 0;=0A=
+=0A=
+        for (var z =3D 0; z < 3; z++) {=0A=
+          sum +=3D m1[x][z] * m2[z][y];=0A=
+        }=0A=
+=0A=
+        result[x][y] =3D sum;=0A=
+      }=0A=
+    }=0A=
+    return result;=0A=
+  }=0A=
+=0A=
+  function copyState(o1, o2) {=0A=
+    o2.fillStyle     =3D o1.fillStyle;=0A=
+    o2.lineCap       =3D o1.lineCap;=0A=
+    o2.lineJoin      =3D o1.lineJoin;=0A=
+    o2.lineWidth     =3D o1.lineWidth;=0A=
+    o2.miterLimit    =3D o1.miterLimit;=0A=
+    o2.shadowBlur    =3D o1.shadowBlur;=0A=
+    o2.shadowColor   =3D o1.shadowColor;=0A=
+    o2.shadowOffsetX =3D o1.shadowOffsetX;=0A=
+    o2.shadowOffsetY =3D o1.shadowOffsetY;=0A=
+    o2.strokeStyle   =3D o1.strokeStyle;=0A=
+    o2.arcScaleX_    =3D o1.arcScaleX_;=0A=
+    o2.arcScaleY_    =3D o1.arcScaleY_;=0A=
+  }=0A=
+=0A=
+  function processStyle(styleString) {=0A=
+    var str, alpha =3D 1;=0A=
+=0A=
+    styleString =3D String(styleString);=0A=
+    if (styleString.substring(0, 3) =3D=3D "rgb") {=0A=
+      var start =3D styleString.indexOf("(", 3);=0A=
+      var end =3D styleString.indexOf(")", start + 1);=0A=
+      var guts =3D styleString.substring(start + 1, end).split(",");=0A=
+=0A=
+      str =3D "#";=0A=
+      for (var i =3D 0; i < 3; i++) {=0A=
+        str +=3D dec2hex[Number(guts[i])];=0A=
+      }=0A=
+=0A=
+      if ((guts.length =3D=3D 4) && (styleString.substr(3, 1) =3D=3D =
+"a")) {=0A=
+        alpha =3D guts[3];=0A=
+      }=0A=
+    } else {=0A=
+      str =3D styleString;=0A=
+    }=0A=
+=0A=
+    return [str, alpha];=0A=
+  }=0A=
+=0A=
+  function processLineCap(lineCap) {=0A=
+    switch (lineCap) {=0A=
+      case "butt":=0A=
+        return "flat";=0A=
+      case "round":=0A=
+        return "round";=0A=
+      case "square":=0A=
+      default:=0A=
+        return "square";=0A=
+    }=0A=
+  }=0A=
+=0A=
+  /**=0A=
+   * This class implements CanvasRenderingContext2D interface as =
+described by=0A=
+   * the WHATWG.=0A=
+   * @param {HTMLElement} surfaceElement The element that the 2D context =
+should=0A=
+   * be associated with=0A=
+   */=0A=
+   function CanvasRenderingContext2D_(surfaceElement) {=0A=
+    this.m_ =3D createMatrixIdentity();=0A=
+=0A=
+    this.mStack_ =3D [];=0A=
+    this.aStack_ =3D [];=0A=
+    this.currentPath_ =3D [];=0A=
+=0A=
+    // Canvas context properties=0A=
+    this.strokeStyle =3D "#000";=0A=
+    this.fillStyle =3D "#000";=0A=
+=0A=
+    this.lineWidth =3D 1;=0A=
+    this.lineJoin =3D "miter";=0A=
+    this.lineCap =3D "butt";=0A=
+    this.miterLimit =3D Z * 1;=0A=
+    this.globalAlpha =3D 1;=0A=
+    this.canvas =3D surfaceElement;=0A=
+=0A=
+    var el =3D surfaceElement.ownerDocument.createElement('div');=0A=
+    el.style.width =3D  surfaceElement.clientWidth + 'px';=0A=
+    el.style.height =3D surfaceElement.clientHeight + 'px';=0A=
+    el.style.overflow =3D 'hidden';=0A=
+    el.style.position =3D 'absolute';=0A=
+    surfaceElement.appendChild(el);=0A=
+=0A=
+    this.element_ =3D el;=0A=
+    this.arcScaleX_ =3D 1;=0A=
+    this.arcScaleY_ =3D 1;=0A=
+  };=0A=
+=0A=
+  var contextPrototype =3D CanvasRenderingContext2D_.prototype;=0A=
+  contextPrototype.clearRect =3D function() {=0A=
+    this.element_.innerHTML =3D "";=0A=
+    this.currentPath_ =3D [];=0A=
+  };=0A=
+=0A=
+  contextPrototype.beginPath =3D function() {=0A=
+    // TODO: Branch current matrix so that save/restore has no effect=0A=
+    //       as per safari docs.=0A=
+=0A=
+    this.currentPath_ =3D [];=0A=
+  };=0A=
+=0A=
+  contextPrototype.moveTo =3D function(aX, aY) {=0A=
+    this.currentPath_.push({type: "moveTo", x: aX, y: aY});=0A=
+    this.currentX_ =3D aX;=0A=
+    this.currentY_ =3D aY;=0A=
+  };=0A=
+=0A=
+  contextPrototype.lineTo =3D function(aX, aY) {=0A=
+    this.currentPath_.push({type: "lineTo", x: aX, y: aY});=0A=
+    this.currentX_ =3D aX;=0A=
+    this.currentY_ =3D aY;=0A=
+  };=0A=
+=0A=
+  contextPrototype.bezierCurveTo =3D function(aCP1x, aCP1y,=0A=
+                                            aCP2x, aCP2y,=0A=
+                                            aX, aY) {=0A=
+    this.currentPath_.push({type: "bezierCurveTo",=0A=
+                           cp1x: aCP1x,=0A=
+                           cp1y: aCP1y,=0A=
+                           cp2x: aCP2x,=0A=
+                           cp2y: aCP2y,=0A=
+                           x: aX,=0A=
+                           y: aY});=0A=
+    this.currentX_ =3D aX;=0A=
+    this.currentY_ =3D aY;=0A=
+  };=0A=
+=0A=
+  contextPrototype.quadraticCurveTo =3D function(aCPx, aCPy, aX, aY) {=0A=
+    // the following is lifted almost directly from=0A=
+    // =
+http://developer.mozilla.org/en/docs/Canvas_tutorial:Drawing_shapes=0A=
+    var cp1x =3D this.currentX_ + 2.0 / 3.0 * (aCPx - this.currentX_);=0A=
+    var cp1y =3D this.currentY_ + 2.0 / 3.0 * (aCPy - this.currentY_);=0A=
+    var cp2x =3D cp1x + (aX - this.currentX_) / 3.0;=0A=
+    var cp2y =3D cp1y + (aY - this.currentY_) / 3.0;=0A=
+    this.bezierCurveTo(cp1x, cp1y, cp2x, cp2y, aX, aY);=0A=
+  };=0A=
+=0A=
+  contextPrototype.arc =3D function(aX, aY, aRadius,=0A=
+                                  aStartAngle, aEndAngle, aClockwise) {=0A=
+    aRadius *=3D Z;=0A=
+    var arcType =3D aClockwise ? "at" : "wa";=0A=
+=0A=
+    var xStart =3D aX + (mc(aStartAngle) * aRadius) - Z2;=0A=
+    var yStart =3D aY + (ms(aStartAngle) * aRadius) - Z2;=0A=
+=0A=
+    var xEnd =3D aX + (mc(aEndAngle) * aRadius) - Z2;=0A=
+    var yEnd =3D aY + (ms(aEndAngle) * aRadius) - Z2;=0A=
+=0A=
+    // IE won't render arches drawn counter clockwise if xStart =3D=3D =
+xEnd.=0A=
+    if (xStart =3D=3D xEnd && !aClockwise) {=0A=
+      xStart +=3D 0.125; // Offset xStart by 1/80 of a pixel. Use =
+something=0A=
+                       // that can be represented in binary=0A=
+    }=0A=
+=0A=
+    this.currentPath_.push({type: arcType,=0A=
+                           x: aX,=0A=
+                           y: aY,=0A=
+                           radius: aRadius,=0A=
+                           xStart: xStart,=0A=
+                           yStart: yStart,=0A=
+                           xEnd: xEnd,=0A=
+                           yEnd: yEnd});=0A=
+=0A=
+  };=0A=
+=0A=
+  contextPrototype.rect =3D function(aX, aY, aWidth, aHeight) {=0A=
+    this.moveTo(aX, aY);=0A=
+    this.lineTo(aX + aWidth, aY);=0A=
+    this.lineTo(aX + aWidth, aY + aHeight);=0A=
+    this.lineTo(aX, aY + aHeight);=0A=
+    this.closePath();=0A=
+  };=0A=
+=0A=
+  contextPrototype.strokeRect =3D function(aX, aY, aWidth, aHeight) {=0A=
+    // Will destroy any existing path (same as FF behaviour)=0A=
+    this.beginPath();=0A=
+    this.moveTo(aX, aY);=0A=
+    this.lineTo(aX + aWidth, aY);=0A=
+    this.lineTo(aX + aWidth, aY + aHeight);=0A=
+    this.lineTo(aX, aY + aHeight);=0A=
+    this.closePath();=0A=
+    this.stroke();=0A=
+  };=0A=
+=0A=
+  contextPrototype.fillRect =3D function(aX, aY, aWidth, aHeight) {=0A=
+    // Will destroy any existing path (same as FF behaviour)=0A=
+    this.beginPath();=0A=
+    this.moveTo(aX, aY);=0A=
+    this.lineTo(aX + aWidth, aY);=0A=
+    this.lineTo(aX + aWidth, aY + aHeight);=0A=
+    this.lineTo(aX, aY + aHeight);=0A=
+    this.closePath();=0A=
+    this.fill();=0A=
+  };=0A=
+=0A=
+  contextPrototype.createLinearGradient =3D function(aX0, aY0, aX1, aY1) =
+{=0A=
+    var gradient =3D new CanvasGradient_("gradient");=0A=
+    return gradient;=0A=
+  };=0A=
+=0A=
+  contextPrototype.createRadialGradient =3D function(aX0, aY0,=0A=
+                                                   aR0, aX1,=0A=
+                                                   aY1, aR1) {=0A=
+    var gradient =3D new CanvasGradient_("gradientradial");=0A=
+    gradient.radius1_ =3D aR0;=0A=
+    gradient.radius2_ =3D aR1;=0A=
+    gradient.focus_.x =3D aX0;=0A=
+    gradient.focus_.y =3D aY0;=0A=
+    return gradient;=0A=
+  };=0A=
+=0A=
+  contextPrototype.drawImage =3D function (image, var_args) {=0A=
+    var dx, dy, dw, dh, sx, sy, sw, sh;=0A=
+=0A=
+    // to find the original width we overide the width and height=0A=
+    var oldRuntimeWidth =3D image.runtimeStyle.width;=0A=
+    var oldRuntimeHeight =3D image.runtimeStyle.height;=0A=
+    image.runtimeStyle.width =3D 'auto';=0A=
+    image.runtimeStyle.height =3D 'auto';=0A=
+=0A=
+    // get the original size=0A=
+    var w =3D image.width;=0A=
+    var h =3D image.height;=0A=
+=0A=
+    // and remove overides=0A=
+    image.runtimeStyle.width =3D oldRuntimeWidth;=0A=
+    image.runtimeStyle.height =3D oldRuntimeHeight;=0A=
+=0A=
+    if (arguments.length =3D=3D 3) {=0A=
+      dx =3D arguments[1];=0A=
+      dy =3D arguments[2];=0A=
+      sx =3D sy =3D 0;=0A=
+      sw =3D dw =3D w;=0A=
+      sh =3D dh =3D h;=0A=
+    } else if (arguments.length =3D=3D 5) {=0A=
+      dx =3D arguments[1];=0A=
+      dy =3D arguments[2];=0A=
+      dw =3D arguments[3];=0A=
+      dh =3D arguments[4];=0A=
+      sx =3D sy =3D 0;=0A=
+      sw =3D w;=0A=
+      sh =3D h;=0A=
+    } else if (arguments.length =3D=3D 9) {=0A=
+      sx =3D arguments[1];=0A=
+      sy =3D arguments[2];=0A=
+      sw =3D arguments[3];=0A=
+      sh =3D arguments[4];=0A=
+      dx =3D arguments[5];=0A=
+      dy =3D arguments[6];=0A=
+      dw =3D arguments[7];=0A=
+      dh =3D arguments[8];=0A=
+    } else {=0A=
+      throw "Invalid number of arguments";=0A=
+    }=0A=
+=0A=
+    var d =3D this.getCoords_(dx, dy);=0A=
+=0A=
+    var w2 =3D sw / 2;=0A=
+    var h2 =3D sh / 2;=0A=
+=0A=
+    var vmlStr =3D [];=0A=
+=0A=
+    var W =3D 10;=0A=
+    var H =3D 10;=0A=
+=0A=
+    // For some reason that I've now forgotten, using divs didn't work=0A=
+    vmlStr.push(' <g_vml_:group',=0A=
+                ' coordsize=3D"', Z * W, ',', Z * H, '"',=0A=
+                ' coordorigin=3D"0,0"' ,=0A=
+                ' style=3D"width:', W, ';height:', H, =
+';position:absolute;');=0A=
+=0A=
+    // If filters are necessary (rotation exists), create them=0A=
+    // filters are bog-slow, so only create them if abbsolutely necessary=0A=
+    // The following check doesn't account for skews (which don't exist=0A=
+    // in the canvas spec (yet) anyway.=0A=
+=0A=
+    if (this.m_[0][0] !=3D 1 || this.m_[0][1]) {=0A=
+      var filter =3D [];=0A=
+=0A=
+      // Note the 12/21 reversal=0A=
+      filter.push("M11=3D'", this.m_[0][0], "',",=0A=
+                  "M12=3D'", this.m_[1][0], "',",=0A=
+                  "M21=3D'", this.m_[0][1], "',",=0A=
+                  "M22=3D'", this.m_[1][1], "',",=0A=
+                  "Dx=3D'", mr(d.x / Z), "',",=0A=
+                  "Dy=3D'", mr(d.y / Z), "'");=0A=
+=0A=
+      // Bounding box calculation (need to minimize displayed area so =
+that=0A=
+      // filters don't waste time on unused pixels.=0A=
+      var max =3D d;=0A=
+      var c2 =3D this.getCoords_(dx + dw, dy);=0A=
+      var c3 =3D this.getCoords_(dx, dy + dh);=0A=
+      var c4 =3D this.getCoords_(dx + dw, dy + dh);=0A=
+=0A=
+      max.x =3D Math.max(max.x, c2.x, c3.x, c4.x);=0A=
+      max.y =3D Math.max(max.y, c2.y, c3.y, c4.y);=0A=
+=0A=
+      vmlStr.push("padding:0 ", mr(max.x / Z), "px ", mr(max.y / Z),=0A=
+                  "px =
+0;filter:progid:DXImageTransform.Microsoft.Matrix(",=0A=
+                  filter.join(""), ", sizingmethod=3D'clip');")=0A=
+    } else {=0A=
+      vmlStr.push("top:", mr(d.y / Z), "px;left:", mr(d.x / Z), "px;")=0A=
+    }=0A=
+=0A=
+    vmlStr.push(' ">' ,=0A=
+                '<g_vml_:image src=3D"', image.src, '"',=0A=
+                ' style=3D"width:', Z * dw, ';',=0A=
+                ' height:', Z * dh, ';"',=0A=
+                ' cropleft=3D"', sx / w, '"',=0A=
+                ' croptop=3D"', sy / h, '"',=0A=
+                ' cropright=3D"', (w - sx - sw) / w, '"',=0A=
+                ' cropbottom=3D"', (h - sy - sh) / h, '"',=0A=
+                ' />',=0A=
+                '</g_vml_:group>');=0A=
+=0A=
+    this.element_.insertAdjacentHTML("BeforeEnd",=0A=
+                                    vmlStr.join(""));=0A=
+  };=0A=
+=0A=
+  contextPrototype.stroke =3D function(aFill) {=0A=
+    var lineStr =3D [];=0A=
+    var lineOpen =3D false;=0A=
+    var a =3D processStyle(aFill ? this.fillStyle : this.strokeStyle);=0A=
+    var color =3D a[0];=0A=
+    var opacity =3D a[1] * this.globalAlpha;=0A=
+=0A=
+    var W =3D 10;=0A=
+    var H =3D 10;=0A=
+=0A=
+    lineStr.push('<g_vml_:shape',=0A=
+                 ' fillcolor=3D"', color, '"',=0A=
+                 ' filled=3D"', Boolean(aFill), '"',=0A=
+                 ' style=3D"position:absolute;width:', W, ';height:', H, =
+';"',=0A=
+                 ' coordorigin=3D"0 0" coordsize=3D"', Z * W, ' ', Z * =
+H, '"',=0A=
+                 ' stroked=3D"', !aFill, '"',=0A=
+                 ' strokeweight=3D"', this.lineWidth, '"',=0A=
+                 ' strokecolor=3D"', color, '"',=0A=
+                 ' path=3D"');=0A=
+=0A=
+    var newSeq =3D false;=0A=
+    var min =3D {x: null, y: null};=0A=
+    var max =3D {x: null, y: null};=0A=
+=0A=
+    for (var i =3D 0; i < this.currentPath_.length; i++) {=0A=
+      var p =3D this.currentPath_[i];=0A=
+=0A=
+      if (p.type =3D=3D "moveTo") {=0A=
+        lineStr.push(" m ");=0A=
+        var c =3D this.getCoords_(p.x, p.y);=0A=
+        lineStr.push(mr(c.x), ",", mr(c.y));=0A=
+      } else if (p.type =3D=3D "lineTo") {=0A=
+        lineStr.push(" l ");=0A=
+        var c =3D this.getCoords_(p.x, p.y);=0A=
+        lineStr.push(mr(c.x), ",", mr(c.y));=0A=
+      } else if (p.type =3D=3D "close") {=0A=
+        lineStr.push(" x ");=0A=
+      } else if (p.type =3D=3D "bezierCurveTo") {=0A=
+        lineStr.push(" c ");=0A=
+        var c =3D this.getCoords_(p.x, p.y);=0A=
+        var c1 =3D this.getCoords_(p.cp1x, p.cp1y);=0A=
+        var c2 =3D this.getCoords_(p.cp2x, p.cp2y);=0A=
+        lineStr.push(mr(c1.x), ",", mr(c1.y), ",",=0A=
+                     mr(c2.x), ",", mr(c2.y), ",",=0A=
+                     mr(c.x), ",", mr(c.y));=0A=
+      } else if (p.type =3D=3D "at" || p.type =3D=3D "wa") {=0A=
+        lineStr.push(" ", p.type, " ");=0A=
+        var c  =3D this.getCoords_(p.x, p.y);=0A=
+        var cStart =3D this.getCoords_(p.xStart, p.yStart);=0A=
+        var cEnd =3D this.getCoords_(p.xEnd, p.yEnd);=0A=
+=0A=
+        lineStr.push(mr(c.x - this.arcScaleX_ * p.radius), ",",=0A=
+                     mr(c.y - this.arcScaleY_ * p.radius), " ",=0A=
+                     mr(c.x + this.arcScaleX_ * p.radius), ",",=0A=
+                     mr(c.y + this.arcScaleY_ * p.radius), " ",=0A=
+                     mr(cStart.x), ",", mr(cStart.y), " ",=0A=
+                     mr(cEnd.x), ",", mr(cEnd.y));=0A=
+      }=0A=
+=0A=
+=0A=
+      // TODO: Following is broken for curves due to=0A=
+      //       move to proper paths.=0A=
+=0A=
+      // Figure out dimensions so we can do gradient fills=0A=
+      // properly=0A=
+      if(c) {=0A=
+        if (min.x =3D=3D null || c.x < min.x) {=0A=
+          min.x =3D c.x;=0A=
+        }=0A=
+        if (max.x =3D=3D null || c.x > max.x) {=0A=
+          max.x =3D c.x;=0A=
+        }=0A=
+        if (min.y =3D=3D null || c.y < min.y) {=0A=
+          min.y =3D c.y;=0A=
+        }=0A=
+        if (max.y =3D=3D null || c.y > max.y) {=0A=
+          max.y =3D c.y;=0A=
+        }=0A=
+      }=0A=
+    }=0A=
+    lineStr.push(' ">');=0A=
+=0A=
+    if (typeof this.fillStyle =3D=3D "object") {=0A=
+      var focus =3D {x: "50%", y: "50%"};=0A=
+      var width =3D (max.x - min.x);=0A=
+      var height =3D (max.y - min.y);=0A=
+      var dimension =3D (width > height) ? width : height;=0A=
+=0A=
+      focus.x =3D mr((this.fillStyle.focus_.x / width) * 100 + 50) + "%";=0A=
+      focus.y =3D mr((this.fillStyle.focus_.y / height) * 100 + 50) + =
+"%";=0A=
+=0A=
+      var colors =3D [];=0A=
+=0A=
+      // inside radius (%)=0A=
+      if (this.fillStyle.type_ =3D=3D "gradientradial") {=0A=
+        var inside =3D (this.fillStyle.radius1_ / dimension * 100);=0A=
+=0A=
+        // percentage that outside radius exceeds inside radius=0A=
+        var expansion =3D (this.fillStyle.radius2_ / dimension * 100) - =
+inside;=0A=
+      } else {=0A=
+        var inside =3D 0;=0A=
+        var expansion =3D 100;=0A=
+      }=0A=
+=0A=
+      var insidecolor =3D {offset: null, color: null};=0A=
+      var outsidecolor =3D {offset: null, color: null};=0A=
+=0A=
+      // We need to sort 'colors' by percentage, from 0 > 100 otherwise =
+ie=0A=
+      // won't interpret it correctly=0A=
+      this.fillStyle.colors_.sort(function (cs1, cs2) {=0A=
+        return cs1.offset - cs2.offset;=0A=
+      });=0A=
+=0A=
+      for (var i =3D 0; i < this.fillStyle.colors_.length; i++) {=0A=
+        var fs =3D this.fillStyle.colors_[i];=0A=
+=0A=
+        colors.push( (fs.offset * expansion) + inside, "% ", fs.color, =
+",");=0A=
+=0A=
+        if (fs.offset > insidecolor.offset || insidecolor.offset =3D=3D =
+null) {=0A=
+          insidecolor.offset =3D fs.offset;=0A=
+          insidecolor.color =3D fs.color;=0A=
+        }=0A=
+=0A=
+        if (fs.offset < outsidecolor.offset || outsidecolor.offset =
+=3D=3D null) {=0A=
+          outsidecolor.offset =3D fs.offset;=0A=
+          outsidecolor.color =3D fs.color;=0A=
+        }=0A=
+      }=0A=
+      colors.pop();=0A=
+=0A=
+      lineStr.push('<g_vml_:fill',=0A=
+                   ' color=3D"', outsidecolor.color, '"',=0A=
+                   ' color2=3D"', insidecolor.color, '"',=0A=
+                   ' type=3D"', this.fillStyle.type_, '"',=0A=
+                   ' focusposition=3D"', focus.x, ', ', focus.y, '"',=0A=
+                   ' colors=3D"', colors.join(""), '"',=0A=
+                   ' opacity=3D"', opacity, '" />');=0A=
+    } else if (aFill) {=0A=
+      lineStr.push('<g_vml_:fill color=3D"', color, '" opacity=3D"', =
+opacity, '" />');=0A=
+    } else {=0A=
+      lineStr.push(=0A=
+        '<g_vml_:stroke',=0A=
+        ' opacity=3D"', opacity,'"',=0A=
+        ' joinstyle=3D"', this.lineJoin, '"',=0A=
+        ' miterlimit=3D"', this.miterLimit, '"',=0A=
+        ' endcap=3D"', processLineCap(this.lineCap) ,'"',=0A=
+        ' weight=3D"', this.lineWidth, 'px"',=0A=
+        ' color=3D"', color,'" />'=0A=
+      );=0A=
+    }=0A=
+=0A=
+    lineStr.push("</g_vml_:shape>");=0A=
+=0A=
+    this.element_.insertAdjacentHTML("beforeEnd", lineStr.join(""));=0A=
+=0A=
+    this.currentPath_ =3D [];=0A=
+  };=0A=
+=0A=
+  contextPrototype.fill =3D function() {=0A=
+    this.stroke(true);=0A=
+  }=0A=
+=0A=
+  contextPrototype.closePath =3D function() {=0A=
+    this.currentPath_.push({type: "close"});=0A=
+  };=0A=
+=0A=
+  /**=0A=
+   * @private=0A=
+   */=0A=
+  contextPrototype.getCoords_ =3D function(aX, aY) {=0A=
+    return {=0A=
+      x: Z * (aX * this.m_[0][0] + aY * this.m_[1][0] + this.m_[2][0]) - =
+Z2,=0A=
+      y: Z * (aX * this.m_[0][1] + aY * this.m_[1][1] + this.m_[2][1]) - =
+Z2=0A=
+    }=0A=
+  };=0A=
+=0A=
+  contextPrototype.save =3D function() {=0A=
+    var o =3D {};=0A=
+    copyState(this, o);=0A=
+    this.aStack_.push(o);=0A=
+    this.mStack_.push(this.m_);=0A=
+    this.m_ =3D matrixMultiply(createMatrixIdentity(), this.m_);=0A=
+  };=0A=
+=0A=
+  contextPrototype.restore =3D function() {=0A=
+    copyState(this.aStack_.pop(), this);=0A=
+    this.m_ =3D this.mStack_.pop();=0A=
+  };=0A=
+=0A=
+  contextPrototype.translate =3D function(aX, aY) {=0A=
+    var m1 =3D [=0A=
+      [1,  0,  0],=0A=
+      [0,  1,  0],=0A=
+      [aX, aY, 1]=0A=
+    ];=0A=
+=0A=
+    this.m_ =3D matrixMultiply(m1, this.m_);=0A=
+  };=0A=
+=0A=
+  contextPrototype.rotate =3D function(aRot) {=0A=
+    var c =3D mc(aRot);=0A=
+    var s =3D ms(aRot);=0A=
+=0A=
+    var m1 =3D [=0A=
+      [c,  s, 0],=0A=
+      [-s, c, 0],=0A=
+      [0,  0, 1]=0A=
+    ];=0A=
+=0A=
+    this.m_ =3D matrixMultiply(m1, this.m_);=0A=
+  };=0A=
+=0A=
+  contextPrototype.scale =3D function(aX, aY) {=0A=
+    this.arcScaleX_ *=3D aX;=0A=
+    this.arcScaleY_ *=3D aY;=0A=
+    var m1 =3D [=0A=
+      [aX, 0,  0],=0A=
+      [0,  aY, 0],=0A=
+      [0,  0,  1]=0A=
+    ];=0A=
+=0A=
+    this.m_ =3D matrixMultiply(m1, this.m_);=0A=
+  };=0A=
+=0A=
+  /******** STUBS ********/=0A=
+  contextPrototype.clip =3D function() {=0A=
+    // TODO: Implement=0A=
+  };=0A=
+=0A=
+  contextPrototype.arcTo =3D function() {=0A=
+    // TODO: Implement=0A=
+  };=0A=
+=0A=
+  contextPrototype.createPattern =3D function() {=0A=
+    return new CanvasPattern_;=0A=
+  };=0A=
+=0A=
+  // Gradient / Pattern Stubs=0A=
+  function CanvasGradient_(aType) {=0A=
+    this.type_ =3D aType;=0A=
+    this.radius1_ =3D 0;=0A=
+    this.radius2_ =3D 0;=0A=
+    this.colors_ =3D [];=0A=
+    this.focus_ =3D {x: 0, y: 0};=0A=
+  }=0A=
+=0A=
+  CanvasGradient_.prototype.addColorStop =3D function(aOffset, aColor) {=0A=
+    aColor =3D processStyle(aColor);=0A=
+    this.colors_.push({offset: 1-aOffset, color: aColor});=0A=
+  };=0A=
+=0A=
+  function CanvasPattern_() {}=0A=
+=0A=
+  // set up externs=0A=
+  G_vmlCanvasManager =3D G_vmlCanvasManager_;=0A=
+  CanvasRenderingContext2D =3D CanvasRenderingContext2D_;=0A=
+  CanvasGradient =3D CanvasGradient_;=0A=
+  CanvasPattern =3D CanvasPattern_;=0A=
+=0A=
+})();=0A=
+=0A=
+} // if=0A=
+
+------=_NextPart_000_0013_01CCCC6C.F638BEB0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://os.zju.edu.cn/exercise/javascript/drawing.js
+
+var mouseisdown =3D false;
+var targets =3D new Array();
+var imgs =3D new Array();
+var targetOuts =3D new Array();
+var lines =3D new Array();
+var dots =3D new Array();
+var odots =3D new Array();
+var canvases =3D new Array();
+var drawla =3D new Array();
+var curLine =3D null;
+var dragObj =3D null;
+var oldpointpos =3D null;
+var curTarget =3D null;
+var nocanvaswarning =3D false;
+
+function clearcanvas(tarnum) {
+	lines[tarnum].length =3D 0;
+	dots[tarnum].length =3D 0;
+	odots[tarnum].length =3D 0;
+	curTarget =3D tarnum;
+	drawTarget();
+	curTarget =3D null;
+	curLine =3D null;
+	dragObj =3D null;
+}
+
+function =
+addTarget(tarnum,target,imgpath,formel,xmin,xmax,ymin,ymax,imgborder,imgw=
+idth,imgheight,defmode,dotline) {
+	var tarel =3D document.getElementById(target);
+	var tarpos =3D getPosition(tarel);
+=09
+	targets[tarnum] =3D {el: tarel, left: tarpos.x, top: tarpos.y, width: =
+tarel.offsetWidth, height: tarel.offsetHeight, xmin: xmin, xmax: xmax, =
+ymin: ymin, ymax: ymax, imgborder: imgborder, imgwidth: imgwidth, =
+imgheight: imgheight, mode: defmode, dotline: dotline};
+	targetOuts[tarnum] =3D document.getElementById(formel);
+	if (lines[tarnum]=3D=3Dnull) {lines[tarnum] =3D new Array();}
+	if (dots[tarnum]=3D=3Dnull) {dots[tarnum] =3D new Array();}
+	if (odots[tarnum]=3D=3Dnull) {odots[tarnum] =3D new Array();}
+	imgs[tarnum] =3D new Image();
+	imgs[tarnum].onload =3D function() {
+		var oldcurTarget =3D curTarget;
+		curTarget =3D tarnum;
+		drawTarget();
+		curTarget =3D oldcurTarget;
+	}
+	imgs[tarnum].src =3D imgpath;
+}
+
+function settool(curel,tarnum,mode) {
+	var mydiv =3D document.getElementById("drawtools"+tarnum);
+	var mycel       =3D mydiv.getElementsByTagName("span");
+	for (var i=3D0; i<mycel.length; i++) {
+		mycel[i].className =3D '';
+	}
+	curel.className =3D "sel";
+=09
+	setDrawMode(tarnum,mode);
+}
+function setDrawMode(tarnum,mode) {
+	targets[tarnum].mode =3D mode;
+}
+function setDotLine(tarnum,onoff) {
+	targets[tarnum].dotline =3D onoff;
+}
+
+function drawTarget(x,y) {
+	try {
+		var ctx =3D targets[curTarget].el.getContext('2d');
+	} catch(e) {
+		if (!nocanvaswarning) {
+			nocanvaswarning =3D true;
+			alert("Your browser does not support drawing answer entry.  Please =
+try again using Internet Explorer 6+ (Windows), FireFox 1.5+ (Win/Mac), =
+Safari 1.3+ (Mac), Opera 9+ (Win/Mac), or Camino (Mac)");
+		}
+	}
+	ctx.fillStyle =3D "rgb(0,0,255)";
+	ctx.lineWidth =3D 2;
+	ctx.strokeStyle =3D "rgb(0,0,255)";
+	=
+ctx.clearRect(0,0,targets[curTarget].imgwidth,targets[curTarget].imgheigh=
+t);
+
+	ctx.drawImage(imgs[curTarget],0,0);
+	ctx.beginPath();
+	for (var i=3D0;i<lines[curTarget].length; i++) {
+		for (var j=3D0;j<lines[curTarget][i].length; j++) {
+			if (j=3D=3D0) {
+				ctx.moveTo(lines[curTarget][i][j][0],lines[curTarget][i][j][1]);
+			} else {
+				ctx.lineTo(lines[curTarget][i][j][0],lines[curTarget][i][j][1]);
+			}
+		}
+		if (i=3D=3DcurLine && x!=3Dnull) {
+			ctx.lineTo(x,y);
+		}=20
+	}
+	for (var i=3D0; i<odots[curTarget].length; i++) {
+		ctx.moveTo(odots[curTarget][i][0]+5,odots[curTarget][i][1]);
+		=
+ctx.arc(odots[curTarget][i][0],odots[curTarget][i][1],4,0,Math.PI*2,true)=
+;
+	}
+	ctx.stroke();
+	ctx.beginPath();
+	for (var i=3D0; i<dots[curTarget].length; i++) {
+		ctx.moveTo(dots[curTarget][i][0]+5,dots[curTarget][i][1]);
+		=
+ctx.arc(dots[curTarget][i][0],dots[curTarget][i][1],5,0,Math.PI*2,true);
+	}
+	ctx.fill();
+	if (targets[curTarget].dotline=3D=3Dtrue) {
+		ctx.beginPath();
+		for (var i=3D0;i<lines[curTarget].length; i++) {
+			for (var j=3D0;j<lines[curTarget][i].length; j++) {
+				if ((j=3D=3D0) || Math.pow((lines[curTarget][i][j][0] - =
+lines[curTarget][i][0][0]),2)+Math.pow((lines[curTarget][i][j][1] - =
+lines[curTarget][i][0][1]),2)>25) {
+					ctx.moveTo(lines[curTarget][i][j][0]+5,lines[curTarget][i][j][1]);
+					=
+ctx.arc(lines[curTarget][i][j][0],lines[curTarget][i][j][1],5,0,Math.PI*2=
+,true);
+				}
+			}
+		}
+		ctx.fill();
+	}
+	//ctx.beginPath();
+=09
+=09
+	encodeDraw();
+	//targetOuts[curTarget].value =3D  php_serialize(lines[curTarget]) + =
+';;'+php_serialize(dots[curTarget])+ =
+';;'+php_serialize(odots[curTarget]);
+=09
+}
+
+function encodeDraw() {
+	var out =3D '';
+	for (var i=3D0;i<lines[curTarget].length; i++) {
+		if (i!=3D0) {
+			out +=3D ';';
+		}
+		for (var j=3D0;j<lines[curTarget][i].length; j++) {
+			if (j!=3D0) {
+				out +=3D ',';
+			}=20
+			out +=3D	=
+'('+lines[curTarget][i][j][0]+','+lines[curTarget][i][j][1]+')';
+		=09
+		}
+	}
+	out +=3D ';;';
+	for (var i=3D0; i<dots[curTarget].length; i++) {
+		if (i!=3D0) {
+			out +=3D ',';=09
+		}
+		out +=3D '('+dots[curTarget][i][0]+','+dots[curTarget][i][1]+')';
+	}
+	out +=3D ';;';
+	for (var i=3D0; i<odots[curTarget].length; i++) {
+		if (i!=3D0) {
+			out +=3D ',';=09
+		}
+		out +=3D '('+odots[curTarget][i][0]+','+odots[curTarget][i][1]+')';
+	}
+	targetOuts[curTarget].value =3D out;
+}
+
+function drawMouseDown(ev) {
+	var mousePos =3D mouseCoords(ev);
+	if (curTarget=3D=3Dnull) { //see if mouse click is inside a target; if =
+so, select it
+		for (i in targets) {
+			var tarelpos =3D getPosition(targets[i].el);
+			if (tarelpos.x<mousePos.x && (tarelpos.x+targets[i].width>mousePos.x) =
+&& tarelpos.y<mousePos.y && (tarelpos.y+targets[i].height>mousePos.y)) {
+				curTarget =3D i;
+				break;
+			}
+		}
+	}
+	if (curTarget!=3Dnull) { //is a target currectly in action?
+		mouseisdown =3D true;
+		var tarelpos =3D getPosition(targets[curTarget].el);
+		var mouseOff =3D {x:(mousePos.x - tarelpos.x), y: =
+(mousePos.y-tarelpos.y)};
+		//are we inside target region?
+		if (mouseOff.x>-1 && mouseOff.x<targets[curTarget].width && =
+mouseOff.y>-1 && mouseOff.y<targets[curTarget].height) {
+			//see if current point
+		=09
+			var foundpt =3D findnearpoint(curTarget,mouseOff);
+			if (foundpt=3D=3Dnull) { //not a current point
+				targets[curTarget].el.style.cursor =3D =
+'url('+imasroot+'/img/pendown.cur), default';
+				if (targets[curTarget].mode=3D=3D1) {//if in dot mode
+					dots[curTarget].push([mouseOff.x,mouseOff.y]);
+					dragObj =3D {mode: 1, num: dots[curTarget].length-1};
+					//targets[curTarget].el.style.cursor =3D 'move';
+				} else if (targets[curTarget].mode=3D=3D2) {//if in open dot mode
+					odots[curTarget].push([mouseOff.x,mouseOff.y]);
+					dragObj =3D {mode: 2, num: odots[curTarget].length-1};
+					//targets[curTarget].el.style.cursor =3D 'move';
+				} else if (targets[curTarget].mode=3D=3D0) { //in line mode
+					if (curLine=3D=3Dnull) { //start new line
+						lines[curTarget].push([[mouseOff.x,mouseOff.y]]);
+						curLine =3D lines[curTarget].length-1;
+					} else {//in existing line
+						lines[curTarget][curLine].push([mouseOff.x,mouseOff.y]);
+					}
+				}
+			} else { //clicked on current point
+				if (foundpt[0]=3D=3D0) { //if point is on line
+					if (curLine=3D=3Dnull) {//not current in line
+						targets[curTarget].el.style.cursor =3D 'move';
+						//start dragging
+						dragObj =3D {mode: 0, num: foundpt[1], subnum: foundpt[2]};
+						oldpointpos =3D lines[curTarget][foundpt[1]][foundpt[2]];
+						if (foundpt[2] =3D=3D lines[curTarget][foundpt[1]].length-1) {
+							//if last point in line, continue line too
+							curLine =3D foundpt[1];
+						} else if (foundpt[2] =3D=3D 0) {
+							curLine =3D foundpt[1];
+							lines[curTarget][curLine].reverse();
+							dragObj.subnum =3D lines[curTarget][curLine].length-1;
+						}
+					} else { //already in line
+						if (foundpt[1]=3D=3DcurLine && foundpt[2] =3D=3D =
+lines[curTarget][foundpt[1]].length-1) {
+							//clicked last point; end line
+							if (lines[curTarget][curLine].length<2) {
+								lines[curTarget].splice(curLine,1);
+							}
+							curLine =3D null;
+						} else {
+							//if (foundpt[1]!=3DcurLine) { //so long as point is not on =
+current line, add it
+								targets[curTarget].el.style.cursor =3D =
+'url('+imasroot+'/img/pendown.cur), default';
+								lines[curTarget][curLine].push([mouseOff.x,mouseOff.y]);
+							//}
+						}
+					}
+				} else if (foundpt[0]=3D=3D1) { //if point is a dot
+					targets[curTarget].el.style.cursor =3D 'move';
+					dragObj =3D {mode: 1, num: foundpt[1]};
+				} else if (foundpt[0]=3D=3D2) { //if point is a open dot
+					targets[curTarget].el.style.cursor =3D 'move';
+					dragObj =3D {mode: 2, num: foundpt[1]};
+				}
+			=09
+			}
+			drawTarget();
+		} else {  //clicked outside currect target region
+			if (curLine!=3Dnull) {
+				if (lines[curTarget][curLine].length<2) {
+					lines[curTarget].splice(curLine,1);
+				}
+				targets[curTarget].el.style.cursor =3D =
+'url('+imasroot+'/img/pen.cur), default';
+			}
+			curLine =3D null;
+			dragObj =3D null;
+			drawTarget();
+			curTarget =3D null;
+		=09
+		}
+	}	=09
+}
+
+function findnearpoint(thetarget,mouseOff) {
+	if (targets[thetarget].mode=3D=3D0) { //if in line mode
+		for (var i=3D0;i<lines[thetarget].length;i++) { //check lines
+			for (var j=3Dlines[thetarget][i].length-1; j>=3D0;j--) {
+				var dist =3D Math.pow(lines[thetarget][i][j][0]-mouseOff.x,2) + =
+Math.pow(lines[thetarget][i][j][1]-mouseOff.y,2);
+				if (dist<25) {
+					return [0,i,j];
+				}
+			}
+		}
+	} else if (targets[thetarget].mode=3D=3D1) {
+		for (var i=3D0; i<dots[thetarget].length;i++) { //check dots
+			if (Math.pow(dots[thetarget][i][0]-mouseOff.x,2) + =
+Math.pow(dots[thetarget][i][1]-mouseOff.y,2)<25) {
+				return [1,i];
+			}
+		}
+	} else if (targets[thetarget].mode=3D=3D2) {
+		for (var i=3D0; i<odots[thetarget].length;i++) { //check opendots
+			if (Math.pow(odots[thetarget][i][0]-mouseOff.x,2) + =
+Math.pow(odots[thetarget][i][1]-mouseOff.y,2)<25) {
+				return [2,i];
+			}
+		}
+	}=20
+	return null;=09
+}
+
+var lastdrawmouseup =3D null;
+function drawMouseUp(ev) {
+	var mousePos =3D mouseCoords(ev);
+	mouseisdown =3D false;
+	if (curTarget!=3Dnull) {
+		if (lastdrawmouseup!=3Dnull && mousePos.x=3D=3Dlastdrawmouseup.x && =
+mousePos.y=3D=3Dlastdrawmouseup.y) {
+			//basically a double-click which IE can handle
+			if (curLine!=3Dnull && dragObj=3D=3Dnull) {
+				if (lines[curTarget][curLine].length<2) {
+					lines[curTarget].splice(curLine,1);
+				}
+				curLine =3D null;
+				dragObj =3D null;
+				drawTarget();
+			}
+		}
+		if (curLine=3D=3Dnull) {
+			targets[curTarget].el.style.cursor =3D 'move';
+		} else {
+			targets[curTarget].el.style.cursor =3D =
+'url('+imasroot+'/img/pen.cur), default';
+		}
+	}
+	lastdrawmouseup =3D mousePos;
+	if (curTarget!=3Dnull && dragObj!=3Dnull) { //is a target currectly in =
+action, and dragging
+		var tarelpos =3D getPosition(targets[curTarget].el);
+		var mouseOff =3D {x:(mousePos.x - tarelpos.x), y: =
+(mousePos.y-tarelpos.y)};
+		//are we inside target region?
+		if (mouseOff.x>-1 && mouseOff.x<targets[curTarget].width && =
+mouseOff.y>-1 && mouseOff.y<targets[curTarget].height) {
+			dragObj =3D null;
+		} else {
+			if (dragObj.mode=3D=3D1) { //if dot, delete dot
+				dots[curTarget].splice(dragObj.num,1);
+			} else if (dragObj.mode=3D=3D2) { //if open dot, delete dot
+				odots[curTarget].splice(dragObj.num,1);
+			} else if (dragObj.mode=3D=3D0) { //if line, return pt to orig pos
+				lines[curTarget][dragObj.num][dragObj.subnum] =3D oldpointpos;
+			}
+			dragObj =3D null;
+			drawTarget();
+		}
+	}
+}
+
+function drawMouseMove(ev) {
+	var tempTarget =3D null;
+	var mousePos =3D mouseCoords(ev);
+=09
+	if (curTarget=3D=3Dnull) {
+		for (i in targets) {
+			var tarelpos =3D getPosition(targets[i].el);
+			if (tarelpos.x<mousePos.x && (tarelpos.x+targets[i].width>mousePos.x) =
+&& tarelpos.y<mousePos.y && (tarelpos.y+targets[i].height>mousePos.y)) {
+				tempTarget =3D i;
+				break;
+			}
+		}
+	}
+	if (tempTarget!=3Dnull) {
+		var tarelpos =3D getPosition(targets[tempTarget].el);
+		var mouseOff =3D {x:(mousePos.x - tarelpos.x), y: =
+(mousePos.y-tarelpos.y)};
+		if (mouseOff.x>-1 && mouseOff.x<targets[tempTarget].width && =
+mouseOff.y>-1 && mouseOff.y<targets[tempTarget].height) {
+			if (dragObj=3D=3Dnull) {
+				if (curLine=3D=3Dnull) {
+					var foundpt =3D findnearpoint(tempTarget,mouseOff);
+					if (foundpt=3D=3Dnull) {
+						targets[tempTarget].el.style.cursor =3D =
+'url('+imasroot+'/img/pen.cur), default';
+					} else {
+						targets[tempTarget].el.style.cursor =3D 'move';
+					}
+				}
+			}
+		}
+	}
+	if (curTarget!=3Dnull) {
+		var tarelpos =3D getPosition(targets[curTarget].el);
+		var mouseOff =3D {x:(mousePos.x - tarelpos.x), y: =
+(mousePos.y-tarelpos.y)};
+		//are we inside target region?
+		if (mouseOff.x>-1 && mouseOff.x<targets[curTarget].width && =
+mouseOff.y>-1 && mouseOff.y<targets[curTarget].height) {
+			if (dragObj=3D=3Dnull) { //notdragging
+				if (curLine!=3Dnull) {
+					if (mouseisdown) {
+						var last =3D lines[curTarget][curLine].length-1;
+						var dist =3D =
+Math.pow(lines[curTarget][curLine][last][0]-mouseOff.x,2) + =
+Math.pow(lines[curTarget][curLine][last][1]-mouseOff.y,2);
+						//add point to line
+						if (dist>25) {
+							lines[curTarget][curLine].push([mouseOff.x,mouseOff.y]);
+							drawTarget();
+						} else {
+							drawTarget(mouseOff.x,mouseOff.y);
+						}
+					} else {
+						//draw temp line
+						drawTarget(mouseOff.x,mouseOff.y);
+					}
+				} else { //see if we're near a point
+					var foundpt =3D findnearpoint(curTarget,mouseOff);
+					if (foundpt=3D=3Dnull) {
+						targets[curTarget].el.style.cursor =3D =
+'url('+imasroot+'/img/pen.cur), default';
+					} else {
+						targets[curTarget].el.style.cursor =3D 'move';
+					}
+				}
+			} else { //dragging
+				targets[curTarget].el.style.cursor =3D 'move';
+				if (dragObj.mode=3D=3D0) {
+					lines[curTarget][dragObj.num][dragObj.subnum] =3D =
+[mouseOff.x,mouseOff.y];
+				} else if (dragObj.mode=3D=3D1) {
+					dots[curTarget][dragObj.num] =3D [mouseOff.x,mouseOff.y];
+				} else if (dragObj.mode=3D=3D2) {
+					odots[curTarget][dragObj.num] =3D [mouseOff.x,mouseOff.y];
+				}
+				drawTarget();
+			}
+			return false;
+		}
+	}
+}
+
+function mouseCoords(ev){
+=09
+	ev =3D ev || window.event;
+=09
+	if(ev.pageX || ev.pageY){
+		return {x:ev.pageX, y:ev.pageY};
+	}
+=09
+	var dd =3D document.documentElement, db =3D document.body;
+	if (dd && (dd.scrollTop || dd.scrollLeft)) {
+		var SL =3D dd.scrollLeft;
+		var ST =3D dd.scrollTop;
+	} else if (db) {
+		var SL =3D db.scrollLeft;
+		var ST =3D db.scrollTop;
+	} else {
+		var SL =3D 0;
+		var ST =3D 0;
+	}
+		=09
+	return {
+		x:ev.clientX + SL,
+		y:ev.clientY + ST
+	};
+=09
+}
+function getMouseOffset(target, ev){
+
+	var docPos    =3D getPosition(target);
+	var mousePos  =3D mouseCoords(ev);
+	return {x:mousePos.x - docPos.x, y:mousePos.y - docPos.y};
+}
+
+function getPosition(e){
+	var left =3D 0;
+	var top  =3D 0;
+
+	if (e.getBoundingClientRect) {
+		var box =3D e.getBoundingClientRect();
+		var scrollTop =3D Math.max(document.documentElement.scrollTop, =
+document.body.scrollTop);
+                var scrollLeft =3D =
+Math.max(document.documentElement.scrollLeft, document.body.scrollLeft);
+                return {x: box.left + scrollLeft, y: box.top + =
+scrollTop};
+	}
+	while (e.offsetParent){
+		left +=3D e.offsetLeft;
+		top  +=3D e.offsetTop;
+		e     =3D e.offsetParent;
+	}
+=09
+	left +=3D e.offsetLeft;
+	top  +=3D e.offsetTop;
+
+	return {x:left, y:top};
+}
+
+function initCanvases() {
+	for (var i=3D0;i<canvases.length;i++) {
+		if (drawla[i]!=3Dnull && drawla[i].length=3D=3D3) {
+			lines[canvases[i][0]] =3D drawla[i][0];
+			dots[canvases[i][0]] =3D drawla[i][1];
+			odots[canvases[i][0]] =3D drawla[i][2];
+		}
+		=
+addTarget(canvases[i][0],'canvas'+canvases[i][0],imasroot+'/filter/graph/=
+imgs/'+canvases[i][1],'qn'+canvases[i][0],canvases[i][2],canvases[i][3],c=
+anvases[i][4],canvases[i][5],canvases[i][6],canvases[i][7],canvases[i][8]=
+,canvases[i][9],canvases[i][10]);
+	}
+}
+
+document.onmousedown =3D  drawMouseDown;
+document.onmouseup =3D  drawMouseUp;
+document.onmousemove =3D drawMouseMove;
+
+if (typeof(initstack)!=3D'undefined') {
+	initstack.push(initCanvases);
+} else {
+// GO1.1 Generic onload by Brothercake=20
+// http://www.brothercake.com/
+//setup onload function
+if(typeof window.addEventListener !=3D 'undefined')
+{
+  //.. gecko, safari, konqueror and standard
+  window.addEventListener('load', initCanvases, false);
+}
+else if(typeof document.addEventListener !=3D 'undefined')
+{
+  //.. opera 7
+  document.addEventListener('load', initCanvases, false);
+}
+else if(typeof window.attachEvent !=3D 'undefined')
+{
+  //.. win/ie
+  window.attachEvent('onload', initCanvases);
+}
+//** remove this condition to degrade older browsers
+else
+{
+  //.. mac/ie5 and anything else that gets this far
+  //if there's an existing onload function
+  if(typeof window.onload =3D=3D 'function')
+  {
+    //store it
+    var existing =3D onload;
+    //add new onload handler
+    window.onload =3D function()
+    {
+      //call existing onload function
+      existing();
+      //call generic onload function
+      initCanvases();
+    };
+  }
+  else
+  {
+    //setup onload function
+    window.onload =3D initCanvases;
+  }
+}
+}
+
+
+------=_NextPart_000_0013_01CCCC6C.F638BEB0--
